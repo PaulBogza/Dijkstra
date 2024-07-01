@@ -1,5 +1,5 @@
 #include <iostream>
-#include "dykstra.hpp"
+#include "dijkstra.hpp"
 #include "node.hpp"
 
 void findPath(Node *start, Node *dest){
