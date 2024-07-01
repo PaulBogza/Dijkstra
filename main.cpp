@@ -1,5 +1,5 @@
 #include <iostream>
-#include "classes/dykstra.hpp"
+#include "classes/dijkstra.hpp"
 #include "classes/node.hpp"
 
 int main(int argc, char* argv[]){
@@ -11,6 +11,7 @@ int main(int argc, char* argv[]){
 
     Node *start = new Node;
     start->name = argv[2];
+    start->weight = 0;
 
     Node *dest = new Node;
     dest->name = argv[3];

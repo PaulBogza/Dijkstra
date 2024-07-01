@@ -1,5 +1,5 @@
-#ifndef dykstra
-#define dykstra
+#ifndef dijkstra
+#define dijkstra
 
 #include "node.hpp"
 
