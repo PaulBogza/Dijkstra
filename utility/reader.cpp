@@ -5,21 +5,30 @@
 #include <fstream>
 #include "reader.hpp"
 
-std::map<std::string, std::vector<Node>>* readFile(std::string stops){
-    std::map <std::string, std::vector<Node>> *graph = new std::map<std::string, std::vector<Node>>;
+void parseLine(int counter, std::string line){
+    std::string lineDelimiter = ":";
+    std::string weightDelimiter = " ";
 
+    
+}
+
+void createGraph(std::map<std::string, std::vector<Node>> *graph, std::string stops){
+    std::string line;
     std::ifstream myFile;
     myFile.open(stops);
 
     if(myFile.is_open()){
-        std::string line;
-        getline(myFile, line);
-        std::cout << line << "\n";
-        myFile.close();
+        int counter = 0;
+        while(!myFile.eof){
+            getline(myFile, line);
+            std::cout << line << "\n";
+            parseLine(counter, line);
+            counter++;
+        }
     }
     else{
         std::cout << "Could not open file \n";
-    } 
+    }
 
-    return graph;
+    myFile.close();
 }

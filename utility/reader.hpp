@@ -6,6 +6,7 @@
 #include <string>
 #include <vector>
 
-std::map<std::string, std::vector<Node>>* readFile(std::string);
+void createGraph(std::map<std::string, std::vector<Node>>*, std::string);
+void parseLine(int, std::string);
 
 #endif

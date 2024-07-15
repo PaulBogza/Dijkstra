@@ -13,8 +13,8 @@ int main(int argc, char* argv[]){
         return 1;
     }
 
-    std::map<std::string, std::vector<Node>> *graph;
-    graph = readFile(argv[1]);
+    std::map<std::string, std::vector<Node>> *graph  = new std::map<std::string, std::vector<Node>>;
+    createGraph(graph, argv[1]);
 
     Node *start = new Node;
     start->name = argv[2];
