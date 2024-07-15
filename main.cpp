@@ -1,6 +1,10 @@
 #include <iostream>
+#include <map>
+#include <string>
+#include <vector>
 #include "classes/dijkstra.hpp"
 #include "classes/node.hpp"
+#include "utility/reader.hpp"
 
 int main(int argc, char* argv[]){
     
@@ -9,6 +13,9 @@ int main(int argc, char* argv[]){
         return 1;
     }
 
+    std::map<std::string, std::vector<Node>> *graph;
+    graph = readFile(argv[1]);
+
     Node *start = new Node;
     start->name = argv[2];
     start->weight = 0;
@@ -16,11 +23,11 @@ int main(int argc, char* argv[]){
     Node *dest = new Node;
     dest->name = argv[3];
 
-    findPath(start, dest);
-
+    findPath(graph, start, dest);
 
     delete(start);
     delete(dest);
+    delete(graph);
 
     return 0;
 }

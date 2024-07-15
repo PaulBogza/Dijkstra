@@ -2,6 +2,6 @@
 #include "dijkstra.hpp"
 #include "node.hpp"
 
-void findPath(Node *start, Node *dest){
+void findPath(std::map<std::string, std::vector<Node>> *graph , Node *start, Node *dest){
 
 }
