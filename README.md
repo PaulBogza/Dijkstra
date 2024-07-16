@@ -1,3 +1,3 @@
-# Dykstra
+# Dijkstra
 
-Dysktra's algorhitm in C++
+Dijsktra's algorhitm in C++
