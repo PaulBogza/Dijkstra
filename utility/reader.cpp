@@ -5,11 +5,39 @@
 #include <fstream>
 #include "reader.hpp"
 
-void parseLine(int counter, std::string line){
+void parseAndAdd(int counter, std::string line, std::map<std::string, std::vector<Node>> *graph){
+    std::vector<Node> tempVector;
+    Node tempNode;
     std::string lineDelimiter = ":";
-    std::string weightDelimiter = " ";
+    std::string stationDelimiter = "\"";
+    std::string lineName = "NULL";
+    std::string stationName = "NULL";
+    std::string tempWeight = "NULL";
+    std::string::size_type sz;
 
-    
+
+    while(!line.empty()){
+        std::cout << line << std::endl;
+        //split string for train number e.g U1, U2 etc. and then erase it
+        lineName = line.substr(0, line.find(lineDelimiter));
+        line.erase(0, line.find(lineDelimiter) + lineDelimiter.length());
+
+        //split string for station name e.g Leopoldau etc. and then erase it
+        stationName = line.substr(0, line.find(stationDelimiter));
+        stationName = stationName.substr(1, stationName.size()-2);
+        line.erase(0, line.find(stationDelimiter) + stationDelimiter.length());
+
+        //split string for edge weight and then erase it
+        tempWeight = line.substr(0, line.find(stationDelimiter));
+        int weight = std::stoi(tempWeight, &sz);
+        line.erase(0, line.find(stationDelimiter) + stationDelimiter.length());
+
+        tempNode.name = stationName;
+        tempNode.weight = weight;
+
+        tempVector.push_back(tempNode);
+    }
+    graph->insert({lineName, tempVector});
 }
 
 void createGraph(std::map<std::string, std::vector<Node>> *graph, std::string stops){
@@ -19,12 +47,12 @@ void createGraph(std::map<std::string, std::vector<Node>> *graph, std::string st
 
     if(myFile.is_open()){
         int counter = 0;
-        while(!myFile.eof){
+        //while(!myFile.eof()){
             getline(myFile, line);
-            std::cout << line << "\n";
-            parseLine(counter, line);
+            //std::cout << line << "\n";
+            parseAndAdd(counter, line, graph);
             counter++;
-        }
+        //}
     }
     else{
         std::cout << "Could not open file \n";

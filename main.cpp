@@ -25,8 +25,16 @@ int main(int argc, char* argv[]){
 
     findPath(graph, start, dest);
 
+    if(graph->count("U1")){
+        std::cout << "true" << std::endl;
+    }
+    else{
+        std::cout << "false" << std::endl;
+    }
+
     delete(start);
     delete(dest);
+    //TODO: iterate through graph to delete all data structures
     delete(graph);
 
     return 0;
