@@ -1,7 +1,7 @@
 #ifndef reader
 #define reader 
 
-#include "../classes/node.hpp"
+#include "../include/node.hpp"
 #include <map>
 #include <string>
 #include <vector>

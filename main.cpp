@@ -2,9 +2,9 @@
 #include <map>
 #include <string>
 #include <vector>
-#include "classes/dijkstra.hpp"
-#include "classes/node.hpp"
-#include "utility/reader.hpp"
+#include "include/dijkstra.hpp"
+#include "include/node.hpp"
+#include "include/parser.hpp"
 
 int main(int argc, char* argv[]){
     
