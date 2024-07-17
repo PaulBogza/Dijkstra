@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 #include <fstream>
-#include "reader.hpp"
+#include "../utility/reader.hpp"
 
 void parseAndAdd(int counter, std::string line, std::map<std::string, std::vector<Node>> *graph){
     std::vector<Node> tempVector;
