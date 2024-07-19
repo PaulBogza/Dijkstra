@@ -25,7 +25,7 @@ int main(int argc, char* argv[]){
 
     findPath(graph, start, dest);
 
-    if(graph->count("U1")){
+    if(graph->count("U3")){
         std::cout << "true" << std::endl;
     }
     else{
@@ -34,7 +34,6 @@ int main(int argc, char* argv[]){
 
     delete(start);
     delete(dest);
-    //TODO: iterate through graph to delete all data structures
     delete(graph);
 
     return 0;

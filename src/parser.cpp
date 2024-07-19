@@ -25,7 +25,6 @@ void parseAndAdd(int counter, std::string line, std::map<std::string, std::vecto
         stationName = line.substr(0, line.find(stationDelimiter));
         line.erase(0, line.find(stationDelimiter) + stationDelimiter.length()+1);
         tempNode.name = stationName; 
-        std::cout << line << std::endl;
 
         if(!line.empty()){
             //split string for edge weight and then erase it
@@ -47,12 +46,11 @@ void createGraph(std::map<std::string, std::vector<Node>> *graph, std::string st
 
     if(myFile.is_open()){
         int counter = 0;
-        //while(!myFile.eof()){
+        while(!myFile.eof()){
             getline(myFile, line);
-            //std::cout << line << "\n";
             parseAndAdd(counter, line, graph);
             counter++;
-        //}
+        }
     }
     else{
         std::cout << "Could not open file \n";
