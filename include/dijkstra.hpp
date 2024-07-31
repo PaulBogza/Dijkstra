@@ -6,6 +6,6 @@
 #include <vector>
 #include "node.hpp"
 
-void findPath(std::map<std::string, std::vector<Node>>*, Node*, Node*);
+std::vector<Node>* findPath(std::map<std::string, std::vector<Node>>*, Node*, Node*);
 
 #endif

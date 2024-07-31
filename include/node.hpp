@@ -5,7 +5,7 @@
 
 struct Node{
     bool visited = false;
-    std::string name;
+    std::string name = "NULL";
     int weight = 999;
 };
 

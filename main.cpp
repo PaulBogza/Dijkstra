@@ -3,7 +3,6 @@
 #include <string>
 #include <vector>
 #include "include/dijkstra.hpp"
-#include "include/node.hpp"
 #include "include/parser.hpp"
 
 int main(int argc, char* argv[]){
@@ -13,36 +12,24 @@ int main(int argc, char* argv[]){
         return 1;
     }
 
+    //Create hashmap to find names of stations in graph instantly
     std::map<std::string, std::vector<Node>> *graph  = new std::map<std::string, std::vector<Node>>;
-    std::map<std::string, std::vector<Node>>::iterator it;
-    std::vector<Node>::iterator i;
 
     createGraph(graph, argv[1]);
 
     Node *start = new Node;
     start->name = argv[2];
-    start->weight = 0;
+    start->visited = true;
 
     Node *dest = new Node;
     dest->name = argv[3];
 
-    findPath(graph, start, dest);
-
-    if(graph->count("U3")){
-        for(it = graph->begin(); it != graph->end(); it++){
-            std::cout   << it->first << ":" << std::endl;
-            for(i = it->second.begin(); i != it->second.end(); i++){
-                std::cout << i->name << std::endl;
-            }
-        }
-    }
-    else{
-        std::cout << "false" << std::endl;
-    }
+    std::vector<Node> *path = findPath(graph, start, dest);
 
     delete(start);
     delete(dest);
     delete(graph);
+    delete(path);
 
     return 0;
 }
