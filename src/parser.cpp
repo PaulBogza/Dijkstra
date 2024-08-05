@@ -1,12 +1,11 @@
 #include <iostream>
-#include <map>
+#include <unordered_map>
 #include <string>
 #include <vector>
 #include <fstream>
 #include "../include/parser.hpp"
 
-void parseAndAdd(std::string line, std::map<std::string, std::vector<Node>> *graph){
-    std::vector<Node> tempVector;
+void parseAndAdd(std::string line, std::unordered_map<std::string, Node> *graph){
     Node tempNode;
     std::string lineDelimiter = ": ";
     std::string stationDelimiter = "\"";
@@ -29,13 +28,13 @@ void parseAndAdd(std::string line, std::map<std::string, std::vector<Node>> *gra
             line.erase(0, line.find(weightDelimiter) + weightDelimiter.length()+1);
         }
         tempNode.name = stationName;
-        tempNode.weight = weight;
-        tempVector.push_back(tempNode);
+        tempNode.next.weight = weight;
+        auto pair = std::make_pair(lineName, tempNode);
+        graph->insert(pair);
     }
-    graph->insert({lineName, tempVector});
 }
 
-void createGraph(std::map<std::string, std::vector<Node>> *graph, std::string stops){
+void createGraph(std::unordered_map<std::string, Node> *graph, std::string stops){
     std::string line;
     std::ifstream myFile;
     myFile.open(stops);

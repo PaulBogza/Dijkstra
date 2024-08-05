@@ -1,5 +1,5 @@
 #include <iostream>
-#include <map>
+#include <unordered_map>
 #include <string>
 #include <vector>
 #include "include/dijkstra.hpp"
@@ -13,7 +13,7 @@ int main(int argc, char* argv[]){
     }
 
     //Create hashmap to find names of stations in graph instantly
-    std::map<std::string, std::vector<Node>> *graph  = new std::map<std::string, std::vector<Node>>;
+    std::unordered_map<std::string, Node> *graph  = new std::unordered_map<std::string, Node>;
 
     createGraph(graph, argv[1]);
 

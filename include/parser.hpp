@@ -2,11 +2,11 @@
 #define reader 
 
 #include "node.hpp"
-#include <map>
+#include <unordered_map>
 #include <string>
 #include <vector>
 
-void createGraph(std::map<std::string, std::vector<Node>>*, std::string);
-void parseAndAdd(std::string, std::map<std::string, std::vector<Node>>*);
+void createGraph(std::unordered_map<std::string, Node>*, std::string);
+void parseAndAdd(std::string, std::unordered_map<std::string, Node>*);
 
 #endif

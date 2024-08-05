@@ -3,10 +3,17 @@
 
 #include <string>
 
+struct Edge;
+
 struct Node{
     bool visited = false;
     std::string name = "NULL";
+    Edge next;
+};
+
+struct Edge{
     int weight = 999;
+    Node *neighbour = nullptr;
 };
 
 #endif
