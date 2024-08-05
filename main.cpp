@@ -13,7 +13,7 @@ int main(int argc, char* argv[]){
     }
 
     //Create hashmap to find names of stations in graph instantly
-    std::unordered_map<std::string, Node> *graph  = new std::unordered_map<std::string, Node>;
+    std::unordered_multimap<std::string, Node> *graph  = new std::unordered_multimap<std::string, Node>;
 
     createGraph(graph, argv[1]);
 

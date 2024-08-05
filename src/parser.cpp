@@ -5,7 +5,7 @@
 #include <fstream>
 #include "../include/parser.hpp"
 
-void parseAndAdd(std::string line, std::unordered_map<std::string, Node> *graph){
+void parseAndAdd(std::string line, std::unordered_multimap<std::string, Node> *graph){
     Node tempNode;
     std::string lineDelimiter = ": ";
     std::string stationDelimiter = "\"";
@@ -28,13 +28,13 @@ void parseAndAdd(std::string line, std::unordered_map<std::string, Node> *graph)
             line.erase(0, line.find(weightDelimiter) + weightDelimiter.length()+1);
         }
         tempNode.name = stationName;
-        tempNode.next.weight = weight;
+        tempNode.edge.weight = weight;
         auto pair = std::make_pair(lineName, tempNode);
         graph->insert(pair);
     }
 }
 
-void createGraph(std::unordered_map<std::string, Node> *graph, std::string stops){
+void createGraph(std::unordered_multimap<std::string, Node> *graph, std::string stops){
     std::string line;
     std::ifstream myFile;
     myFile.open(stops);
