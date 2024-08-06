@@ -5,8 +5,23 @@
 #include <fstream>
 #include "../include/parser.hpp"
 
-void parseAndAdd(std::string line, std::unordered_multimap<std::string, Node> *graph){
-    Node tempNode;
+Node* createNode(std::string stationName, int weight){
+    Node *newNode = new Node;
+    Edge *nextEdge = new Edge;
+    Edge *prevEdge = new Edge;
+
+    newNode->next = nextEdge;
+    newNode->prev = prevEdge;
+
+    newNode->name = stationName;
+    newNode->next->weight = weight;
+
+    return newNode;
+}
+
+void parseAndAdd(std::string line, std::unordered_multimap<std::string, Node*> *graph){
+    Node *currentNode = nullptr;
+    Node *prevNode = nullptr;
     std::string lineDelimiter = ": ";
     std::string stationDelimiter = "\"";
     std::string weightDelimiter = " ";
@@ -27,14 +42,28 @@ void parseAndAdd(std::string line, std::unordered_multimap<std::string, Node> *g
             weight = std::stoi(tempWeight);
             line.erase(0, line.find(weightDelimiter) + weightDelimiter.length()+1);
         }
-        tempNode.name = stationName;
-        tempNode.edge.weight = weight;
-        auto pair = std::make_pair(lineName, tempNode);
+
+        currentNode = createNode(stationName, weight);
+        auto pair = std::make_pair(lineName, currentNode);
+
+        if(prevNode != nullptr){
+            prevNode->next->neighbour = currentNode;
+            currentNode->prev->weight = prevNode->next->weight;
+            currentNode->prev->neighbour = prevNode;
+        }
+        prevNode = currentNode;
+        currentNode = nullptr;
+        
         graph->insert(pair);
+    }
+
+    if(line.empty()){
+        prevNode = nullptr;
+        currentNode = nullptr;
     }
 }
 
-void createGraph(std::unordered_multimap<std::string, Node> *graph, std::string stops){
+void createGraph(std::unordered_multimap<std::string, Node*> *graph, std::string stops){
     std::string line;
     std::ifstream myFile;
     myFile.open(stops);
