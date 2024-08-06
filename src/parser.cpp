@@ -56,11 +56,8 @@ void parseAndAdd(std::string line, std::unordered_multimap<std::string, Node*> *
         
         graph->insert(pair);
     }
-
-    if(line.empty()){
-        prevNode = nullptr;
-        currentNode = nullptr;
-    }
+    prevNode = nullptr;
+    currentNode = nullptr;
 }
 
 void createGraph(std::unordered_multimap<std::string, Node*> *graph, std::string stops){
