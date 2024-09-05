@@ -9,7 +9,7 @@ std::vector<Node>* findPath(std::unordered_multimap<std::string, Node*> *graph, 
 
     if(graph != nullptr){
         for(i = graph->begin(); i != graph->end(); i++){
-            std::cout << i->first +": "+ i->second->name << std::endl;
+            std::cout << i->first +": "+ i->second->name << " next stop: "<< i->second->next->neighbour->name << std::endl;
         }
     }
 

@@ -8,8 +8,8 @@ struct Edge;
 struct Node{
     bool visited = false;
     std::string name = "NULL";
-    Edge *next;
-    Edge *prev;
+    Edge *next = nullptr;
+    Edge *prev = nullptr;
 };
 
 struct Edge{
