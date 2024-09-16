@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceFolder}/bin/main",
-            "args": ["stops.txt", "start", "dest"],
+            "args": ["stops.txt", "Westbahnhof", "Kendlerstrasse"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],

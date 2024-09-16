@@ -25,16 +25,15 @@ int main(int argc, char* argv[]){
     dest->name = argv[3];
 
     std::vector<Node> *path = findPath(graph, start, dest);
-
-
+    
     if(graph != nullptr){
-        for(std::unordered_multimap<std::string, Node*>::iterator i = graph->begin(); i != graph->end(); i++){
+        for(auto i = graph->begin(); i != graph->end(); i++){
             delete(i->second);
             delete(i->second->next);
             delete(i->second->prev);
         }
     }
-
+    
     delete(start);
     delete(dest);
     delete(graph);

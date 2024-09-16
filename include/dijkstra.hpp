@@ -6,6 +6,6 @@
 #include <vector>
 #include "node.hpp"
 
-std::vector<Node>* findPath(std::unordered_multimap<std::string, Node*>*, Node*, Node*);
+std::vector<Node>* findPath(const std::unordered_multimap<std::string, Node*>*, const Node*, const Node*);
 
 #endif
