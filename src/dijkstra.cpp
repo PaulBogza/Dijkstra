@@ -8,15 +8,27 @@ std::vector<Node>* findPath(const std::unordered_multimap<std::string, Node*> *g
     //std::vector<Node> *visitedNodes = new std::vector<Node>;
     std::vector<Node> *path = new std::vector<Node>;
     Node currentNode = *start;
+    Node startingNode = *start;
     int distance = 0;
 
+    //check if starting node is in the graph
     if(!unvisitedNodes.empty()){
         for(auto i = unvisitedNodes.begin(); i != unvisitedNodes.end(); i++){
-            if(i->second->name == currentNode.name){
+            if(i->second->name == start->name){
                 currentNode = *i->second;
-                std::cout << &currentNode << " " << i->second << std::endl;
+                startingNode = *i->second;
                 break;
             }
+            else{
+                return path; 
+            }
+        }
+    }
+
+    //find shortest path
+    if(!unvisitedNodes.empty()){
+        for(auto i = unvisitedNodes.begin(); i != unvisitedNodes.end(); i++){
+            
         }
     }
 
@@ -26,6 +38,5 @@ std::vector<Node>* findPath(const std::unordered_multimap<std::string, Node*> *g
     }
     */
 
-    //delete(visitedNodes);
     return path;
 }

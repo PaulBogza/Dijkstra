@@ -25,7 +25,11 @@ int main(int argc, char* argv[]){
     dest->name = argv[3];
 
     std::vector<Node> *path = findPath(graph, start, dest);
-    
+    if(path->empty()){
+        std::cout << "No path could be found" << std::endl;
+        return 1;
+    }
+
     if(graph != nullptr){
         for(auto i = graph->begin(); i != graph->end(); i++){
             delete(i->second);
