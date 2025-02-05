@@ -7,18 +7,14 @@
 
 Node* createNode(std::string stationName, int weight){
     Node *newNode = new Node;
-    Edge *nextEdge = new Edge;
-    Edge *prevEdge = new Edge;
     Node *nextNeighbour = new Node;
     Node *prevNeighbour = new Node;
 
-    newNode->next = nextEdge;
-    newNode->prev = prevEdge;
-    newNode->next->neighbour = nextNeighbour;
-    newNode->prev->neighbour = prevNeighbour;
+    newNode->next = nextNeighbour;
+    newNode->prev = prevNeighbour;
 
     newNode->name = stationName;
-    newNode->next->weight = weight;
+    newNode->weight = weight;
 
     return newNode;
 }

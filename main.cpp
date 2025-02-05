@@ -24,11 +24,7 @@ int main(int argc, char* argv[]){
     Node *dest = new Node;
     dest->name = argv[3];
 
-    std::vector<Node> *path = findPath(graph, start, dest);
-    if(path->empty()){
-        std::cout << "No path could be found" << std::endl;
-        return 1;
-    }
+    std::tuple<std::vector<Node>, int> result = findPath(graph, start, dest);
 
     if(graph != nullptr){
         for(auto i = graph->begin(); i != graph->end(); i++){
@@ -41,7 +37,12 @@ int main(int argc, char* argv[]){
     delete(start);
     delete(dest);
     delete(graph);
-    delete(path);
+    delete(result);
+
+    if(result->empty()){
+        std::cout << "No path could be found" << std::endl;
+        return 1;
+    }
 
     return 0;
 }
