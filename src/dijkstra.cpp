@@ -27,14 +27,14 @@ std::tuple<std::vector<Node>, int> findPath(const std::unordered_multimap<std::s
             }
         }
         //find shortest path
-        
+
     }
 
-    /*
-    if(unvisitedNodes->empty() || (currentNode->next->neighbour == nullptr && currentNode->prev->neighbour == nullptr)){
+    
+    if(unvisitedNodes->empty() || (currentNode->next == nullptr && currentNode->prev == nullptr)){
         throw std::exception();
     }
-    */
+    
 
     return std::make_pair(path, distance);
 }
