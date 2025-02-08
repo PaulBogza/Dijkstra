@@ -3,36 +3,37 @@
 #include <cstring>
 #include "../include/dijkstra.hpp"
 
-std::tuple<std::vector<Node>, int> findPath(const std::unordered_multimap<std::string, Node*> *graph, const Node *start, const Node *dest){
-    std::unordered_multimap<std::string, Node*> unvisitedNodes = *graph; 
-    //std::vector<Node> *visitedNodes = new std::vector<Node>;
-    std::vector<Node> path = new std::vector<Node>;
+std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> *graph, const Node *start, const Node *dest){
+    std::vector<Node*> unvisitedNodes = *graph; 
+    std::vector<Node*> path;
+    std::vector<Node*> tempPath;
     Node currentNode = *start;
     Node startingNode = *start;
-    int distance = 0;
+    int distance = 999;
+    int tempDistance = 999;
 
     if(!unvisitedNodes.empty()){
         //check if starting node is in the graph
-        for(auto i = unvisitedNodes.begin(); i != unvisitedNodes.end(); i++){
-            if(i->second->name == start->name){
-                currentNode = *i->second;
-                startingNode = *i->second;
-                currentNode.weight = 0;
-                startingNode.weight = 0;
-                break;
-            }
-            else{
-                path = nullptr; 
-                return std::make_pair(path, distance);
+        //unvisitedNdes == Head node of adjacency list, neighbours == Vector that stores Edges that connect Nodes
+        for(int i = 0; i < sizeof(unvisitedNodes); i++){
+            for(int j = 0; j < sizeof(unvisitedNodes.at(i)->neighbours); j++){
+                if(unvisitedNodes.at(i)->neighbours.at(j)->next->name == start->name){
+                    currentNode = *unvisitedNodes.at(i)->neighbours.at(j)->next;
+                    startingNode = *unvisitedNodes.at(i)->neighbours.at(j)->next;
+                    break;
+                }
+                else if(unvisitedNodes.at(i)->neighbours.at(j)->prev->name == start->name){
+                    currentNode = *unvisitedNodes.at(i)->neighbours.at(j)->prev;
+                    startingNode = *unvisitedNodes.at(i)->neighbours.at(j)->prev;
+                    break;
+                }
+                else{
+                    return std::make_pair(path, distance);
+                }
             }
         }
         //find shortest path
-
-    }
-
-    
-    if(unvisitedNodes->empty() || (currentNode->next == nullptr && currentNode->prev == nullptr)){
-        throw std::exception();
+        return std::make_pair(path, distance);
     }
     
 

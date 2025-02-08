@@ -12,8 +12,7 @@ int main(int argc, char* argv[]){
         return 1;
     }
 
-    //Create hashmap to find names of stations in graph instantly
-    std::unordered_multimap<std::string, Node*> *graph  = new std::unordered_multimap<std::string, Node*>;
+    std::vector<Node*> *graph  = new std::vector<Node*>;
 
     createGraph(graph, argv[1]);
 
@@ -24,22 +23,27 @@ int main(int argc, char* argv[]){
     Node *dest = new Node;
     dest->name = argv[3];
 
-    std::tuple<std::vector<Node>, int> result = findPath(graph, start, dest);
+    std::tuple<std::vector<Node*>, int> result = findPath(graph, start, dest);
 
     if(graph != nullptr){
-        for(auto i = graph->begin(); i != graph->end(); i++){
-            delete(i->second);
-            delete(i->second->next);
-            delete(i->second->prev);
+        for(int i = 0; i < sizeof(graph); i++){
+            std::cout << graph->at(i) << std::endl;
+            for(int j = 0; j < sizeof(graph->at(i)); j++){
+                for(int k = 0; k < sizeof(graph->at(i)->neighbours.at(j)); k++){
+                    delete(graph->at(i)->neighbours.at(j)->next);
+                    delete(graph->at(i)->neighbours.at(j)->prev);
+                }
+                delete(graph->at(i)->neighbours.at(j));
+            }
+            delete(graph->at(i));
         }
     }
     
     delete(start);
     delete(dest);
-    delete(graph);
-    delete(result);
+    //delete(graph);
 
-    if(result->empty()){
+    if(std::get<1>(result) == 999){
         std::cout << "No path could be found" << std::endl;
         return 1;
     }
