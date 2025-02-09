@@ -12,7 +12,7 @@ int main(int argc, char* argv[]){
         return 1;
     }
 
-    std::vector<Node*> *graph = new std::vector<Node*>;
+    std::vector<Node*> graph;
 
     createGraph(graph, argv[1]);
 
@@ -25,21 +25,22 @@ int main(int argc, char* argv[]){
 
     std::tuple<std::vector<Node*>, int> result = findPath(graph, start, dest);
 
-    if(graph != nullptr){
+    if(sizeof(graph) > 0){
+        std::cout << sizeof(graph) << std::endl;
         for(int i = 0; i < sizeof(graph); i++){
-            std::cout << graph->at(i)->name << std::endl;
+            std::cout << graph.at(i)->name << std::endl;
             /*for(int j = 0; j < sizeof(graph->at(i)->neighbours); j++){
                 delete(graph->at(i)->neighbours.at(j)->next);
                 delete(graph->at(i)->neighbours.at(j)->prev);
                 delete(graph->at(i)->neighbours.at(j));
             }*/
-            delete(graph->at(i));
+            delete(graph.at(i));
         }
     }
     
     delete(start);
     delete(dest);
-    delete(graph);
+    //delete(graph);
 
     if(std::get<1>(result) == 999){
         std::cout << "No path could be found" << std::endl;

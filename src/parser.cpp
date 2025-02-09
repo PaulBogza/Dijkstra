@@ -22,7 +22,7 @@ Node* createNode(std::string stationName, int weight){
     return newNode;
 }
 
-void parseAndAdd(std::string line, std::vector<Node*> *graph){
+void parseAndAdd(std::string line, std::vector<Node*> &graph){
     Node *currentNode = nullptr;
     Node *prevNode = nullptr;
     std::string lineDelimiter = ": ";
@@ -58,12 +58,12 @@ void parseAndAdd(std::string line, std::vector<Node*> *graph){
     }
     //std::cout << prevNode->neighbours.at(0)->prev->name << std::endl;
     //Put tail Node into graph vector
-    graph->push_back(prevNode);
+    graph.push_back(prevNode);
     prevNode = nullptr;
     currentNode = nullptr;
 }
 
-void createGraph(std::vector<Node*> *graph, std::string stops){
+void createGraph(std::vector<Node*> &graph, std::string stops){
     std::string line;
     std::ifstream myFile;
     myFile.open(stops);

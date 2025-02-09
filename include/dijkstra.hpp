@@ -7,6 +7,6 @@
 #include <tuple>
 #include "node.hpp"
 
-std::tuple<std::vector<Node*>,int>findPath(const std::vector<Node*>*, const Node*, const Node*);
+std::tuple<std::vector<Node*>,int>findPath(const std::vector<Node*>&, const Node*, const Node*);
 
 #endif
