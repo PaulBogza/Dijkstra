@@ -25,27 +25,33 @@ int main(int argc, char* argv[]){
 
     std::tuple<std::vector<Node*>, int> result = findPath(graph, start, dest);
 
-    if(sizeof(graph) > 0){
-        std::cout << sizeof(graph) << std::endl;
-        for(int i = 0; i < sizeof(graph); i++){
-            std::cout << graph.at(i)->name << std::endl;
-            /*for(int j = 0; j < sizeof(graph->at(i)->neighbours); j++){
-                delete(graph->at(i)->neighbours.at(j)->next);
-                delete(graph->at(i)->neighbours.at(j)->prev);
-                delete(graph->at(i)->neighbours.at(j));
-            }*/
+    if(!graph.empty()){
+        for(int i = 0; i < graph.size(); i++){
+            std::cout << graph.at(i) << std::endl;
+            if(!graph.at(i)->neighbours.empty()){
+                for(int j = 0; j < graph.at(i)->neighbours.size(); j++){
+                    /*if(graph.at(i)->neighbours.at(j)->next != nullptr){
+                        delete(graph.at(i)->neighbours.at(j)->next);
+                    }
+                    else if(graph.at(i)->neighbours.at(j)->prev != nullptr){
+                        delete(graph.at(i)->neighbours.at(j)->prev);
+                    }*/
+                    delete(graph.at(i)->neighbours.at(j));
+                }
+            }
             delete(graph.at(i));
         }
     }
     
     delete(start);
     delete(dest);
-    //delete(graph);
 
     if(std::get<1>(result) == 999){
         std::cout << "No path could be found" << std::endl;
         return 1;
     }
+    
+
 
     return 0;
 }

@@ -8,14 +8,14 @@
 Node* createNode(std::string stationName, int weight){
     Node *newNode = new Node;
     Edge *newEdge = new Edge;
-    Node *nextNeighbour;// = new Node;
-    Node *prevNeighbour;// = new Node;
+    Node *nextNeighbour;
+    Node *prevNeighbour;
 
     newEdge->next = nextNeighbour;
     newEdge->prev = prevNeighbour;
     newEdge->weight = weight;
 
-    newNode->neighbours.push_back(newEdge);
+    newNode->neighbours.emplace_back(newEdge);
 
     newNode->name = stationName;
 
@@ -56,9 +56,8 @@ void parseAndAdd(std::string line, std::vector<Node*> &graph){
         prevNode = currentNode;
         currentNode = nullptr;
     }
-    //std::cout << prevNode->neighbours.at(0)->prev->name << std::endl;
     //Put tail Node into graph vector
-    graph.push_back(prevNode);
+    graph.emplace_back(prevNode);
     prevNode = nullptr;
     currentNode = nullptr;
 }
