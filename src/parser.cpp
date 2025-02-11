@@ -6,8 +6,8 @@
 #include "../include/parser.hpp"
 
 Node* createNode(std::string stationName, int weight){
-    Node *newNode = new Node;
-    Edge *newEdge = new Edge;
+    Node *newNode = new Node();
+    Edge *newEdge = new Edge();
     Node *nextNeighbour;
     Node *prevNeighbour;
 
@@ -53,11 +53,10 @@ void parseAndAdd(std::string line, std::vector<Node*> &graph){
             currentNode->neighbours.at(0)->weight = prevNode->neighbours.at(0)->weight;
             currentNode->neighbours.at(0)->prev = prevNode;
         }
+        graph.emplace_back(currentNode);
         prevNode = currentNode;
         currentNode = nullptr;
     }
-    //Put tail Node into graph vector
-    graph.emplace_back(prevNode);
     prevNode = nullptr;
     currentNode = nullptr;
 }
@@ -78,4 +77,21 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
     }
 
     myFile.close();
+
+    //graph.at(i) = final stop 
+    //graph.at(i).neighbours = adjacent stops
+    if(!graph.empty()){
+        for(int i = 0; i < graph.size(); i++){
+            //std::cout << graph.at(i)->name << std::endl;
+            for(int j = 1; j < graph.size(); j++){
+                if((graph.at(i)->name == graph.at(j)->name) && (!graph.at(i)->neighbours.empty() && !graph.at(j)->neighbours.empty())){
+                    //merge neighbouring stops for nodes with the same name
+                    //causes infinite loop
+                    graph.at(i)->neighbours.insert(graph.at(i)->neighbours.end(), graph.at(j)->neighbours.begin(), graph.at(j)->neighbours.end());
+                    graph.at(j)->neighbours = graph.at(i)->neighbours;
+                    std::cout << graph.at(j)->name << std::endl;
+                }
+            }
+        }
+    }
 }

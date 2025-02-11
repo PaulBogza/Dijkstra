@@ -16,26 +16,26 @@ int main(int argc, char* argv[]){
 
     createGraph(graph, argv[1]);
 
-    Node *start = new Node;
+    Node *start = new Node();
     start->name = argv[2];
     start->visited = true;
 
-    Node *dest = new Node;
+    Node *dest = new Node();
     dest->name = argv[3];
 
     std::tuple<std::vector<Node*>, int> result = findPath(graph, start, dest);
 
     if(!graph.empty()){
         for(int i = 0; i < graph.size(); i++){
-            std::cout << graph.at(i) << std::endl;
+            //std::cout << graph.at(i)->name << std::endl;
             if(!graph.at(i)->neighbours.empty()){
-                for(int j = 0; j < graph.at(i)->neighbours.size(); j++){
-                    /*if(graph.at(i)->neighbours.at(j)->next != nullptr){
+                for(int j = 0; j < (graph.at(i)->neighbours.size()/2); j++){
+                    if(graph.at(i)->neighbours.at(j)->next != nullptr){
                         delete(graph.at(i)->neighbours.at(j)->next);
                     }
                     else if(graph.at(i)->neighbours.at(j)->prev != nullptr){
                         delete(graph.at(i)->neighbours.at(j)->prev);
-                    }*/
+                    }
                     delete(graph.at(i)->neighbours.at(j));
                 }
             }
