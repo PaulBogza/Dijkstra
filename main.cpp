@@ -25,11 +25,16 @@ int main(int argc, char* argv[]){
 
     std::tuple<std::vector<Node*>, int> result = findPath(graph, start, dest);
 
+    if(std::get<1>(result) == 999){
+        std::cout << "No path could be found" << std::endl;
+        return 1;
+    }
+
     if(!graph.empty()){
         for(int i = 0; i < graph.size(); i++){
             //std::cout << graph.at(i)->name << std::endl;
             if(!graph.at(i)->neighbours.empty()){
-                for(int j = 0; j < (graph.at(i)->neighbours.size()/2); j++){
+                for(int j = 0; j < graph.at(i)->neighbours.size(); j++){
                     if(graph.at(i)->neighbours.at(j)->next != nullptr){
                         delete(graph.at(i)->neighbours.at(j)->next);
                     }
@@ -45,13 +50,6 @@ int main(int argc, char* argv[]){
     
     delete(start);
     delete(dest);
-
-    if(std::get<1>(result) == 999){
-        std::cout << "No path could be found" << std::endl;
-        return 1;
-    }
-    
-
 
     return 0;
 }

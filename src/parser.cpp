@@ -78,20 +78,31 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
 
     myFile.close();
 
-    //graph.at(i) = final stop 
+    Node *tempNode;
+    std::vector<Node*> tempGraph = graph;
+    //graph.at(i) = stop 
     //graph.at(i).neighbours = adjacent stops
-    if(!graph.empty()){
-        for(int i = 0; i < graph.size(); i++){
+    if(!tempGraph.empty()){
+        for(int i = 0; i < tempGraph.size(); i++){
             //std::cout << graph.at(i)->name << std::endl;
-            for(int j = 1; j < graph.size(); j++){
-                if((graph.at(i)->name == graph.at(j)->name) && (!graph.at(i)->neighbours.empty() && !graph.at(j)->neighbours.empty())){
+            for(int j = i+1; j < tempGraph.size(); j++){
+                if((tempGraph.at(i)->name == tempGraph.at(j)->name)){
                     //merge neighbouring stops for nodes with the same name
-                    //causes infinite loop
-                    graph.at(i)->neighbours.insert(graph.at(i)->neighbours.end(), graph.at(j)->neighbours.begin(), graph.at(j)->neighbours.end());
-                    graph.at(j)->neighbours = graph.at(i)->neighbours;
-                    std::cout << graph.at(j)->name << std::endl;
+                    tempGraph.at(i)->neighbours.insert(tempGraph.at(i)->neighbours.end(), tempGraph.at(j)->neighbours.begin(), tempGraph.at(j)->neighbours.end());
+                    tempGraph.erase(tempGraph.begin() + j);
+                    //TODO: replace all nodes with same name in original graph after they have all the same neighbours
+                    tempNode = tempGraph.at(i);
                 }
             }
+            
         }
+    }
+ 
+    for(int i = 0; i < graph.size(); i++){
+        std::cout << "Station Name: " << graph.at(i)->name << std::endl;
+        for(int j = 0; j < graph.at(i)->neighbours.size(); j++){
+            std::cout << graph.at(i)->neighbours.at(j) << std::endl;
+        }
+        std::cout << std::endl;
     }
 }
