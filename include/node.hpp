@@ -14,8 +14,7 @@ struct Node{
 
 struct Edge{
     int weight = 999;
-    Node *prev = nullptr;
-    Node *next = nullptr;
+    Node *station = nullptr;
 };
 
 #endif
