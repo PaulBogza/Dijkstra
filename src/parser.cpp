@@ -46,8 +46,8 @@ void parseAndAdd(std::string line, std::vector<Node*> &graph){
 
         if(prevNode != nullptr){
             prevNode->neighbours.at(0)->next = currentNode;
-            currentNode->neighbours.at(0)->weight = prevNode->neighbours.at(0)->weight;
             currentNode->neighbours.at(0)->prev = prevNode;
+            currentNode->neighbours.at(0)->weight = prevNode->neighbours.at(0)->weight;
         }
         graph.emplace_back(currentNode);
         prevNode = currentNode;
