@@ -10,19 +10,20 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     Node currentNode = *start;
     Node startingNode = *start;
     int distance = 999;
-    int tempDistance = 999;
+    int tempDistance = 0;
+    int tempWeight = 999;
 
     if(!unvisitedNodes.empty()){
         //find shortest path
-        for(auto i : unvisitedNodes){
-            std::cout << i->name << std::endl;
-            if(i->neighbours.at(0) != nullptr){
-                std::cout << i->neighbours.at(0)->weight << std::endl;
+        do{
+            for(auto i : currentNode.neighbours){
+                if(i->weight < tempWeight){
+                    tempWeight = i->weight;
+                    currentNode = i;
+                }
             }
-            if(i->neighbours.at(1) != nullptr){
-                std::cout << i->neighbours.at(1)->weight << std::endl;
-            }
-        }
+        }while(!unvisitedNodes.empty() || currentNode.name !=  dest->name || !tempWeight == 999);
+        
         return std::make_pair(path, distance);
     }
     
