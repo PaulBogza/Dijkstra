@@ -49,5 +49,6 @@
         "cstring": "cpp",
         "optional": "cpp",
         "fstream": "cpp"
-    }
+    },
+    "makefile.configureOnOpen": true
 }

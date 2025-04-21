@@ -4,7 +4,8 @@
 #include "../include/dijkstra.hpp"
 
 std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, const Node *start, const Node *dest){
-    std::vector<Node*> unvisitedNodes = graph; 
+    std::vector<Node*> unvisitedNodes = graph;
+    std::vector<Node*> visitedNodes; 
     std::vector<Node*> path;
     std::vector<Node*> tempPath;
     Node currentNode = *start;

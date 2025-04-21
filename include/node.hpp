@@ -13,6 +13,8 @@ struct Node{
 };
 
 struct Edge{
+    //nodes with at 0 or even array indices are next (node.neighbours.at(0))
+    //uneven are previous (node.neighbours.at(1))
     int weight = 999;
     Node *station = nullptr;
 };
