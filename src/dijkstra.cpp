@@ -15,6 +15,8 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     int tempDistance = 0;
     int tempWeight = 999;
 
+    std::cout << unvisitedNodes.at(0)->name << std::endl;
+
     if(!unvisitedNodes.empty()){
         do{
             for(auto i : currentNode.neighbours){
@@ -32,8 +34,6 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
         
         path = tempPath;
         distance = tempDistance;
-
-        std::cout << tempPath.at(1)->name << std::endl;
 
         return std::make_pair(path, distance);
     }

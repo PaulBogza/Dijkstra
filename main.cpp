@@ -18,7 +18,6 @@ int main(int argc, char* argv[]){
 
     Node *start = new Node;
     start->name = argv[2];
-    start->visited = true;
 
     Node *dest = new Node;
     dest->name = argv[3];
@@ -33,6 +32,9 @@ int main(int argc, char* argv[]){
         return 1;
     }
 
+    //for(auto i : std::get<0>(result)){
+    //    std::cout << i->name << std::endl;
+    //}
 
     return 0;
 }
