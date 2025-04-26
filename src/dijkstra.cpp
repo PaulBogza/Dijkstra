@@ -13,9 +13,9 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     Node tempNode;
     int distance = 999;
     int tempDistance = 0;
-    int tempWeight = 999;
+    int currentLowestWeight = 999;
 
-    std::cout << dest->name << std::endl;
+    //std::cout << &unvisitedNodes << &graph << std::endl;
 
     if(!unvisitedNodes.empty()){
         for(auto i : unvisitedNodes){
@@ -28,32 +28,23 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     }
 
     if(!unvisitedNodes.empty()){
-        do{
+        //do{
+            std::cout << currentNode.visited << std::endl;
             if(currentNode.neighbours.size() > 0){
                 for(auto i : currentNode.neighbours){
-                    if((i->station != nullptr) && (i->station->visited == false) && (i->weight < tempWeight)){
-                        tempWeight = i->weight;    
+                    if((i->station != nullptr) && (i->station->visited == false) && (i->weight < currentLowestWeight)){ 
                         tempNode = *i->station;
-                        std::cout << tempNode.name << std::endl;
+                        currentLowestWeight = i->weight;
                     }
-                }
-                tempPath.emplace_back(&currentNode);
-                tempDistance += tempWeight;
-                currentNode = tempNode;
+                } 
             }
+            currentLowestWeight = 999;
             currentNode.visited = true;
-            visitedNodes.emplace_back(&currentNode);
-        }while(unvisitedNodes.size() != visitedNodes.size());
+            currentNode = tempNode;
+            std::cout << currentNode.visited << " ";
+        //}while(currentNode.name != dest->name);
         
-        path = tempPath;
-        distance = tempDistance;
-
-        //for(auto i : path){
-        //    std::cout << i->name << std::endl;
-        //}
-
         return std::make_pair(path, distance);
     }
-    
     return std::make_pair(path, distance);
 }
