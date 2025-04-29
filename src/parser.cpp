@@ -90,12 +90,12 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
             }
         }
         for(int i = 0; i < graph.size(); i++){
-            //std::cout << &unvisitedNodes.at(i) << std::endl;
-            //std::cout << unvisitedNodes.at(i)->name << std::endl;
-            for(int j = 0; j < graph.at(i)->neighbours.size(); j++){
-                if(graph.at(i)->neighbours.at(j)->station != nullptr && graph.at(i)->neighbours.at(j)->station->name == "Westbahnhof"){
-                    std::cout << &graph.at(i)->neighbours.at(j)->station << std::endl;
-                    std::cout << graph.at(i)->neighbours.at(j)->station->name << std::endl;
+            for(int j = i+1; j < graph.size(); j++){
+                for(auto k : graph.at(i)->neighbours){
+			std::cout << k->station->name << std::endl;
+                    for(auto l : graph.at(j)->neighbours){
+			std::cout << l->station->name << std::endl;
+                    }
                 }
             }
         }

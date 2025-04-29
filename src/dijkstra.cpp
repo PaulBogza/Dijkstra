@@ -16,25 +16,27 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     int currentLowestWeight = 999;
 
     //std::cout << &unvisitedNodes << &graph << std::endl;
-    /*
+    
     if(!unvisitedNodes.empty()){
-        for(int i = 0; i < unvisitedNodes.size(); i++){
+        //for(int i = 0; i < unvisitedNodes.size(); i++){
             //std::cout << &unvisitedNodes.at(i) << std::endl;
             //std::cout << unvisitedNodes.at(i)->name << std::endl;
-            for(int j = 0; j < unvisitedNodes.at(i)->neighbours.size(); j++){
-                if(unvisitedNodes.at(i)->neighbours.at(j)->station != nullptr && unvisitedNodes.at(i)->neighbours.at(j)->station->name == "Westbahnhof"){
-                    std::cout << &unvisitedNodes.at(i)->neighbours.at(j)->station << std::endl;
-                    std::cout << unvisitedNodes.at(i)->neighbours.at(j)->station->name << std::endl;
-                }
-            }
+            //for(int j = 0; j < unvisitedNodes.at(i)->neighbours.size(); j++){
+                //if(unvisitedNodes.at(i)->neighbours.at(j)->station != nullptr && unvisitedNodes.at(i)->neighbours.at(j)->station->name == "Westbahnhof"){
+                    //std::cout << &unvisitedNodes.at(i)->neighbours.at(j)->station << std::endl;
+                    //std::cout << unvisitedNodes.at(i)->neighbours.at(j)->station->name << std::endl;
+                //}
+            //}
+            /*
             if(i->name == start->name){
                 startingNode = *i;
                 currentNode = startingNode;
                 break;
             }
-        }
+            */
     }
-    */
+    
+    
 
     /*
     if(!unvisitedNodes.empty()){
