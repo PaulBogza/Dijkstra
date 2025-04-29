@@ -16,9 +16,17 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     int currentLowestWeight = 999;
 
     //std::cout << &unvisitedNodes << &graph << std::endl;
-
+    /*
     if(!unvisitedNodes.empty()){
-        for(auto i : unvisitedNodes){
+        for(int i = 0; i < unvisitedNodes.size(); i++){
+            //std::cout << &unvisitedNodes.at(i) << std::endl;
+            //std::cout << unvisitedNodes.at(i)->name << std::endl;
+            for(int j = 0; j < unvisitedNodes.at(i)->neighbours.size(); j++){
+                if(unvisitedNodes.at(i)->neighbours.at(j)->station != nullptr && unvisitedNodes.at(i)->neighbours.at(j)->station->name == "Westbahnhof"){
+                    std::cout << &unvisitedNodes.at(i)->neighbours.at(j)->station << std::endl;
+                    std::cout << unvisitedNodes.at(i)->neighbours.at(j)->station->name << std::endl;
+                }
+            }
             if(i->name == start->name){
                 startingNode = *i;
                 currentNode = startingNode;
@@ -26,12 +34,18 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
             }
         }
     }
+    */
 
+    /*
     if(!unvisitedNodes.empty()){
-        //do{
-            std::cout << currentNode.visited << std::endl;
+        do{
             if(currentNode.neighbours.size() > 0){
                 for(auto i : currentNode.neighbours){
+                    if(i->station != nullptr){
+                    std::cout << i->station->name << std::endl;
+                    std::cout << i->station->visited << std::endl;
+                    std::cout << &i->station << std::endl;
+                    }
                     if((i->station != nullptr) && (i->station->visited == false) && (i->weight < currentLowestWeight)){ 
                         tempNode = *i->station;
                         currentLowestWeight = i->weight;
@@ -40,11 +54,14 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
             }
             currentLowestWeight = 999;
             currentNode.visited = true;
+            std::cout << currentNode.name << std::endl;
+            std::cout << currentNode.visited << std::endl;
+            std::cout << &currentNode << std::endl;
             currentNode = tempNode;
-            std::cout << currentNode.visited << " ";
-        //}while(currentNode.name != dest->name);
+        }while(currentNode.name != dest->name);
         
         return std::make_pair(path, distance);
     }
+        */
     return std::make_pair(path, distance);
 }
