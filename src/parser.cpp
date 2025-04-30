@@ -90,12 +90,11 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
             }
         }
         for(int i = 0; i < graph.size(); i++){
-            for(int j = i+1; j < graph.size(); j++){
-                for(auto k : graph.at(i)->neighbours){
-			std::cout << k->station->name << std::endl;
-                    for(auto l : graph.at(j)->neighbours){
-			std::cout << l->station->name << std::endl;
-                    }
+            for(int j = 0; j < graph.at(i)->neighbours.size(); j++){
+                for(int k = 0; graph.at(i+1)->neighbours.size(); k++){
+        	    if(){
+			
+		    }
                 }
             }
         }
