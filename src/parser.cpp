@@ -3,6 +3,7 @@
 #include <string>
 #include <vector>
 #include <fstream>
+#include <memory>
 #include "../include/parser.hpp"
 
 Node* createNode(std::string stationName, int weight){
@@ -84,16 +85,20 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
             for(int j = i+1; j < graph.size(); j++){
                 if((graph.at(i)->name == graph.at(j)->name)){
                     //merge neighbouring stops for nodes with the same name
-                    graph.at(i)->neighbours.insert(graph.at(i)->neighbours.end(), graph.at(j)->neighbours.begin(), graph.at(j)->neighbours.end());
+                    graph.at(i)->neighbours.insert(graph.at(i)->neighbours.end(), 
+		    graph.at(j)->neighbours.begin(), graph.at(j)->neighbours.end());
                     graph.erase(graph.begin() + j);
                 }
             }
         }
+	
         for(int i = 0; i < graph.size(); i++){
-            for(int j = 0; j < graph.at(i)->neighbours.size(); j++){
-                for(int k = 0; graph.at(i+1)->neighbours.size(); k++){
-        	    if(){
-			
+            for(int j = i+1; j < graph.size(); j++){
+                for(int k = 0; k < graph.at(j)->neighbours.size(); k++){
+        	    if(graph.at(j)->neighbours.at(k)->station != nullptr){
+			if(graph.at(i)->name == graph.at(j)->neighbours.at(k)->station->name){
+			    graph.at(j)->neighbours.at(k)->station = &*graph.at(i);
+		    	}
 		    }
                 }
             }
