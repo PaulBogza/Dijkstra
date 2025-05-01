@@ -31,7 +31,7 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
         do{
             if(currentNode->neighbours.size() > 0){
                 for(auto i : currentNode->neighbours){
-                    if(i->station != nullptr){
+                    if(i->station != nullptr && i->station->visited == false){
                 	std::cout << i->station->name << std::endl;
                         std::cout << i->station->visited << std::endl;
                         std::cout << &i->station << std::endl;
