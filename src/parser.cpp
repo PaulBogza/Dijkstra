@@ -92,6 +92,7 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
             }
         }
 	
+	//mnaking neighbours refernce the same object
         for(int i = 0; i < graph.size(); i++){
             for(int j = i+1; j < graph.size(); j++){
                 for(int k = 0; k < graph.at(j)->neighbours.size(); k++){
@@ -103,5 +104,6 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
                 }
             }
         }
+	std::cout << &graph.at(0) << std::endl;
     }
 }
