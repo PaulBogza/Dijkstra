@@ -95,13 +95,12 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
 		//mnaking neighbours point to the same object
         for(int i = 0; i < graph.size(); i++){
             for(int j = i+1; j < graph.size(); j++){
-                for(int k = 0; k < graph.at(j)->neighbours.size(); k++){
-					if(graph.at(j)->neighbours.at(k)->station != nullptr){
-						if(graph.at(i)->name == graph.at(j)->neighbours.at(k)->station->name){
-							graph.at(j)->neighbours.at(k)->station = graph.at(i);
+                for(auto k : graph.at(j)->neighbours){
+					if(k->station != nullptr){
+						if(graph.at(i)->name == k->station->name){
+							k->station = graph.at(i);
 							std::cout << &graph.at(i) << " " << graph.at(i)->name << std::endl;
-							std::cout << &graph.at(j)->neighbours.at(k)->station << " " <<
-							graph.at(j)->neighbours.at(k)->station->name << std::endl;  
+							std::cout << &k->station << " " << k->station->name << std::endl;
 						}
 					}
                 }
