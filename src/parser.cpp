@@ -86,24 +86,27 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
                 if((graph.at(i)->name == graph.at(j)->name)){
                     //merge neighbouring stops for nodes with the same name
                     graph.at(i)->neighbours.insert(graph.at(i)->neighbours.end(), 
-		    graph.at(j)->neighbours.begin(), graph.at(j)->neighbours.end());
+					graph.at(j)->neighbours.begin(), graph.at(j)->neighbours.end());
                     graph.erase(graph.begin() + j);
                 }
             }
         }
 	
-	//mnaking neighbours refernce the same object
+		//mnaking neighbours point to the same object
         for(int i = 0; i < graph.size(); i++){
             for(int j = i+1; j < graph.size(); j++){
                 for(int k = 0; k < graph.at(j)->neighbours.size(); k++){
-        	    if(graph.at(j)->neighbours.at(k)->station != nullptr){
-			if(graph.at(i)->name == graph.at(j)->neighbours.at(k)->station->name){
-			    graph.at(j)->neighbours.at(k)->station = &*graph.at(i);
-		    	}
-		    }
+					if(graph.at(j)->neighbours.at(k)->station != nullptr){
+						if(graph.at(i)->name == graph.at(j)->neighbours.at(k)->station->name){
+							graph.at(j)->neighbours.at(k)->station = graph.at(i);
+							std::cout << &graph.at(i) << " " << graph.at(i)->name << std::endl;
+							std::cout << &graph.at(j)->neighbours.at(k)->station << " " <<
+							graph.at(j)->neighbours.at(k)->station->name << std::endl;  
+						}
+					}
                 }
             }
         }
-	std::cout << &graph.at(0) << std::endl;
+		//std::cout << &graph.at(0) << std::endl;
     }
 }
