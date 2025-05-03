@@ -96,12 +96,10 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
         for(int i = 0; i < graph.size(); i++){
             for(int j = i+1; j < graph.size(); j++){
                 for(auto k : graph.at(j)->neighbours){
-					if(k->station != nullptr){
-						if(graph.at(i)->name == k->station->name){
-							k->station = graph.at(i);
-							std::cout << &graph.at(i) << " " << graph.at(i)->name << std::endl;
-							std::cout << &k->station << " " << k->station->name << std::endl;
-						}
+					if(k->station != nullptr && graph.at(i)->name == k->station->name){
+						k->station = graph.at(i);
+						std::cout << &graph.at(i) << " " << graph.at(i)->name << std::endl;
+						std::cout << &k->station << " " << k->station->name << std::endl;
 					}
                 }
             }
