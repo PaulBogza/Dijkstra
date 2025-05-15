@@ -1,0 +1,1730 @@
+0x5a3534377760 Leopoldau
+0x5a3534377870 Grossfeldsiedlung
+0x5a3534377870 Grossfeldsiedlung
+0x5a3534377970 Aderklaaer Strasse
+0x5a3534377760 Leopoldau
+0x5a3534377970 Aderklaaer Strasse
+0x5a3534377a80 Rennbahnweg
+0x5a3534377870 Grossfeldsiedlung
+0x5a3534377a80 Rennbahnweg
+0x5a3534377af0 Kagraner Platz
+0x5a3534377970 Aderklaaer Strasse
+0x5a3534377af0 Kagraner Platz
+0x5a3534377bf0 Kagran
+0x5a3534377a80 Rennbahnweg
+0x5a3534388bc0 Saikogasse
+0x5a3534388a60 Kraygasse
+0x5a3534377bf0 Kagran
+0x5a3534377ca0 Alte Donau
+0x5a3534377af0 Kagraner Platz
+0x5a3534387960 Donauzentrum
+0x5a3534387820 Prandaugasse
+0x5a3534377ca0 Alte Donau
+0x5a3534377d50 Kaisermuehlen-VIC
+0x5a3534377bf0 Kagran
+0x5a3534377d50 Kaisermuehlen-VIC
+0x5a3534377e20 Donauinsel
+0x5a3534377ca0 Alte Donau
+0x5a3534377e20 Donauinsel
+0x5a3534377ba0 Vorgartenstrasse
+0x5a3534377d50 Kaisermuehlen-VIC
+0x5a3534377ba0 Vorgartenstrasse
+0x5a3534377ff0 Praterstern
+0x5a3534377e20 Donauinsel
+0x5a3534377ff0 Praterstern
+0x5a3534378080 Nestroyplatz
+0x5a3534377ba0 Vorgartenstrasse
+0x5a3534378df0 Messe-Prater
+0x5a3534378c90 Taborstrasse
+0x5a3534381580 Nordbahnstrasse
+0x5a353439cbb0 Franzensbruecke
+0x5a3534378080 Nestroyplatz
+0x5a3534378130 Schwedenplatz
+0x5a3534377ff0 Praterstern
+0x5a3534378130 Schwedenplatz
+0x5a35343781e0 Stephansplatz
+0x5a3534378080 Nestroyplatz
+0x5a353437ade0 Landstrasse
+0x5a353437ac80 Schottenring
+0x5a353437e4d0 Julius-Raab-Platz
+0x5a353437e350 Salztorbruecke
+0x5a3534380a80 Gredlerstrasse
+0x5a35343808f0 Julius-Raab-Platz
+0x5a35343781e0 Stephansplatz
+0x5a3534378290 Karlsplatz
+0x5a3534378130 Schwedenplatz
+0x5a353437a2a0 Herrengasse
+0x5a353437a140 Stubentor
+0x5a3534378290 Karlsplatz
+0x5a3534378340 Taubstummengasse
+0x5a35343781e0 Stephansplatz
+0x5a3534378920 Museumsquartier
+0x5a353437b420 Kettenbrueckengasse
+0x5a353437ae90 Stadtpark
+0x5a353437dcd0 Kaerntner Ring, Oper
+0x5a353437db70 Resselgasse
+0x5a3534378340 Taubstummengasse
+0x5a3534378440 Suedtirolerplatz
+0x5a3534378290 Karlsplatz
+0x5a3534378440 Suedtirolerplatz
+0x5a3534378630 Keplerplatz
+0x5a3534378340 Taubstummengasse
+0x5a3534378630 Keplerplatz
+0x5a35343786c0 Reumannplatz
+0x5a3534378440 Suedtirolerplatz
+0x5a35343786c0 Reumannplatz
+0x5a3534378630 Keplerplatz
+0x5a3534398460 Quellenstrasse/Favoritenstrasse
+0x5a3534398300 Troststrasse
+0x5a3534378920 Museumsquartier
+0x5a35343789d0 Volkstheater
+0x5a3534378290 Karlsplatz
+0x5a35343789d0 Volkstheater
+0x5a3534378a80 Rathaus
+0x5a3534378920 Museumsquartier
+0x5a353437a400 Neubaugasse
+0x5a353437a2a0 Herrengasse
+0x5a3534391a00 Stiftgasse
+0x5a3534391890 Dr.-Karl-Renner-Ring
+0x5a3534378a80 Rathaus
+0x5a3534378b30 Schottentor
+0x5a35343789d0 Volkstheater
+0x5a35343804a0 Dr.-Karl-Renner-Ring
+0x5a3534380310 Lederergasse/Josefstaedter Strasse
+0x5a3534378b30 Schottentor
+0x5a3534378be0 Schottenring
+0x5a3534378a80 Rathaus
+0x5a353437e1f0 Boerse
+0x5a353437e0a0 Rathausplatz/Burgtheater
+0x5a353438ccb0 Schwarzspanierstrasse
+0x5a353438db40 Schwarzspanierstrasse
+0x5a353438e600 Schwarzspanierstrasse
+0x5a353438f150 Schwarzspanierstrasse
+0x5a353438f810 Landesgerichtsstrasse
+0x5a3534390320 Landesgerichtsstrasse
+0x5a3534398f20 Rathausplatz/Burgtheater
+0x5a3534398da0 Boerse
+0x5a353439afb0 Boersegasse/Wipplingerstrasse
+0x5a353439ae60 Rathausplatz/Burgtheater
+0x5a3534378be0 Schottenring
+0x5a3534378c90 Taborstrasse
+0x5a3534378b30 Schottentor
+0x5a3534378130 Schwedenplatz
+0x5a353437abd0 Rossauerlaende
+0x5a353437e350 Salztorbruecke
+0x5a353437e1f0 Boerse
+0x5a353438b440 Obere Donaustrasse
+0x5a3534378c90 Taborstrasse
+0x5a3534377ff0 Praterstern
+0x5a3534378be0 Schottenring
+0x5a3534380cf0 Taborstrasse/Heinestrasse
+0x5a3534380b30 Karmeliterplatz
+0x5a3534378df0 Messe-Prater
+0x5a3534378ea0 Krieau
+0x5a3534377ff0 Praterstern
+0x5a3534378ea0 Krieau
+0x5a3534378f50 Stadion
+0x5a3534378df0 Messe-Prater
+0x5a3534378f50 Stadion
+0x5a3534379000 Donaumarina
+0x5a3534378ea0 Krieau
+0x5a3534379000 Donaumarina
+0x5a35343790d0 Donaustadtbruecke
+0x5a3534378f50 Stadion
+0x5a35343790d0 Donaustadtbruecke
+0x5a35343791d0 Stadlau
+0x5a3534379000 Donaumarina
+0x5a35343791d0 Stadlau
+0x5a3534379470 Hardeggasse
+0x5a35343790d0 Donaustadtbruecke
+0x5a3534379470 Hardeggasse
+0x5a3534379520 Donauspital
+0x5a35343791d0 Stadlau
+0x5a3534388050 Donauspital
+0x5a3534387ec0 Langobardenstrasse
+0x5a3534379520 Donauspital
+0x5a35343795d0 Aspernstrasse
+0x5a3534379470 Hardeggasse
+0x5a3534388160 Langobardenstrasse/Kapellenweg
+0x5a3534379470 Hardeggasse
+0x5a35343795d0 Aspernstrasse
+0x5a3534379520 Donauspital
+0x5a3534379ab0 Simmering
+0x5a3534379b40 Enkplatz
+0x5a3534383390 Braunhubergasse
+0x5a3534383250 Fickeysstrasse
+0x5a3534399d40 Fickeysstrasse
+0x5a3534399c00 Braunhubergasse
+0x5a3534379b40 Enkplatz
+0x5a3534379bf0 Zippererstrasse
+0x5a3534379ab0 Simmering
+0x5a3534383550 Gottschalkgasse/Enkplatz
+0x5a3534383390 Braunhubergasse
+0x5a3534379bf0 Zippererstrasse
+0x5a3534379ca0 Gasometer
+0x5a3534379b40 Enkplatz
+0x5a3534399a50 Hauffgasse
+0x5a35343998f0 Molitorgasse
+0x5a3534379ca0 Gasometer
+0x5a3534379d50 Erdberg
+0x5a3534379bf0 Zippererstrasse
+0x5a3534379d50 Erdberg
+0x5a3534379e20 Schlachthausgasse
+0x5a3534379ca0 Gasometer
+0x5a3534379e20 Schlachthausgasse
+0x5a3534379f20 Kardinal-Nagl-Platz
+0x5a3534379d50 Erdberg
+0x5a353437ed40 Baumgasse
+0x5a3534379f20 Kardinal-Nagl-Platz
+0x5a353437a000 Rochusgasse
+0x5a3534379e20 Schlachthausgasse
+0x5a353437a000 Rochusgasse
+0x5a353437a090 Landstrasse
+0x5a3534379f20 Kardinal-Nagl-Platz
+0x5a353437a090 Landstrasse
+0x5a353437a140 Stubentor
+0x5a353437a000 Rochusgasse
+0x5a353437ae90 Stadtpark
+0x5a3534378130 Schwedenplatz
+0x5a353437a140 Stubentor
+0x5a35343781e0 Stephansplatz
+0x5a353437a090 Landstrasse
+0x5a35343808f0 Julius-Raab-Platz
+0x5a35343807b0 Weihburggasse
+0x5a353437a2a0 Herrengasse
+0x5a35343789d0 Volkstheater
+0x5a35343781e0 Stephansplatz
+0x5a353437a400 Neubaugasse
+0x5a353437a4b0 Zieglergasse
+0x5a35343789d0 Volkstheater
+0x5a353437a4b0 Zieglergasse
+0x5a353437a560 Westbahnhof
+0x5a353437a400 Neubaugasse
+0x5a353437a560 Westbahnhof
+0x5a353437a610 Schweglerstrasse
+0x5a353437a4b0 Zieglergasse
+0x5a353437c950 Gumpendorfer Strasse
+0x5a353437c7c0 Burggasse-Stadthalle
+0x5a35343825b0 Stollgasse
+0x5a3534384300 Urban-Loritz-Platz
+0x5a3534384190 Mariahilfer Guertel
+0x5a35343852f0 Urban-Loritz-Platz
+0x5a3534385f30 Mariahilfer Guertel
+0x5a3534385dc0 Urban-Loritz-Platz
+0x5a3534392c90 Gerstnerstrasse/Westbhf.
+0x5a35343867b0 Gerstnerstrasse/Westbhf.
+0x5a353437a610 Schweglerstrasse
+0x5a353437a710 Johnstrasse
+0x5a353437a560 Westbahnhof
+0x5a3534385260 Beingasse
+0x5a3534385100 Guntherstrasse
+0x5a35343920c0 Huglgasse
+0x5a3534391f60 Beingasse
+0x5a353437a710 Johnstrasse
+0x5a353437a7a0 Huetteldorfer Strasse
+0x5a353437a610 Schweglerstrasse
+0x5a3534392200 Huetteldorfer Strasse
+0x5a35343920c0 Huglgasse
+0x5a353437a7a0 Huetteldorfer Strasse
+0x5a353437a8a0 Kendlerstrasse
+0x5a353437a710 Johnstrasse
+0x5a3534392300 Breitensee
+0x5a353437a710 Johnstrasse
+0x5a353437a8a0 Kendlerstrasse
+0x5a353437a930 Ottakring
+0x5a353437a7a0 Huetteldorfer Strasse
+0x5a353437a930 Ottakring
+0x5a353437a8a0 Kendlerstrasse
+0x5a353437fd20 Redtenbachergasse
+0x5a353437fb70 Thaliastrasse/Maroltingergasse
+0x5a35343910e0 Schuhmeierplatz
+0x5a3534390f70 Thaliastrasse/Maroltingerg.
+0x5a353437a9e0 Heiligenstadt
+0x5a353437aa70 Spittelau
+0x5a353437aa70 Spittelau
+0x5a353437ab20 Friedensbruecke
+0x5a353437a9e0 Heiligenstadt
+0x5a353437c2e0 Nussdorfer Strasse
+0x5a353437c1a0 Jaegerstrasse
+0x5a353439b630 Rampengasse
+0x5a353439b4d0 Liechtenwerder Platz
+0x5a353437ab20 Friedensbruecke
+0x5a353437abd0 Rossauerlaende
+0x5a353437aa70 Spittelau
+0x5a353438bd80 Klosterneuburger Strasse
+0x5a353438bbf0 Franz-Josefs-Bahnhof
+0x5a353437abd0 Rossauerlaende
+0x5a3534378be0 Schottenring
+0x5a353437ab20 Friedensbruecke
+0x5a353437ae90 Stadtpark
+0x5a3534378290 Karlsplatz
+0x5a353437a090 Landstrasse
+0x5a353437b420 Kettenbrueckengasse
+0x5a353437b520 Pilgramgasse
+0x5a3534378290 Karlsplatz
+0x5a353437b520 Pilgramgasse
+0x5a353437b5b0 Margaretenguertel
+0x5a353437b420 Kettenbrueckengasse
+0x5a353437b5b0 Margaretenguertel
+0x5a353437b6b0 Laengenfeldgasse
+0x5a353437b520 Pilgramgasse
+0x5a35343840e0 Gumpendorfer Strasse
+0x5a3534383f30 Arbeitergasse/Margaretenguertel
+0x5a3534386250 Arbeiterg./Margaretenguertel
+0x5a3534386030 Gumpendorfer Strasse
+0x5a353437b6b0 Laengenfeldgasse
+0x5a353437b790 Meidling Hauptstrasse
+0x5a353437b5b0 Margaretenguertel
+0x5a353437cb30 Niederhofstrasse
+0x5a353437c950 Gumpendorfer Strasse
+0x5a353437b790 Meidling Hauptstrasse
+0x5a353437b870 Schoenbrunn
+0x5a353437b6b0 Laengenfeldgasse
+0x5a353437b870 Schoenbrunn
+0x5a353437b900 Hietzing
+0x5a353437b790 Meidling Hauptstrasse
+0x5a353437b900 Hietzing
+0x5a353437b9b0 Braunschweiggasse
+0x5a353437b870 Schoenbrunn
+0x5a353437b9b0 Braunschweiggasse
+0x5a353437bab0 Unter Sank Veit
+0x5a353437b900 Hietzing
+0x5a353437bab0 Unter Sank Veit
+0x5a353437bb40 Ober Sankt Veit
+0x5a353437b9b0 Braunschweiggasse
+0x5a353437bb40 Ober Sankt Veit
+0x5a353437bbf0 Huetteldorf
+0x5a353437bab0 Unter Sank Veit
+0x5a353437bbf0 Huetteldorf
+0x5a353437bb40 Ober Sankt Veit
+0x5a353437be90 Floridsdorf
+0x5a353437bf20 Neue Donau
+0x5a353437ef60 Hossplatz
+0x5a3534388fe0 Am Spitz
+0x5a3534388e80 Hossplatz
+0x5a3534389df0 Floridsdorfer Markt
+0x5a353438aba0 Matthaeus-Jiszda-Strasse
+0x5a353438a9b0 Floridsdorfer Markt
+0x5a353437bf20 Neue Donau
+0x5a353437bfd0 Handelskai
+0x5a353437be90 Floridsdorf
+0x5a353437bfd0 Handelskai
+0x5a353437c0a0 Dresdner Strasse
+0x5a353437bf20 Neue Donau
+0x5a353437c0a0 Dresdner Strasse
+0x5a353437c1a0 Jaegerstrasse
+0x5a353437bfd0 Handelskai
+0x5a3534381160 Hoechstaedtplatz
+0x5a3534380fc0 Traisengasse
+0x5a353437c1a0 Jaegerstrasse
+0x5a353437aa70 Spittelau
+0x5a353437c0a0 Dresdner Strasse
+0x5a353438b020 Wexstrasse
+0x5a353438aeb0 Hoechstaedtplatz
+0x5a353438c070 Hoechstaedtplatz
+0x5a353438bf30 Brigittaplatz
+0x5a353437c2e0 Nussdorfer Strasse
+0x5a353437c440 Waehringer Strasse-Volksoper
+0x5a353437aa70 Spittelau
+0x5a353438c980 Canisiusgasse
+0x5a353438c7e0 Glatzgasse
+0x5a353438d310 Glatzgasse
+0x5a353438d170 Canisiusgasse
+0x5a353437c440 Waehringer Strasse-Volksoper
+0x5a353437c500 Michelbeuern-AKH
+0x5a353437c2e0 Nussdorfer Strasse
+0x5a353438de20 Kutschkergasse
+0x5a353438dca0 Spitalgasse/Waehringer Strasse
+0x5a353438e8e0 Kutschkergasse
+0x5a353438e760 Spitalgasse/Waehringer Strasse
+0x5a353438f3f0 Michelbeuern-AKH
+0x5a353438f250 Spitalgasse/Waehringer strasse
+0x5a353437c500 Michelbeuern-AKH
+0x5a353437c5d0 Alser Strasse
+0x5a353437c440 Waehringer Strasse-Volksoper
+0x5a353438f4c0 Hildebrandgasse
+0x5a353437c440 Waehringer Strasse-Volksoper
+0x5a353437c5d0 Alser Strasse
+0x5a353437c660 Josefstaedter Strasse
+0x5a353437c500 Michelbeuern-AKH
+0x5a353438fb80 Palffygasse
+0x5a353438fa20 Bruennlbadgasse
+0x5a353437c660 Josefstaedter Strasse
+0x5a353437c730 Thaliastrasse
+0x5a353437c5d0 Alser Strasse
+0x5a3534380250 Albertgasse
+0x5a3534380080 Neulerchenf. Strasse/Brunnengasse
+0x5a353438b680 Albertgasse
+0x5a353437c730 Thaliastrasse
+0x5a353437c7c0 Burggasse-Stadthalle
+0x5a353437c660 Josefstaedter Strasse
+0x5a35343914d0 Schottenfeldgasse
+0x5a3534391350 Brunnengasse
+0x5a353437c7c0 Burggasse-Stadthalle
+0x5a353437a560 Westbahnhof
+0x5a353437c730 Thaliastrasse
+0x5a3534384300 Urban-Loritz-Platz
+0x5a3534385dc0 Urban-Loritz-Platz
+0x5a353437c950 Gumpendorfer Strasse
+0x5a353437b6b0 Laengenfeldgasse
+0x5a353437a560 Westbahnhof
+0x5a3534384190 Mariahilfer Guertel
+0x5a353437b5b0 Margaretenguertel
+0x5a353437b5b0 Margaretenguertel
+0x5a3534385f30 Mariahilfer Guertel
+0x5a353437cb30 Niederhofstrasse
+0x5a353437cc10 Philadelphiabruecke
+0x5a353437b6b0 Laengenfeldgasse
+0x5a353437cc10 Philadelphiabruecke
+0x5a353437ccf0 Tscherttegasse
+0x5a353437cb30 Niederhofstrasse
+0x5a353437ccf0 Tscherttegasse
+0x5a353437cd80 Am Schoepfwerk
+0x5a353437cc10 Philadelphiabruecke
+0x5a353437cd80 Am Schoepfwerk
+0x5a353437ce30 Alterlaa
+0x5a353437ccf0 Tscherttegasse
+0x5a353437ce30 Alterlaa
+0x5a353437cee0 Erlaaer Strasse
+0x5a353437cd80 Am Schoepfwerk
+0x5a353437cee0 Erlaaer Strasse
+0x5a353437cf90 Perfektastrasse
+0x5a353437ce30 Alterlaa
+0x5a353437cf90 Perfektastrasse
+0x5a353437d040 Siebenhirten
+0x5a353437cee0 Erlaaer Strasse
+0x5a353437d040 Siebenhirten
+0x5a353437cf90 Perfektastrasse
+0x5a353437d350 Stefan-Fadinger-Platz
+0x5a353437d450 Windtenstrasse
+0x5a353437d450 Windtenstrasse
+0x5a353437d4e0 Troststrasse
+0x5a353437d350 Stefan-Fadinger-Platz
+0x5a353437d4e0 Troststrasse
+0x5a353437d590 Davidgasse
+0x5a353437d450 Windtenstrasse
+0x5a35343786c0 Reumannplatz
+0x5a3534398250 Schleiergasse
+0x5a353437d590 Davidgasse
+0x5a353437d640 Knoellgasse
+0x5a353437d4e0 Troststrasse
+0x5a353437d640 Knoellgasse
+0x5a353437d6f0 Matzleinsdorfer Platz
+0x5a353437d590 Davidgasse
+0x5a3534383d70 Matzleinsdorfer Platz
+0x5a3534383c10 Bernhardtstalgasse
+0x5a353437d6f0 Matzleinsdorfer Platz
+0x5a353437d7f0 Kliebergasse
+0x5a353437d640 Knoellgasse
+0x5a3534383e40 Eichenstrasse
+0x5a353437d640 Knoellgasse
+0x5a3534386490 Kliebergasse
+0x5a35343862f0 Eichenstrasse
+0x5a3534396bc0 Eichenstrasse
+0x5a3534396a10 Kliebergasse
+0x5a353437d7f0 Kliebergasse
+0x5a353437d880 Laurenzgasse
+0x5a353437d6f0 Matzleinsdorfer Platz
+0x5a3534386520 Blechturmgasse
+0x5a353437d6f0 Matzleinsdorfer Platz
+0x5a353437d6f0 Matzleinsdorfer Platz
+0x5a3534396980 Laurenzgasse
+0x5a353437d880 Laurenzgasse
+0x5a353437d930 Johann-Straus-Gasse
+0x5a353437d7f0 Kliebergasse
+0x5a353437d7f0 Kliebergasse
+0x5a35343968b0 Johann-Strauss-Gasse
+0x5a353437d930 Johann-Straus-Gasse
+0x5a353437da30 Mayerhofgasse
+0x5a353437d880 Laurenzgasse
+0x5a353437da30 Mayerhofgasse
+0x5a353437dac0 Paulanergasse
+0x5a353437d930 Johann-Straus-Gasse
+0x5a35343968b0 Johann-Strauss-Gasse
+0x5a3534396750 Paulanergasse
+0x5a353437dac0 Paulanergasse
+0x5a353437db70 Resselgasse
+0x5a353437da30 Mayerhofgasse
+0x5a353437da30 Mayerhofgasse
+0x5a35343966c0 Resselgasse
+0x5a353437db70 Resselgasse
+0x5a3534378290 Karlsplatz
+0x5a353437dac0 Paulanergasse
+0x5a353437dac0 Paulanergasse
+0x5a35343965f0 Kaerntner Ring, Oper
+0x5a353437dcd0 Kaerntner Ring, Oper
+0x5a353437ddd0 Burgring
+0x5a3534378290 Karlsplatz
+0x5a35343806d0 Schwarzenbergplatz
+0x5a3534380570 Burgring
+0x5a353437db70 Resselgasse
+0x5a3534399330 Schwarzenbergplatz
+0x5a35343991a0 Burgring
+0x5a353439ab90 Burgring
+0x5a353439a9b0 Schwarzenbergplatz
+0x5a353437ddd0 Burgring
+0x5a353437de60 Dr.-Karl-Renner-Ring
+0x5a353437dcd0 Kaerntner Ring, Oper
+0x5a353437dcd0 Kaerntner Ring, Oper
+0x5a35343804a0 Dr.-Karl-Renner-Ring
+0x5a353437dcd0 Kaerntner Ring, Oper
+0x5a35343990f0 Dr.-Karl-Renner-Ring
+0x5a353439ac20 Dr.-Karl-Renner-Ring
+0x5a353437dcd0 Kaerntner Ring, Oper
+0x5a353437de60 Dr.-Karl-Renner-Ring
+0x5a353437df60 Stadiongasse/Parlament
+0x5a353437ddd0 Burgring
+0x5a353437ddd0 Burgring
+0x5a3534378a80 Rathaus
+0x5a3534391700 Schmerlingplatz
+0x5a353437ddd0 Burgring
+0x5a3534399020 Stadiongasse/Parlament
+0x5a353439ad20 Stadiongasse/Parlament
+0x5a353437ddd0 Burgring
+0x5a353437df60 Stadiongasse/Parlament
+0x5a353437e0a0 Rathausplatz/Burgtheater
+0x5a353437de60 Dr.-Karl-Renner-Ring
+0x5a353437de60 Dr.-Karl-Renner-Ring
+0x5a3534398f20 Rathausplatz/Burgtheater
+0x5a353439ae60 Rathausplatz/Burgtheater
+0x5a353437de60 Dr.-Karl-Renner-Ring
+0x5a353437e0a0 Rathausplatz/Burgtheater
+0x5a3534378b30 Schottentor
+0x5a353437df60 Stadiongasse/Parlament
+0x5a353437df60 Stadiongasse/Parlament
+0x5a3534378b30 Schottentor
+0x5a3534378b30 Schottentor
+0x5a353437df60 Stadiongasse/Parlament
+0x5a353437e1f0 Boerse
+0x5a3534378be0 Schottenring
+0x5a3534378b30 Schottentor
+0x5a3534378b30 Schottentor
+0x5a353437e350 Salztorbruecke
+0x5a3534378130 Schwedenplatz
+0x5a3534378be0 Schottenring
+0x5a353437e4d0 Julius-Raab-Platz
+0x5a353437e5a0 Hintere Zollamtsstrasse
+0x5a3534378130 Schwedenplatz
+0x5a3534378130 Schwedenplatz
+0x5a353437a140 Stubentor
+0x5a353437e5a0 Hintere Zollamtsstrasse
+0x5a353437e650 Radetzkyplatz
+0x5a353437e4d0 Julius-Raab-Platz
+0x5a353439cb20 Radetzkyplatz
+0x5a353439c990 Marxergasse
+0x5a353437e650 Radetzkyplatz
+0x5a353437e6e0 Hetzgasse
+0x5a353437e5a0 Hintere Zollamtsstrasse
+0x5a353439cbb0 Franzensbruecke
+0x5a353437e5a0 Hintere Zollamtsstrasse
+0x5a353437e6e0 Hetzgasse
+0x5a353437e790 Loewengasse
+0x5a353437e650 Radetzkyplatz
+0x5a353437e790 Loewengasse
+0x5a353437f050 Wittelsbachstrasse
+0x5a353437e6e0 Hetzgasse
+0x5a353437f050 Wittelsbachstrasse
+0x5a353437f150 Prater Hauptallee
+0x5a353437e790 Loewengasse
+0x5a353437f150 Prater Hauptallee
+0x5a353437f050 Wittelsbachstrasse
+0x5a353437fad0 Ottakringer Strasse/Erdbrustgasse
+0x5a353437fb70 Thaliastrasse/Maroltingergasse
+0x5a353437fb70 Thaliastrasse/Maroltingergasse
+0x5a353437a930 Ottakring
+0x5a353437fad0 Ottakringer Strasse/Erdbrustgasse
+0x5a353437fd20 Redtenbachergasse
+0x5a353437fe20 Ottakringer Strasse/Wattgasse
+0x5a353437a930 Ottakring
+0x5a353437fe20 Ottakringer Strasse/Wattgasse
+0x5a353437fee0 J.-Nepomuk-Berger-Platz
+0x5a353437fd20 Redtenbachergasse
+0x5a353437fee0 J.-Nepomuk-Berger-Platz
+0x5a353437ffe0 Neulerchenf. Strasse/Haberlgasse
+0x5a353437fe20 Ottakringer Strasse/Wattgasse
+0x5a3534384e90 Thaliastrasse/Fesstgasse
+0x5a3534384c60 Mayssengasse
+0x5a353437ffe0 Neulerchenf. Strasse/Haberlgasse
+0x5a3534380080 Neulerchenf. Strasse/Brunnengasse
+0x5a353437fee0 J.-Nepomuk-Berger-Platz
+0x5a3534380080 Neulerchenf. Strasse/Brunnengasse
+0x5a353437c660 Josefstaedter Strasse
+0x5a353437ffe0 Neulerchenf. Strasse/Haberlgasse
+0x5a3534380250 Albertgasse
+0x5a3534380310 Lederergasse/Josefstaedter Strasse
+0x5a353437c660 Josefstaedter Strasse
+0x5a3534382180 Blindengasse
+0x5a3534382020 Florianigasse
+0x5a353438b710 Florianigasse
+0x5a353437c660 Josefstaedter Strasse
+0x5a3534380310 Lederergasse/Josefstaedter Strasse
+0x5a3534378a80 Rathaus
+0x5a3534380250 Albertgasse
+0x5a35343806d0 Schwarzenbergplatz
+0x5a35343807b0 Weihburggasse
+0x5a353437dcd0 Kaerntner Ring, Oper
+0x5a3534399410 Am Heumarkt
+0x5a353437dcd0 Kaerntner Ring, Oper
+0x5a353437dcd0 Kaerntner Ring, Oper
+0x5a353439a900 Gusshausstrasse
+0x5a35343807b0 Weihburggasse
+0x5a353437a140 Stubentor
+0x5a35343806d0 Schwarzenbergplatz
+0x5a3534380a80 Gredlerstrasse
+0x5a3534380b30 Karmeliterplatz
+0x5a3534378130 Schwedenplatz
+0x5a3534380b30 Karmeliterplatz
+0x5a3534378c90 Taborstrasse
+0x5a3534380a80 Gredlerstrasse
+0x5a3534380cf0 Taborstrasse/Heinestrasse
+0x5a3534380db0 Am Tabor
+0x5a3534378c90 Taborstrasse
+0x5a3534380db0 Am Tabor
+0x5a3534380e60 Rebhanngasse
+0x5a3534380cf0 Taborstrasse/Heinestrasse
+0x5a3534381700 Nordwestbahnstrasse
+0x5a3534381580 Nordbahnstrasse
+0x5a3534380e60 Rebhanngasse
+0x5a3534380f10 Innstrasse
+0x5a3534380db0 Am Tabor
+0x5a3534380f10 Innstrasse
+0x5a3534380fc0 Traisengasse
+0x5a3534380e60 Rebhanngasse
+0x5a3534380fc0 Traisengasse
+0x5a353437c0a0 Dresdner Strasse
+0x5a3534380f10 Innstrasse
+0x5a3534381160 Hoechstaedtplatz
+0x5a3534381210 Friedrich-Engels-Platz
+0x5a353437c0a0 Dresdner Strasse
+0x5a353437c1a0 Jaegerstrasse
+0x5a353438ae00 Friedrich-Engels-Platz
+0x5a353438c140 Friedrich-Engels-Platz
+0x5a353437c1a0 Jaegerstrasse
+0x5a3534381210 Friedrich-Engels-Platz
+0x5a3534381160 Hoechstaedtplatz
+0x5a3534381160 Hoechstaedtplatz
+0x5a353438ad30 Floridsdorfer Bruecke
+0x5a3534381160 Hoechstaedtplatz
+0x5a3534381580 Nordbahnstrasse
+0x5a3534380db0 Am Tabor
+0x5a3534377ff0 Praterstern
+0x5a3534381700 Nordwestbahnstrasse
+0x5a3534381800 Rauscherstrasse
+0x5a3534380db0 Am Tabor
+0x5a3534381800 Rauscherstrasse
+0x5a3534381890 Wallensteinplatz
+0x5a3534381700 Nordwestbahnstrasse
+0x5a3534381890 Wallensteinplatz
+0x5a35343819f0 Klosterneubg S./Wallensteinstrasse
+0x5a3534381800 Rauscherstrasse
+0x5a353438bf30 Brigittaplatz
+0x5a353438bd80 Klosterneuburger Strasse
+0x5a35343819f0 Klosterneubg S./Wallensteinstrasse
+0x5a3534381ab0 Friedensbr�cke
+0x5a3534381890 Wallensteinplatz
+0x5a3534381ab0 Friedensbr�cke
+0x5a3534381b80 Franz-Josefs-Bahnhof
+0x5a35343819f0 Klosterneubg S./Wallensteinstrasse
+0x5a3534381b80 Franz-Josefs-Bahnhof
+0x5a3534381c90 Nussdorfer Strasse/Alserbachstrasse
+0x5a3534381ab0 Friedensbr�cke
+0x5a353437ab20 Friedensbruecke
+0x5a353438baf0 Nussdorfer Strasse/Alserbachstrasse
+0x5a353439b390 Althanstrasse
+0x5a353439b1f0 Seegasse
+0x5a3534381c90 Nussdorfer Strasse/Alserbachstrasse
+0x5a3534381d30 Spitalgasse/Waehringer Strasse
+0x5a3534381b80 Franz-Josefs-Bahnhof
+0x5a3534381b80 Franz-Josefs-Bahnhof
+0x5a353438ba30 Spitalgasse/Waehringer Strasse
+0x5a353438cb00 Spitalgasse/Waehringer Strasse
+0x5a353438c980 Canisiusgasse
+0x5a353438d170 Canisiusgasse
+0x5a353438cff0 Spitalgasse/Waehringer Strasse
+0x5a3534381d30 Spitalgasse/Waehringer Strasse
+0x5a3534381e10 Lazarettgasse
+0x5a3534381c90 Nussdorfer Strasse/Alserbachstrasse
+0x5a3534381c90 Nussdorfer Strasse/Alserbachstrasse
+0x5a353438b920 Lazarettgasse
+0x5a353438cbe0 Sensengasse
+0x5a3534381c90 Nussdorfer Strasse/Alserbachstrasse
+0x5a3534381c90 Nussdorfer Strasse/Alserbachstrasse
+0x5a353438cec0 Schwarzspanierstrasse
+0x5a353437c440 Waehringer Strasse-Volksoper
+0x5a353438db40 Schwarzspanierstrasse
+0x5a353437c440 Waehringer Strasse-Volksoper
+0x5a353438e600 Schwarzspanierstrasse
+0x5a3534381e10 Lazarettgasse
+0x5a3534381ec0 Lange Gasse
+0x5a3534381d30 Spitalgasse/Waehringer Strasse
+0x5a3534381d30 Spitalgasse/Waehringer Strasse
+0x5a353438b870 Lange Gasse
+0x5a3534381ec0 Lange Gasse
+0x5a3534381f70 Laudongasse
+0x5a3534381e10 Lazarettgasse
+0x5a3534381e10 Lazarettgasse
+0x5a353438b7c0 Laudongasse
+0x5a353438f970 Skodagasse
+0x5a353438f810 Landesgerichtsstrasse
+0x5a3534390480 Skodagasse
+0x5a3534390320 Landesgerichtsstrasse
+0x5a3534381f70 Laudongasse
+0x5a3534382020 Florianigasse
+0x5a3534381ec0 Lange Gasse
+0x5a3534381ec0 Lange Gasse
+0x5a353438b710 Florianigasse
+0x5a3534382020 Florianigasse
+0x5a3534380250 Albertgasse
+0x5a3534381f70 Laudongasse
+0x5a3534381f70 Laudongasse
+0x5a3534380250 Albertgasse
+0x5a3534382180 Blindengasse
+0x5a3534382250 Lerchenfelder Strasse
+0x5a3534380250 Albertgasse
+0x5a3534382250 Lerchenfelder Strasse
+0x5a3534382350 Kaiserstrasse/Neustiftgasse
+0x5a3534382180 Blindengasse
+0x5a3534382350 Kaiserstrasse/Neustiftgasse
+0x5a3534382410 Kaiserstrasse/Burggasse
+0x5a3534382250 Lerchenfelder Strasse
+0x5a3534382410 Kaiserstrasse/Burggasse
+0x5a3534382510 Kaiserstrasse/Westbahnstrasse
+0x5a3534382350 Kaiserstrasse/Neustiftgasse
+0x5a3534382510 Kaiserstrasse/Westbahnstrasse
+0x5a35343825b0 Stollgasse
+0x5a3534382410 Kaiserstrasse/Burggasse
+0x5a3534391e90 Urban-Loritz-Platz
+0x5a3534391cb0 Zieglergasse/Westbahnstrasse
+0x5a35343825b0 Stollgasse
+0x5a353437a560 Westbahnhof
+0x5a3534382510 Kaiserstrasse/Westbahnstrasse
+0x5a3534382a10 Kaiserebersdorf, Zinnergasse
+0x5a3534382af0 Valiergasse
+0x5a3534382af0 Valiergasse
+0x5a3534382bc0 Svetelskystrasse
+0x5a3534382a10 Kaiserebersdorf, Zinnergasse
+0x5a3534382bc0 Svetelskystrasse
+0x5a3534382c90 Leberberg
+0x5a3534382af0 Valiergasse
+0x5a3534382c90 Leberberg
+0x5a3534382d50 Pantucekgasse/Widholzgasse
+0x5a3534382bc0 Svetelskystrasse
+0x5a3534382d50 Pantucekgasse/Widholzgasse
+0x5a3534382e30 Zentralfriedhof 4.Tor
+0x5a3534382c90 Leberberg
+0x5a3534382e30 Zentralfriedhof 4.Tor
+0x5a3534382f00 Zentralfriedhof 3.Tor
+0x5a3534382d50 Pantucekgasse/Widholzgasse
+0x5a3534382f00 Zentralfriedhof 3.Tor
+0x5a3534382fb0 Zentralfriedhof 2.Tor
+0x5a3534382e30 Zentralfriedhof 4.Tor
+0x5a353439a190 Zentralfriedhof 3.Tor
+0x5a3534399fd0 Zentralfriedhof 2.Tor
+0x5a3534382fb0 Zentralfriedhof 2.Tor
+0x5a3534383090 Zentralfriedhof 1.Tor
+0x5a3534382f00 Zentralfriedhof 3.Tor
+0x5a3534382f00 Zentralfriedhof 3.Tor
+0x5a3534399ef0 Zentralfriedhof 1.Tor
+0x5a3534383090 Zentralfriedhof 1.Tor
+0x5a3534383170 Weissenboeckstrasse
+0x5a3534382fb0 Zentralfriedhof 2.Tor
+0x5a3534382fb0 Zentralfriedhof 2.Tor
+0x5a3534399df0 Weissenboeckstrasse
+0x5a3534383170 Weissenboeckstrasse
+0x5a3534383250 Fickeysstrasse
+0x5a3534383090 Zentralfriedhof 1.Tor
+0x5a3534383090 Zentralfriedhof 1.Tor
+0x5a3534399d40 Fickeysstrasse
+0x5a3534383250 Fickeysstrasse
+0x5a3534379ab0 Simmering
+0x5a3534383170 Weissenboeckstrasse
+0x5a3534383170 Weissenboeckstrasse
+0x5a3534379ab0 Simmering
+0x5a3534383390 Braunhubergasse
+0x5a3534379b40 Enkplatz
+0x5a3534379ab0 Simmering
+0x5a3534379ab0 Simmering
+0x5a3534399b00 Enkplatz U/Grillgasse
+0x5a3534383550 Gottschalkgasse/Enkplatz
+0x5a3534383610 Polkorabplatz
+0x5a3534379b40 Enkplatz
+0x5a3534383610 Polkorabplatz
+0x5a35343836e0 Geiselbergstrasse
+0x5a3534383550 Gottschalkgasse/Enkplatz
+0x5a35343836e0 Geiselbergstrasse
+0x5a35343837b0 Geiereckstrasse
+0x5a3534383610 Polkorabplatz
+0x5a35343837b0 Geiereckstrasse
+0x5a3534383840 Absberggasse
+0x5a35343836e0 Geiselbergstrasse
+0x5a3534383840 Absberggasse
+0x5a35343838f0 Gellertplatz
+0x5a35343837b0 Geiereckstrasse
+0x5a35343838f0 Gellertplatz
+0x5a35343839d0 Quellenstrasse/Favoritenstrasse
+0x5a3534383840 Absberggasse
+0x5a35343839d0 Quellenstrasse/Favoritenstrasse
+0x5a3534383a90 Quellenplatz
+0x5a35343838f0 Gellertplatz
+0x5a3534398540 Quellenplatz
+0x5a35343786c0 Reumannplatz
+0x5a3534383a90 Quellenplatz
+0x5a3534383b40 Neilreichgasse
+0x5a35343839d0 Quellenstrasse/Favoritenstrasse
+0x5a35343985f0 Arthaberplatz
+0x5a35343839d0 Quellenstrasse/Favoritenstrasse
+0x5a353439c1e0 Laxenburger Strasse/Gudrunstrasse
+0x5a353439c080 Arthaberplatz
+0x5a3534383b40 Neilreichgasse
+0x5a3534383c10 Bernhardtstalgasse
+0x5a3534383a90 Quellenplatz
+0x5a3534383c10 Bernhardtstalgasse
+0x5a353437d640 Knoellgasse
+0x5a3534383b40 Neilreichgasse
+0x5a3534383e40 Eichenstrasse
+0x5a3534383f30 Arbeitergasse/Margaretenguertel
+0x5a353437d6f0 Matzleinsdorfer Platz
+0x5a353437d6f0 Matzleinsdorfer Platz
+0x5a3534386250 Arbeiterg./Margaretenguertel
+0x5a3534396c50 Marx-Meidlinger-Strasse
+0x5a353437d6f0 Matzleinsdorfer Platz
+0x5a3534383f30 Arbeitergasse/Margaretenguertel
+0x5a353437b5b0 Margaretenguertel
+0x5a3534383e40 Eichenstrasse
+0x5a3534384190 Mariahilfer Guertel
+0x5a353437a560 Westbahnhof
+0x5a353437c950 Gumpendorfer Strasse
+0x5a353437c950 Gumpendorfer Strasse
+0x5a353437a560 Westbahnhof
+0x5a3534384300 Urban-Loritz-Platz
+0x5a353437c7c0 Burggasse-Stadthalle
+0x5a353437a560 Westbahnhof
+0x5a353437a560 Westbahnhof
+0x5a3534385260 Beingasse
+0x5a353437a560 Westbahnhof
+0x5a353437c7c0 Burggasse-Stadthalle
+0x5a3534391f60 Beingasse
+0x5a3534382510 Kaiserstrasse/Westbahnstrasse
+0x5a3534384670 Wallrissstrasse
+0x5a35343846e0 Schoeffelgasse
+0x5a35343846e0 Schoeffelgasse
+0x5a3534384790 Gersthof
+0x5a3534384670 Wallrissstrasse
+0x5a353438e260 Alsegger Strasse
+0x5a353438e120 Gersthof
+0x5a3534384790 Gersthof
+0x5a3534384840 Simonygasse
+0x5a35343846e0 Schoeffelgasse
+0x5a35343846e0 Schoeffelgasse
+0x5a353438e050 Weinhauser Gasse
+0x5a353438ec70 Tuerkenschanzplatz
+0x5a353438eb10 Weinhauser Gasse
+0x5a3534384840 Simonygasse
+0x5a35343848f0 Sommarugagasse
+0x5a3534384790 Gersthof
+0x5a35343848f0 Sommarugagasse
+0x5a35343849a0 Vinzenzgasse
+0x5a3534384840 Simonygasse
+0x5a353438f6b0 Antonigasse
+0x5a353438f550 Vinzenzgasse
+0x5a35343849a0 Vinzenzgasse
+0x5a3534384a50 Blumengasse
+0x5a35343848f0 Sommarugagasse
+0x5a35343848f0 Sommarugagasse
+0x5a353438f4c0 Hildebrandgasse
+0x5a3534384a50 Blumengasse
+0x5a3534384b00 Elterleinplatz
+0x5a35343849a0 Vinzenzgasse
+0x5a3534384b00 Elterleinplatz
+0x5a3534384bb0 Rosensteingasse
+0x5a3534384a50 Blumengasse
+0x5a353438fce0 Rosensteingasse
+0x5a353438fb80 Palffygasse
+0x5a3534384bb0 Rosensteingasse
+0x5a3534384c60 Mayssengasse
+0x5a3534384b00 Elterleinplatz
+0x5a353438fdf0 Hernalser Hptstrasse/Wattgasse
+0x5a3534384b00 Elterleinplatz
+0x5a3534384c60 Mayssengasse
+0x5a353437fee0 J.-Nepomuk-Berger-Platz
+0x5a3534384bb0 Rosensteingasse
+0x5a35343909e0 Wilhelminenstrasse/Wattg.
+0x5a3534390820 Teichgasse
+0x5a3534384e90 Thaliastrasse/Fesstgasse
+0x5a3534384f30 Koppstrasse/Panikengasse
+0x5a353437fee0 J.-Nepomuk-Berger-Platz
+0x5a3534391270 Thaliastrasse/Haberlgasse
+0x5a35343910e0 Schuhmeierplatz
+0x5a3534384f30 Koppstrasse/Panikengasse
+0x5a3534385030 Camillo-Sitte-Gasse
+0x5a3534384e90 Thaliastrasse/Fesstgasse
+0x5a3534385030 Camillo-Sitte-Gasse
+0x5a3534385100 Guntherstrasse
+0x5a3534384f30 Koppstrasse/Panikengasse
+0x5a3534385100 Guntherstrasse
+0x5a353437a610 Schweglerstrasse
+0x5a3534385030 Camillo-Sitte-Gasse
+0x5a3534385260 Beingasse
+0x5a3534384300 Urban-Loritz-Platz
+0x5a353437a610 Schweglerstrasse
+0x5a353437a610 Schweglerstrasse
+0x5a3534384300 Urban-Loritz-Platz
+0x5a3534385590 Hietzing, Kennedybruecke
+0x5a3534385650 Dommayergasse
+0x5a3534386ed0 Dommayergasse
+0x5a3534386cf0 Schloss Schoenbrunn
+0x5a3534387320 Dommayergasse
+0x5a3534385650 Dommayergasse
+0x5a3534385700 Gloriettegasse
+0x5a3534385590 Hietzing, Kennedybruecke
+0x5a3534386f80 Wenzgasse
+0x5a3534385590 Hietzing, Kennedybruecke
+0x5a35343873d0 Gloriettegasse
+0x5a3534385590 Hietzing, Kennedybruecke
+0x5a3534385700 Gloriettegasse
+0x5a35343857b0 Stadlergasse
+0x5a3534385650 Dommayergasse
+0x5a3534387480 Stadlergasse
+0x5a3534385650 Dommayergasse
+0x5a35343857b0 Stadlergasse
+0x5a3534385880 Jagdschlossgasse
+0x5a3534385700 Gloriettegasse
+0x5a3534387550 Jagdschlossgasse
+0x5a3534385700 Gloriettegasse
+0x5a3534385880 Jagdschlossgasse
+0x5a3534385950 Preyergasse
+0x5a35343857b0 Stadlergasse
+0x5a3534395a10 Preyergasse
+0x5a35343857b0 Stadlergasse
+0x5a3534385950 Preyergasse
+0x5a35343859e0 Hofwiesengasse
+0x5a3534385880 Jagdschlossgasse
+0x5a3534395aa0 Hofwiesengasse
+0x5a3534385880 Jagdschlossgasse
+0x5a35343859e0 Hofwiesengasse
+0x5a3534385a90 Wattmanngasse
+0x5a3534385950 Preyergasse
+0x5a3534395b50 Speising, Hermesstrasse
+0x5a3534385950 Preyergasse
+0x5a3534397690 Hermesstrasse
+0x5a3534397550 Wattmanngasse
+0x5a3534385a90 Wattmanngasse
+0x5a35343859e0 Hofwiesengasse
+0x5a35343859e0 Hofwiesengasse
+0x5a3534397470 Atzgersdorfer Strasse
+0x5a3534386250 Arbeiterg./Margaretenguertel
+0x5a3534383e40 Eichenstrasse
+0x5a353437b5b0 Margaretenguertel
+0x5a3534386520 Blechturmgasse
+0x5a353437e840 Hauptbahnhof
+0x5a353437d7f0 Kliebergasse
+0x5a353437e840 Hauptbahnhof
+0x5a353437e8f0 Quartier Belvedere
+0x5a3534386520 Blechturmgasse
+0x5a353439c440 Quartier Belvedere
+0x5a353439c2c0 Columbusplatz
+0x5a353437e8f0 Quartier Belvedere
+0x5a353437e9c0 Fasangasse
+0x5a353437e840 Hauptbahnhof
+0x5a353439a790 Schloss Belvedere
+0x5a353439a5d0 Hauptbahnhof Ost
+0x5a353439c510 Fasangasse
+0x5a353437e840 Hauptbahnhof
+0x5a353437e9c0 Fasangasse
+0x5a353437ea50 Heinrich-Drimmel-Platz
+0x5a353437e8f0 Quartier Belvedere
+0x5a353439c5a0 Koelblgasse
+0x5a353437e8f0 Quartier Belvedere
+0x5a353437ea50 Heinrich-Drimmel-Platz
+0x5a353437eb50 Wildgansplatz
+0x5a353437e9c0 Fasangasse
+0x5a353437eb50 Wildgansplatz
+0x5a353437ebe0 Sankt Marx
+0x5a353437ea50 Heinrich-Drimmel-Platz
+0x5a353437ebe0 Sankt Marx
+0x5a353437ec90 Viehmarktgasse
+0x5a353437eb50 Wildgansplatz
+0x5a3534399840 Litfassstrasse
+0x5a35343996e0 Oberzellergasse
+0x5a353437ec90 Viehmarktgasse
+0x5a353437ed40 Baumgasse
+0x5a353437ebe0 Sankt Marx
+0x5a353437ed40 Baumgasse
+0x5a3534379e20 Schlachthausgasse
+0x5a353437ec90 Viehmarktgasse
+0x5a353437ef60 Hossplatz
+0x5a35343875e0 Fultonstrasse
+0x5a353437be90 Floridsdorf
+0x5a353437be90 Floridsdorf
+0x5a3534388dd0 Fultonstrasse
+0x5a35343875e0 Fultonstrasse
+0x5a3534387650 Carminweg
+0x5a353437ef60 Hossplatz
+0x5a353437ef60 Hossplatz
+0x5a3534388d40 Carminweg
+0x5a3534387650 Carminweg
+0x5a3534387720 Josef-Baumann-Gasse
+0x5a35343875e0 Fultonstrasse
+0x5a35343875e0 Fultonstrasse
+0x5a3534388c70 Josef-Baumann-Gasse
+0x5a3534387720 Josef-Baumann-Gasse
+0x5a3534387820 Prandaugasse
+0x5a3534387650 Carminweg
+0x5a3534387650 Carminweg
+0x5a3534388bc0 Saikogasse
+0x5a3534387820 Prandaugasse
+0x5a3534377bf0 Kagran
+0x5a3534387720 Josef-Baumann-Gasse
+0x5a3534387960 Donauzentrum
+0x5a3534387a10 Kagraner Bruecke
+0x5a3534377bf0 Kagran
+0x5a3534387a10 Kagraner Bruecke
+0x5a3534387b10 Arminenstrasse
+0x5a3534387960 Donauzentrum
+0x5a3534387b10 Arminenstrasse
+0x5a3534387ba0 Donaustadtstrasse
+0x5a3534387a10 Kagraner Bruecke
+0x5a3534387ba0 Donaustadtstrasse
+0x5a3534387ca0 Polgarstrasse
+0x5a3534387b10 Arminenstrasse
+0x5a3534387ca0 Polgarstrasse
+0x5a3534387d30 Erzherzog-Karl-Strasse
+0x5a3534387ba0 Donaustadtstrasse
+0x5a3534387d30 Erzherzog-Karl-Strasse
+0x5a3534387e30 Konstanziagasse
+0x5a3534387ca0 Polgarstrasse
+0x5a3534387e30 Konstanziagasse
+0x5a3534387ec0 Langobardenstrasse
+0x5a3534387d30 Erzherzog-Karl-Strasse
+0x5a3534387ec0 Langobardenstrasse
+0x5a3534379470 Hardeggasse
+0x5a3534387e30 Konstanziagasse
+0x5a3534388160 Langobardenstrasse/Kapellenweg
+0x5a3534388220 Trondheimgasse
+0x5a3534379520 Donauspital
+0x5a3534388220 Trondheimgasse
+0x5a35343882d0 Oberdorfstrasse
+0x5a3534388160 Langobardenstrasse/Kapellenweg
+0x5a35343882d0 Oberdorfstrasse
+0x5a3534388220 Trondheimgasse
+0x5a3534388380 Hausfeldstrasse
+0x5a3534388430 Am Heidjoechl
+0x5a3534388430 Am Heidjoechl
+0x5a35343884e0 Zanggasse
+0x5a3534388380 Hausfeldstrasse
+0x5a35343884e0 Zanggasse
+0x5a3534388590 Prinzgasse
+0x5a3534388430 Am Heidjoechl
+0x5a3534388590 Prinzgasse
+0x5a3534388660 Ziegelhofstrasse
+0x5a35343884e0 Zanggasse
+0x5a3534388660 Ziegelhofstrasse
+0x5a3534388730 Spargelfeldstrasse
+0x5a3534388590 Prinzgasse
+0x5a3534388730 Spargelfeldstrasse
+0x5a3534388840 Suessenbrunner Str/Oberfeldgasse
+0x5a3534388660 Ziegelhofstrasse
+0x5a3534388840 Suessenbrunner Str/Oberfeldgasse
+0x5a3534388900 Gewerbepark Stadlau
+0x5a3534388730 Spargelfeldstrasse
+0x5a3534388900 Gewerbepark Stadlau
+0x5a35343889d0 Forstnergasse
+0x5a3534388840 Suessenbrunner Str/Oberfeldgasse
+0x5a35343889d0 Forstnergasse
+0x5a3534388a60 Kraygasse
+0x5a3534388900 Gewerbepark Stadlau
+0x5a3534388a60 Kraygasse
+0x5a3534377af0 Kagraner Platz
+0x5a35343889d0 Forstnergasse
+0x5a3534388bc0 Saikogasse
+0x5a3534387720 Josef-Baumann-Gasse
+0x5a3534377af0 Kagraner Platz
+0x5a3534388fe0 Am Spitz
+0x5a3534389090 Nordbruecke
+0x5a353437be90 Floridsdorf
+0x5a3534389090 Nordbruecke
+0x5a3534389140 Koloniestrasse
+0x5a3534388fe0 Am Spitz
+0x5a3534389140 Koloniestrasse
+0x5a35343891f0 Hopfengasse
+0x5a3534389090 Nordbruecke
+0x5a35343891f0 Hopfengasse
+0x5a35343892a0 Winkelaeckerstrasse
+0x5a3534389140 Koloniestrasse
+0x5a35343892a0 Winkelaeckerstrasse
+0x5a35343893a0 Autokaderstrasse
+0x5a35343891f0 Hopfengasse
+0x5a35343893a0 Autokaderstrasse
+0x5a3534389480 Russbergstrasse
+0x5a35343892a0 Winkelaeckerstrasse
+0x5a3534389480 Russbergstrasse
+0x5a3534389510 Edmund-Hawranek-Platz
+0x5a35343893a0 Autokaderstrasse
+0x5a3534389510 Edmund-Hawranek-Platz
+0x5a3534389480 Russbergstrasse
+0x5a3534389610 Stammersdorf
+0x5a35343896a0 Van-Swieten-Kaserne
+0x5a353438a260 Van-Swieten-Kaserne
+0x5a35343896a0 Van-Swieten-Kaserne
+0x5a35343897a0 Anton-Schall-Gasse
+0x5a3534389610 Stammersdorf
+0x5a353438a360 Anton-Schall-Gasse
+0x5a3534389610 Stammersdorf
+0x5a35343897a0 Anton-Schall-Gasse
+0x5a3534389880 Empergergasse
+0x5a35343896a0 Van-Swieten-Kaserne
+0x5a353438a440 Empergergasse
+0x5a35343896a0 Van-Swieten-Kaserne
+0x5a3534389880 Empergergasse
+0x5a3534389970 Bruenner Strasse/Hanreiterg.
+0x5a35343897a0 Anton-Schall-Gasse
+0x5a353438a530 Bruenner Strasse/Hanreiterg.
+0x5a35343897a0 Anton-Schall-Gasse
+0x5a3534389970 Bruenner Strasse/Hanreiterg.
+0x5a3534389a30 Carabelligasse
+0x5a3534389880 Empergergasse
+0x5a353438a5f0 Carabelligasse
+0x5a3534389880 Empergergasse
+0x5a3534389a30 Carabelligasse
+0x5a3534389b00 Grossjedlersdorf
+0x5a3534389970 Bruenner Strasse/Hanreiterg.
+0x5a353438a6c0 Grossjedlersdorf
+0x5a3534389970 Bruenner Strasse/Hanreiterg.
+0x5a3534389b00 Grossjedlersdorf
+0x5a3534389bd0 Shuttleworthstrasse
+0x5a3534389a30 Carabelligasse
+0x5a353438a790 Shuttleworthstrasse
+0x5a3534389a30 Carabelligasse
+0x5a3534389bd0 Shuttleworthstrasse
+0x5a3534389c80 Bruenner Strasse
+0x5a3534389b00 Grossjedlersdorf
+0x5a353438a840 Bruenner Strasse
+0x5a3534389b00 Grossjedlersdorf
+0x5a3534389c80 Bruenner Strasse
+0x5a3534389d60 Bahnsteggasse
+0x5a3534389bd0 Shuttleworthstrasse
+0x5a353438a920 Bahnsteggasse
+0x5a3534389bd0 Shuttleworthstrasse
+0x5a3534389d60 Bahnsteggasse
+0x5a3534389df0 Floridsdorfer Markt
+0x5a3534389c80 Bruenner Strasse
+0x5a353438a9b0 Floridsdorfer Markt
+0x5a3534389c80 Bruenner Strasse
+0x5a3534389df0 Floridsdorfer Markt
+0x5a353437be90 Floridsdorf
+0x5a3534389d60 Bahnsteggasse
+0x5a353437be90 Floridsdorf
+0x5a3534389d60 Bahnsteggasse
+0x5a353438aba0 Matthaeus-Jiszda-Strasse
+0x5a353438ac60 Hubertusdamm
+0x5a353437be90 Floridsdorf
+0x5a353438ac60 Hubertusdamm
+0x5a353438ad30 Floridsdorfer Bruecke
+0x5a353438aba0 Matthaeus-Jiszda-Strasse
+0x5a353438ad30 Floridsdorfer Bruecke
+0x5a3534381210 Friedrich-Engels-Platz
+0x5a353438ac60 Hubertusdamm
+0x5a353438b020 Wexstrasse
+0x5a353438b0d0 Gerhardusgasse
+0x5a353437c1a0 Jaegerstrasse
+0x5a353438b0d0 Gerhardusgasse
+0x5a353438b1e0 Klosterneubg S./Wallensteinstr
+0x5a353438b020 Wexstrasse
+0x5a353438b1e0 Klosterneubg S./Wallensteinstr
+0x5a353438b2a0 Gaussplatz
+0x5a353438b0d0 Gerhardusgasse
+0x5a353438b2a0 Gaussplatz
+0x5a353438b370 Obere Augartenstrasse
+0x5a353438b1e0 Klosterneubg S./Wallensteinstr
+0x5a353438b370 Obere Augartenstrasse
+0x5a353438b440 Obere Donaustrasse
+0x5a353438b2a0 Gaussplatz
+0x5a353438b440 Obere Donaustrasse
+0x5a3534378be0 Schottenring
+0x5a353438b370 Obere Augartenstrasse
+0x5a353438bd80 Klosterneuburger Strasse
+0x5a3534381890 Wallensteinplatz
+0x5a353437ab20 Friedensbruecke
+0x5a353438bf30 Brigittaplatz
+0x5a353437c1a0 Jaegerstrasse
+0x5a3534381890 Wallensteinplatz
+0x5a353438c370 Hohe Warte
+0x5a353438c3e0 Perntergasse
+0x5a353438c3e0 Perntergasse
+0x5a353438c490 Barawitzkagasse
+0x5a353438c370 Hohe Warte
+0x5a353438c490 Barawitzkagasse
+0x5a353438c540 Pokornygasse
+0x5a353438c3e0 Perntergasse
+0x5a353438c540 Pokornygasse
+0x5a353438c650 Doeblinger Hptstrasse/Gatterburgg.
+0x5a353438c490 Barawitzkagasse
+0x5a353438c650 Doeblinger Hptstrasse/Gatterburgg.
+0x5a353438c730 Guneschgasse
+0x5a353438c540 Pokornygasse
+0x5a353438c730 Guneschgasse
+0x5a353438c7e0 Glatzgasse
+0x5a353438c650 Doeblinger Hptstrasse/Gatterburgg.
+0x5a353438c7e0 Glatzgasse
+0x5a353437c2e0 Nussdorfer Strasse
+0x5a353438c730 Guneschgasse
+0x5a353438d3a0 Hardtgasse
+0x5a353437c2e0 Nussdorfer Strasse
+0x5a353438c980 Canisiusgasse
+0x5a3534381c90 Nussdorfer Strasse/Alserbachstrasse
+0x5a353437c2e0 Nussdorfer Strasse
+0x5a353437c2e0 Nussdorfer Strasse
+0x5a3534381c90 Nussdorfer Strasse/Alserbachstrasse
+0x5a353438cbe0 Sensengasse
+0x5a353438ccb0 Schwarzspanierstrasse
+0x5a3534381d30 Spitalgasse/Waehringer Strasse
+0x5a353438ccb0 Schwarzspanierstrasse
+0x5a3534378b30 Schottentor
+0x5a353438cbe0 Sensengasse
+0x5a3534381d30 Spitalgasse/Waehringer Strasse
+0x5a3534378b30 Schottentor
+0x5a3534381d30 Spitalgasse/Waehringer Strasse
+0x5a3534378b30 Schottentor
+0x5a3534381d30 Spitalgasse/Waehringer Strasse
+0x5a3534378b30 Schottentor
+0x5a353438f250 Spitalgasse/Waehringer strasse
+0x5a3534378b30 Schottentor
+0x5a353438ce10 Schottentor
+0x5a353438ccb0 Schwarzspanierstrasse
+0x5a353438d3a0 Hardtgasse
+0x5a353438d450 Gatterburggasse
+0x5a353438c7e0 Glatzgasse
+0x5a353438d450 Gatterburggasse
+0x5a353438d500 Silbergasse
+0x5a353438d3a0 Hardtgasse
+0x5a353438d500 Silbergasse
+0x5a353438d5b0 Oberdoebling
+0x5a353438d450 Gatterburggasse
+0x5a353438d5b0 Oberdoebling
+0x5a353438d660 Sieveringer Strasse
+0x5a353438d500 Silbergasse
+0x5a353438d660 Sieveringer Strasse
+0x5a353438d730 Paradisgasse
+0x5a353438d5b0 Oberdoebling
+0x5a353438d730 Paradisgasse
+0x5a353438d7c0 An den langen Luessen
+0x5a353438d660 Sieveringer Strasse
+0x5a353438d7c0 An den langen Luessen
+0x5a353438d8c0 Grinzing
+0x5a353438d730 Paradisgasse
+0x5a353438d8c0 Grinzing
+0x5a353438d7c0 An den langen Luessen
+0x5a353438de20 Kutschkergasse
+0x5a353438ded0 Martinstrasse
+0x5a353437c440 Waehringer Strasse-Volksoper
+0x5a353438e990 Martinstrasse
+0x5a353437c440 Waehringer Strasse-Volksoper
+0x5a353438ded0 Martinstrasse
+0x5a353438df80 Aumannplatz
+0x5a353438de20 Kutschkergasse
+0x5a353438ea40 Aumannplatz
+0x5a353438de20 Kutschkergasse
+0x5a353438df80 Aumannplatz
+0x5a353438e050 Weinhauser Gasse
+0x5a353438ded0 Martinstrasse
+0x5a353438eb10 Weinhauser Gasse
+0x5a353438ded0 Martinstrasse
+0x5a353438e050 Weinhauser Gasse
+0x5a3534384790 Gersthof
+0x5a353438df80 Aumannplatz
+0x5a3534384790 Gersthof
+0x5a353438df80 Aumannplatz
+0x5a353438e260 Alsegger Strasse
+0x5a353438e330 Scheibenbergstrasse
+0x5a35343846e0 Schoeffelgasse
+0x5a353438e330 Scheibenbergstrasse
+0x5a353438e410 Eckpergasse
+0x5a353438e260 Alsegger Strasse
+0x5a353438e410 Eckpergasse
+0x5a353438e4a0 Herbeckstrasse
+0x5a353438e330 Scheibenbergstrasse
+0x5a353438e4a0 Herbeckstrasse
+0x5a353438e410 Eckpergasse
+0x5a353438ec70 Tuerkenschanzplatz
+0x5a353438ed40 Erndtgasse
+0x5a3534384790 Gersthof
+0x5a353438ed40 Erndtgasse
+0x5a353438ee30 Gersthf. Strasse/Scheibenbergstrasse
+0x5a353438ec70 Tuerkenschanzplatz
+0x5a353438ee30 Gersthf. Strasse/Scheibenbergstrasse
+0x5a353438eef0 Poetzleinsdorf
+0x5a353438ed40 Erndtgasse
+0x5a353438eef0 Poetzleinsdorf
+0x5a353438ee30 Gersthf. Strasse/Scheibenbergstrasse
+0x5a353438f250 Spitalgasse/Waehringer strasse
+0x5a353437c440 Waehringer Strasse-Volksoper
+0x5a353438ccb0 Schwarzspanierstrasse
+0x5a353438f4c0 Hildebrandgasse
+0x5a35343849a0 Vinzenzgasse
+0x5a353437c500 Michelbeuern-AKH
+0x5a353438f6b0 Antonigasse
+0x5a35343848f0 Sommarugagasse
+0x5a353438f810 Landesgerichtsstrasse
+0x5a3534381ec0 Lange Gasse
+0x5a353438ce10 Schottentor
+0x5a3534381ec0 Lange Gasse
+0x5a353438ce10 Schottentor
+0x5a353438f970 Skodagasse
+0x5a353438fa20 Bruennlbadgasse
+0x5a3534381ec0 Lange Gasse
+0x5a3534390530 Bruennlbadgasse
+0x5a3534381ec0 Lange Gasse
+0x5a353438fa20 Bruennlbadgasse
+0x5a353437c5d0 Alser Strasse
+0x5a353438f970 Skodagasse
+0x5a35343905e0 Hernalser Guertel
+0x5a353438f970 Skodagasse
+0x5a353438fb80 Palffygasse
+0x5a3534384b00 Elterleinplatz
+0x5a353437c5d0 Alser Strasse
+0x5a353438fdf0 Hernalser Hptstrasse/Wattgasse
+0x5a353438feb0 Hernals
+0x5a3534384bb0 Rosensteingasse
+0x5a353438feb0 Hernals
+0x5a353438ff60 Dornbach Guepferlingstrasse
+0x5a353438fdf0 Hernalser Hptstrasse/Wattgasse
+0x5a353438ff60 Dornbach Guepferlingstrasse
+0x5a3534390060 Dornbacher Strasse
+0x5a353438feb0 Hernals
+0x5a3534390c30 Liebknechtgasse
+0x5a3534390060 Dornbacher Strasse
+0x5a3534390130 Himmelmutterweg
+0x5a353438ff60 Dornbach Guepferlingstrasse
+0x5a3534390130 Himmelmutterweg
+0x5a35343901c0 Neuwaldegg
+0x5a3534390060 Dornbacher Strasse
+0x5a35343901c0 Neuwaldegg
+0x5a3534390130 Himmelmutterweg
+0x5a35343905e0 Hernalser Guertel
+0x5a35343906e0 Yppengasse
+0x5a353438fa20 Bruennlbadgasse
+0x5a35343906e0 Yppengasse
+0x5a3534390770 Frauengasse
+0x5a35343905e0 Hernalser Guertel
+0x5a3534390770 Frauengasse
+0x5a3534390820 Teichgasse
+0x5a35343906e0 Yppengasse
+0x5a3534390820 Teichgasse
+0x5a3534384c60 Mayssengasse
+0x5a3534390770 Frauengasse
+0x5a35343909e0 Wilhelminenstrasse/Wattg.
+0x5a3534390aa0 Roemergasse
+0x5a3534384c60 Mayssengasse
+0x5a3534390aa0 Roemergasse
+0x5a3534390b50 Wilhelminenstrasse/Sandleiteng.
+0x5a35343909e0 Wilhelminenstrasse/Wattg.
+0x5a3534390b50 Wilhelminenstrasse/Sandleiteng.
+0x5a3534390c30 Liebknechtgasse
+0x5a3534390aa0 Roemergasse
+0x5a3534390c30 Liebknechtgasse
+0x5a353438ff60 Dornbach Guepferlingstrasse
+0x5a3534390b50 Wilhelminenstrasse/Sandleiteng.
+0x5a3534390de0 Joachimsthalerplatz
+0x5a3534390eb0 Rankgasse
+0x5a3534390eb0 Rankgasse
+0x5a3534390f70 Thaliastrasse/Maroltingerg.
+0x5a3534390de0 Joachimsthalerplatz
+0x5a3534390f70 Thaliastrasse/Maroltingerg.
+0x5a353437a930 Ottakring
+0x5a3534390eb0 Rankgasse
+0x5a35343910e0 Schuhmeierplatz
+0x5a3534384e90 Thaliastrasse/Fesstgasse
+0x5a353437a930 Ottakring
+0x5a3534391270 Thaliastrasse/Haberlgasse
+0x5a3534391350 Brunnengasse
+0x5a3534384e90 Thaliastrasse/Fesstgasse
+0x5a3534391350 Brunnengasse
+0x5a353437c730 Thaliastrasse
+0x5a3534391270 Thaliastrasse/Haberlgasse
+0x5a35343914d0 Schottenfeldgasse
+0x5a35343915a0 Strozzigasse
+0x5a353437c730 Thaliastrasse
+0x5a35343915a0 Strozzigasse
+0x5a3534391630 Auerspergstrasse
+0x5a35343914d0 Schottenfeldgasse
+0x5a3534391630 Auerspergstrasse
+0x5a3534391700 Schmerlingplatz
+0x5a35343915a0 Strozzigasse
+0x5a3534391700 Schmerlingplatz
+0x5a353437de60 Dr.-Karl-Renner-Ring
+0x5a3534391630 Auerspergstrasse
+0x5a3534391890 Dr.-Karl-Renner-Ring
+0x5a35343789d0 Volkstheater
+0x5a3534391a00 Stiftgasse
+0x5a3534391ab0 Siebensterngasse
+0x5a35343789d0 Volkstheater
+0x5a3534391ab0 Siebensterngasse
+0x5a3534391c10 Neubaugasse/Westbahnstrasse
+0x5a3534391a00 Stiftgasse
+0x5a3534391c10 Neubaugasse/Westbahnstrasse
+0x5a3534391cb0 Zieglergasse/Westbahnstrasse
+0x5a3534391ab0 Siebensterngasse
+0x5a3534391cb0 Zieglergasse/Westbahnstrasse
+0x5a3534382510 Kaiserstrasse/Westbahnstrasse
+0x5a3534391c10 Neubaugasse/Westbahnstrasse
+0x5a35343920c0 Huglgasse
+0x5a353437a710 Johnstrasse
+0x5a353437a610 Schweglerstrasse
+0x5a3534392300 Breitensee
+0x5a3534392390 Leyserstrasse
+0x5a353437a7a0 Huetteldorfer Strasse
+0x5a3534392390 Leyserstrasse
+0x5a35343924a0 Huetteldorfer Strasse/Luetzowg.
+0x5a3534392300 Breitensee
+0x5a35343924a0 Huetteldorfer Strasse/Luetzowg.
+0x5a3534392580 Seckendorfstrasse
+0x5a3534392390 Leyserstrasse
+0x5a3534392580 Seckendorfstrasse
+0x5a3534392650 Waidhausenstrasse
+0x5a35343924a0 Huetteldorfer Strasse/Luetzowg.
+0x5a3534392650 Waidhausenstrasse
+0x5a3534392760 Hochsatzeng./Huetteldorfer Strasse
+0x5a3534392580 Seckendorfstrasse
+0x5a3534392760 Hochsatzeng./Huetteldorfer Strasse
+0x5a3534392800 Baumgarten
+0x5a3534392650 Waidhausenstrasse
+0x5a3534392800 Baumgarten
+0x5a35343928b0 Bahnhofstrasse
+0x5a3534392760 Hochsatzeng./Huetteldorfer Strasse
+0x5a3534393830 Hochsatzengasse/Linzer Strasse
+0x5a35343928b0 Bahnhofstrasse
+0x5a3534392960 Huetteldorf, Bujattigasse
+0x5a3534392800 Baumgarten
+0x5a3534392960 Huetteldorf, Bujattigasse
+0x5a35343928b0 Bahnhofstrasse
+0x5a3534392c90 Gerstnerstrasse/Westbhf.
+0x5a3534392d70 Staglgasse
+0x5a353437a560 Westbahnhof
+0x5a3534386890 Staglgasse
+0x5a353437a560 Westbahnhof
+0x5a3534392d70 Staglgasse
+0x5a3534392e20 Kranzgasse
+0x5a3534392c90 Gerstnerstrasse/Westbhf.
+0x5a3534386940 Kranzgasse
+0x5a3534392c90 Gerstnerstrasse/Westbhf.
+0x5a3534392e20 Kranzgasse
+0x5a3534392ed0 Rustengasse
+0x5a3534392d70 Staglgasse
+0x5a35343869f0 Rustengasse
+0x5a3534392d70 Staglgasse
+0x5a3534392ed0 Rustengasse
+0x5a3534392f80 Anschuetzgasse
+0x5a3534392e20 Kranzgasse
+0x5a3534386aa0 Anschuetzgasse
+0x5a3534392e20 Kranzgasse
+0x5a3534392f80 Anschuetzgasse
+0x5a3534393050 Winckelmannstrasse
+0x5a3534392ed0 Rustengasse
+0x5a3534386b70 Winckelmannstrasse
+0x5a3534392ed0 Rustengasse
+0x5a3534393050 Winckelmannstrasse
+0x5a3534393120 Penzinger Strasse
+0x5a3534392f80 Anschuetzgasse
+0x5a3534386c40 Penzinger Strasse
+0x5a3534392f80 Anschuetzgasse
+0x5a3534393120 Penzinger Strasse
+0x5a3534393230 Johnstrasse/Linzer Strasse
+0x5a3534393050 Winckelmannstrasse
+0x5a3534386cf0 Schloss Schoenbrunn
+0x5a3534393050 Winckelmannstrasse
+0x5a3534393230 Johnstrasse/Linzer Strasse
+0x5a35343932d0 Linzer Strasse/Reinlgasse
+0x5a3534393120 Penzinger Strasse
+0x5a35343932d0 Linzer Strasse/Reinlgasse
+0x5a35343933b0 Diesterweggasse
+0x5a3534393230 Johnstrasse/Linzer Strasse
+0x5a35343933b0 Diesterweggasse
+0x5a3534393460 Ameisgasse
+0x5a35343932d0 Linzer Strasse/Reinlgasse
+0x5a3534393460 Ameisgasse
+0x5a3534393510 Luetzowgasse
+0x5a35343933b0 Diesterweggasse
+0x5a3534393510 Luetzowgasse
+0x5a35343935e0 Gusenleithnergasse
+0x5a3534393460 Ameisgasse
+0x5a35343935e0 Gusenleithnergasse
+0x5a35343936e0 Zehetnergasse/Linzer Strasse
+0x5a3534393510 Luetzowgasse
+0x5a35343936e0 Zehetnergasse/Linzer Strasse
+0x5a3534393780 Gruschaplatz
+0x5a35343935e0 Gusenleithnergasse
+0x5a3534393780 Gruschaplatz
+0x5a3534393830 Hochsatzengasse/Linzer Strasse
+0x5a35343936e0 Zehetnergasse/Linzer Strasse
+0x5a3534393830 Hochsatzengasse/Linzer Strasse
+0x5a3534392800 Baumgarten
+0x5a3534393780 Gruschaplatz
+0x5a3534386cf0 Schloss Schoenbrunn
+0x5a3534385590 Hietzing, Kennedybruecke
+0x5a3534393120 Penzinger Strasse
+0x5a3534386f80 Wenzgasse
+0x5a3534387030 Fichtnergasse
+0x5a3534385650 Dommayergasse
+0x5a3534387030 Fichtnergasse
+0x5a35343870e0 Verbindungsbahn
+0x5a3534386f80 Wenzgasse
+0x5a35343870e0 Verbindungsbahn
+0x5a3534387190 Hummelgasse
+0x5a3534387030 Fichtnergasse
+0x5a3534387190 Hummelgasse
+0x5a35343870e0 Verbindungsbahn
+0x5a3534395b50 Speising, Hermesstrasse
+0x5a3534395c20 Riedelgasse
+0x5a35343859e0 Hofwiesengasse
+0x5a3534395c20 Riedelgasse
+0x5a3534395cb0 Sillerplatz
+0x5a3534395b50 Speising, Hermesstrasse
+0x5a3534395cb0 Sillerplatz
+0x5a3534395d60 Franz-Asenbauer-Gasse
+0x5a3534395c20 Riedelgasse
+0x5a3534395d60 Franz-Asenbauer-Gasse
+0x5a3534395e60 Maurer Hauptplatz
+0x5a3534395cb0 Sillerplatz
+0x5a3534395e60 Maurer Hauptplatz
+0x5a3534395f40 Maurer-Lange-Gasse
+0x5a3534395d60 Franz-Asenbauer-Gasse
+0x5a3534395f40 Maurer-Lange-Gasse
+0x5a3534396020 Anton-Krieger-Gasse
+0x5a3534395e60 Maurer Hauptplatz
+0x5a3534396020 Anton-Krieger-Gasse
+0x5a3534396160 Breitenfurter Str/Liesingbr
+0x5a3534395f40 Maurer-Lange-Gasse
+0x5a3534396160 Breitenfurter Str/Liesingbr
+0x5a3534396200 Kaiser-Franz-Josef-Strasse
+0x5a3534396020 Anton-Krieger-Gasse
+0x5a3534396200 Kaiser-Franz-Josef-Strasse
+0x5a35343962e0 Rodaun
+0x5a3534396160 Breitenfurter Str/Liesingbr
+0x5a35343962e0 Rodaun
+0x5a3534396200 Kaiser-Franz-Josef-Strasse
+0x5a35343968b0 Johann-Strauss-Gasse
+0x5a353437d880 Laurenzgasse
+0x5a353437da30 Mayerhofgasse
+0x5a3534396c50 Marx-Meidlinger-Strasse
+0x5a3534396db0 Flurschuetzstrasse/Laengenfeldg.
+0x5a3534383e40 Eichenstrasse
+0x5a3534396db0 Flurschuetzstrasse/Laengenfeldg.
+0x5a3534396e50 Assmayergasse
+0x5a3534396c50 Marx-Meidlinger-Strasse
+0x5a3534396e50 Assmayergasse
+0x5a3534396f00 Doerfelstrasse
+0x5a3534396db0 Flurschuetzstrasse/Laengenfeldg.
+0x5a3534396f00 Doerfelstrasse
+0x5a3534396fd0 Bahnhof Meidling
+0x5a3534396e50 Assmayergasse
+0x5a3534396fd0 Bahnhof Meidling
+0x5a35343970a0 Wienerbergbruecke
+0x5a3534396f00 Doerfelstrasse
+0x5a35343970a0 Wienerbergbruecke
+0x5a3534397150 Sonnergasse
+0x5a3534396fd0 Bahnhof Meidling
+0x5a3534397150 Sonnergasse
+0x5a35343971e0 Hetzendorf
+0x5a35343970a0 Wienerbergbruecke
+0x5a35343971e0 Hetzendorf
+0x5a3534397290 Schloss Hetzendorf
+0x5a3534397150 Sonnergasse
+0x5a3534397290 Schloss Hetzendorf
+0x5a3534397390 Rosenhuegelstrasse
+0x5a35343971e0 Hetzendorf
+0x5a3534397390 Rosenhuegelstrasse
+0x5a3534397470 Atzgersdorfer Strasse
+0x5a3534397290 Schloss Hetzendorf
+0x5a3534397470 Atzgersdorfer Strasse
+0x5a3534385a90 Wattmanngasse
+0x5a3534397390 Rosenhuegelstrasse
+0x5a3534397690 Hermesstrasse
+0x5a3534397740 Krankenhaus Hietzing
+0x5a35343859e0 Hofwiesengasse
+0x5a3534397740 Krankenhaus Hietzing
+0x5a3534397840 Versorgungsheimplatz
+0x5a3534397690 Hermesstrasse
+0x5a3534397840 Versorgungsheimplatz
+0x5a3534397980 Lainz, Wolkersbergenstrasse
+0x5a3534397740 Krankenhaus Hietzing
+0x5a3534397980 Lainz, Wolkersbergenstrasse
+0x5a3534397840 Versorgungsheimplatz
+0x5a3534397a40 Oberlaa - Therme Wien
+0x5a3534397b10 Laaer-Berg-Strasse
+0x5a3534397b10 Laaer-Berg-Strasse
+0x5a3534397c20 Per-Albin-Hansson-Sdlg. Ost
+0x5a3534397a40 Oberlaa - Therme Wien
+0x5a3534397c20 Per-Albin-Hansson-Sdlg. Ost
+0x5a3534397ce0 Hubert-Gsur-Gasse
+0x5a3534397b10 Laaer-Berg-Strasse
+0x5a3534397ce0 Hubert-Gsur-Gasse
+0x5a3534397db0 Adolf-Unger-Gasse
+0x5a3534397c20 Per-Albin-Hansson-Sdlg. Ost
+0x5a3534397db0 Adolf-Unger-Gasse
+0x5a3534397e60 Stockholmer Platz
+0x5a3534397ce0 Hubert-Gsur-Gasse
+0x5a3534397e60 Stockholmer Platz
+0x5a3534397f40 Alaudagasse
+0x5a3534397db0 Adolf-Unger-Gasse
+0x5a3534397f40 Alaudagasse
+0x5a3534397e60 Stockholmer Platz
+0x5a35343981a0 Altes Landgut
+0x5a3534398030 Per-Albin-Hansson-Siedlung
+0x5a3534398030 Per-Albin-Hansson-Siedlung
+0x5a3534397f40 Alaudagasse
+0x5a35343981a0 Altes Landgut
+0x5a3534398250 Schleiergasse
+0x5a3534397f40 Alaudagasse
+0x5a3534398250 Schleiergasse
+0x5a353437d4e0 Troststrasse
+0x5a35343981a0 Altes Landgut
+0x5a35343985f0 Arthaberplatz
+0x5a35343986a0 Laxenburger Strasse/Troststrasse
+0x5a3534383a90 Quellenplatz
+0x5a3534383a90 Quellenplatz
+0x5a353439bfa0 Laxenburger Strasse/Troststrasse
+0x5a35343986a0 Laxenburger Strasse/Troststrasse
+0x5a3534398780 Troststrasse/Neilreichgasse
+0x5a35343985f0 Arthaberplatz
+0x5a35343985f0 Arthaberplatz
+0x5a353439bec0 Troststrasse/Neilreichgasse
+0x5a3534398780 Troststrasse/Neilreichgasse
+0x5a3534398860 Raxstrasse/Rudolfshuegelgasse
+0x5a35343986a0 Laxenburger Strasse/Troststrasse
+0x5a35343986a0 Laxenburger Strasse/Troststrasse
+0x5a353439be00 Migerkastrasse
+0x5a3534398860 Raxstrasse/Rudolfshuegelgasse
+0x5a3534398940 Sahulkastrasse
+0x5a3534398780 Troststrasse/Neilreichgasse
+0x5a3534398940 Sahulkastrasse
+0x5a35343989f0 Wienerfeldgasse
+0x5a3534398860 Raxstrasse/Rudolfshuegelgasse
+0x5a35343989f0 Wienerfeldgasse
+0x5a3534398aa0 Froedenplatz
+0x5a3534398940 Sahulkastrasse
+0x5a3534398aa0 Froedenplatz
+0x5a3534398b70 Otto-Probst-Strasse
+0x5a35343989f0 Wienerfeldgasse
+0x5a3534398b70 Otto-Probst-Strasse
+0x5a3534398c40 Tesarekplatz
+0x5a3534398aa0 Froedenplatz
+0x5a3534398c40 Tesarekplatz
+0x5a3534398cd0 Otto-Probst-Platz
+0x5a3534398b70 Otto-Probst-Strasse
+0x5a3534398cd0 Otto-Probst-Platz
+0x5a3534398c40 Tesarekplatz
+0x5a3534399410 Am Heumarkt
+0x5a35343994a0 Unteres Belvedere
+0x5a35343806d0 Schwarzenbergplatz
+0x5a35343994a0 Unteres Belvedere
+0x5a35343995a0 Rennweg
+0x5a3534399410 Am Heumarkt
+0x5a35343995a0 Rennweg
+0x5a3534399630 Kleistgasse
+0x5a35343994a0 Unteres Belvedere
+0x5a353439c700 Ungargasse/Neulinggasse
+0x5a353439c5a0 Koelblgasse
+0x5a3534399630 Kleistgasse
+0x5a35343996e0 Oberzellergasse
+0x5a35343995a0 Rennweg
+0x5a35343996e0 Oberzellergasse
+0x5a353437ebe0 Sankt Marx
+0x5a3534399630 Kleistgasse
+0x5a3534399840 Litfassstrasse
+0x5a35343998f0 Molitorgasse
+0x5a353437ebe0 Sankt Marx
+0x5a35343998f0 Molitorgasse
+0x5a3534379bf0 Zippererstrasse
+0x5a3534399840 Litfassstrasse
+0x5a3534399a50 Hauffgasse
+0x5a3534399b00 Enkplatz U/Grillgasse
+0x5a3534379bf0 Zippererstrasse
+0x5a3534399b00 Enkplatz U/Grillgasse
+0x5a3534383390 Braunhubergasse
+0x5a3534399a50 Hauffgasse
+0x5a353439a190 Zentralfriedhof 3.Tor
+0x5a3534382f00 Zentralfriedhof 3.Tor
+0x5a353439a4f0 Alfred-Adler-Strasse
+0x5a353439a5d0 Hauptbahnhof Ost
+0x5a353439a5d0 Hauptbahnhof Ost
+0x5a353437e8f0 Quartier Belvedere
+0x5a353439a4f0 Alfred-Adler-Strasse
+0x5a353439a790 Schloss Belvedere
+0x5a353439a870 Ploesslgasse
+0x5a353437e8f0 Quartier Belvedere
+0x5a353439a870 Ploesslgasse
+0x5a353439a900 Gusshausstrasse
+0x5a353439a790 Schloss Belvedere
+0x5a353439a900 Gusshausstrasse
+0x5a35343806d0 Schwarzenbergplatz
+0x5a353439a870 Ploesslgasse
+0x5a353439afb0 Boersegasse/Wipplingerstrasse
+0x5a353439b090 Schlickgasse
+0x5a353438ce10 Schottentor
+0x5a353439b090 Schlickgasse
+0x5a353439b140 Bauernfeldplatz
+0x5a353439afb0 Boersegasse/Wipplingerstrasse
+0x5a353439b140 Bauernfeldplatz
+0x5a353439b1f0 Seegasse
+0x5a353439b090 Schlickgasse
+0x5a353439b1f0 Seegasse
+0x5a3534381b80 Franz-Josefs-Bahnhof
+0x5a353439b140 Bauernfeldplatz
+0x5a353439b390 Althanstrasse
+0x5a353439b420 Augasse
+0x5a3534381b80 Franz-Josefs-Bahnhof
+0x5a353439b420 Augasse
+0x5a353439b4d0 Liechtenwerder Platz
+0x5a353439b390 Althanstrasse
+0x5a353439b4d0 Liechtenwerder Platz
+0x5a353437aa70 Spittelau
+0x5a353439b420 Augasse
+0x5a353439b630 Rampengasse
+0x5a353439b6e0 Gunoldstrasse
+0x5a353437aa70 Spittelau
+0x5a353439b6e0 Gunoldstrasse
+0x5a353439b7f0 Heiligenstadt, 12.-Februar-Pl
+0x5a353439b630 Rampengasse
+0x5a353439b7f0 Heiligenstadt, 12.-Februar-Pl
+0x5a353439b8b0 Halteraugasse
+0x5a353439b6e0 Gunoldstrasse
+0x5a353439b8b0 Halteraugasse
+0x5a353439b980 Grinzinger Strasse
+0x5a353439b7f0 Heiligenstadt, 12.-Februar-Pl
+0x5a353439b980 Grinzinger Strasse
+0x5a353439ba50 Sickenberggasse
+0x5a353439b8b0 Halteraugasse
+0x5a353439ba50 Sickenberggasse
+0x5a353439bae0 Nussdorf
+0x5a353439b980 Grinzinger Strasse
+0x5a353439bae0 Nussdorf
+0x5a353439bb90 Beethovengang
+0x5a353439ba50 Sickenberggasse
+0x5a353439bb90 Beethovengang
+0x5a353439bae0 Nussdorf
+0x5a353439be00 Migerkastrasse
+0x5a3534398780 Troststrasse/Neilreichgasse
+0x5a353439c1e0 Laxenburger Strasse/Gudrunstrasse
+0x5a353439c2c0 Columbusplatz
+0x5a3534383a90 Quellenplatz
+0x5a353439c2c0 Columbusplatz
+0x5a353437e840 Hauptbahnhof
+0x5a353439c1e0 Laxenburger Strasse/Gudrunstrasse
+0x5a353439c5a0 Koelblgasse
+0x5a35343995a0 Rennweg
+0x5a353437e9c0 Fasangasse
+0x5a353439c700 Ungargasse/Neulinggasse
+0x5a353439c7d0 Sechskruegelgasse
+0x5a35343995a0 Rennweg
+0x5a353439c7d0 Sechskruegelgasse
+0x5a353439c8b0 Landstrasse-Wien Mitte
+0x5a353439c700 Ungargasse/Neulinggasse
+0x5a353439c8b0 Landstrasse-Wien Mitte
+0x5a353439c990 Marxergasse
+0x5a353439c7d0 Sechskruegelgasse
+0x5a353439c990 Marxergasse
+0x5a353437e5a0 Hintere Zollamtsstrasse
+0x5a353439c8b0 Landstrasse-Wien Mitte
+0x5a353439cbb0 Franzensbruecke
+0x5a3534377ff0 Praterstern
+0x5a353437e650 Radetzkyplatz
