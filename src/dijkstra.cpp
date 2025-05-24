@@ -15,10 +15,10 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     int currentLowestWeight = 999;
 	
 	for(int i = 0; i < graph.size(); i++){
-		std::cout << graph.at(i) << " " << graph.at(i)->name << std::endl;
+		std::cout << "Original: " << graph.at(i) << " " << graph.at(i)->name << std::endl;
 		for(int j = 0; j< graph.at(i)->neighbours.size(); j++){
 			if(graph.at(i)->neighbours.at(j)->station != nullptr){
-				std::cout << graph.at(i)->neighbours.at(j)->station << " " << graph.at(i)->neighbours.at(j)->station->name << std::endl;
+				std::cout << "Neighbour: " << graph.at(i)->neighbours.at(j)->station << " " << graph.at(i)->neighbours.at(j)->station->name << std::endl;
 			}
 		}
 	}	
