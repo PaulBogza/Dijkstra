@@ -16,17 +16,17 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
 	
 	for(int i = 0; i < graph.size(); i++){
 		std::cout << graph.at(i) << " " << graph.at(i)->name << std::endl;
-		for(auto j : graph.at(i)->neighbours){
-			if(j->station != nullptr){
-				std::cout << j->station << " " << j->station->name << std::endl;
+		for(int j = 0; j< graph.at(i)->neighbours.size(); j++){
+			if(graph.at(i)->neighbours.at(j)->station != nullptr){
+				std::cout << graph.at(i)->neighbours.at(j)->station << " " << graph.at(i)->neighbours.at(j)->station->name << std::endl;
 			}
 		}
 	}	
 
     if(!graph.empty()){
-        for(auto i : graph){
-            if(i->name == start->name){
-                startingNode = &*i;
+        for(int i = 0; i < graph.size(); i++){
+            if(graph.at(i)->name == start->name){
+                startingNode = graph.at(i);
                 currentNode = startingNode;
                 break;
             }
@@ -38,14 +38,17 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
         do{
             if(currentNode->neighbours.size() > 0){
 				//std::cout << currentNode << " " << currentNode->name << std::endl;
-                for(auto i : currentNode->neighbours){
-					if(i->station != nullptr && i->station->distance > pathDistance + i->weight){
-						i->station->distance = pathDistance + i->weight;
+                for(int i = 0; i < currentNode->neighbours.size(); i++){
+					if(currentNode->neighbours.at(i)->station != nullptr &&
+						currentNode->neighbours.at(i)->station->distance > 
+						pathDistance + currentNode->neighbours.at(i)->weight){
+						currentNode->neighbours.at(i)->station->distance = pathDistance + currentNode->neighbours.at(i)->weight;
 					}
-                    if((i->station != nullptr) && (i->station->visited == false) &&
-						(i->weight < currentLowestWeight)){ 
-                        tempNode = &*i->station;
-                        currentLowestWeight = i->weight;
+                    if((currentNode->neighbours.at(i)->station != nullptr) &&
+						(currentNode->neighbours.at(i)->station->visited == false) &&
+						(currentNode->neighbours.at(i)->weight < currentLowestWeight)){ 
+                        tempNode = currentNode->neighbours.at(i)->station;
+                        currentLowestWeight = currentNode->neighbours.at(i)->weight;
                     }
                 } 
 				currentNode->visited = true;
@@ -54,9 +57,6 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
 				pathDistance += currentLowestWeight;
 				currentNode = tempNode;
 				currentLowestWeight = 999;
-				if(currentNode->name == dest->name){
-					break;
-				}
 			}
 			else{
 				break;
