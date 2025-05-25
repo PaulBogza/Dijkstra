@@ -1,1032 +1,269 @@
-Original: 0x65112969a760 Leopoldau
-Neighbour: 0x65112969a870 Grossfeldsiedlung
-Original: 0x65112969a970 Aderklaaer Strasse
-Neighbour: 0x65112969aa80 Rennbahnweg
-Neighbour: 0x65112969a870 Grossfeldsiedlung
-Original: 0x65112969aaf0 Kagraner Platz
-Neighbour: 0x65112969abf0 Kagran
-Neighbour: 0x65112969aa80 Rennbahnweg
-Neighbour: 0x6511296abbc0 Saikogasse
-Neighbour: 0x6511296aba60 Kraygasse
-Original: 0x65112969aca0 Alte Donau
-Neighbour: 0x65112969ad50 Kaisermuehlen-VIC
-Neighbour: 0x65112969abf0 Kagran
-Original: 0x65112969ae20 Donauinsel
-Neighbour: 0x65112969aba0 Vorgartenstrasse
-Neighbour: 0x65112969ad50 Kaisermuehlen-VIC
-Original: 0x65112969aff0 Praterstern
-Neighbour: 0x65112969b080 Nestroyplatz
-Neighbour: 0x65112969aba0 Vorgartenstrasse
-Neighbour: 0x65112969bdf0 Messe-Prater
-Neighbour: 0x65112969bc90 Taborstrasse
-Neighbour: 0x6511296a4580 Nordbahnstrasse
-Neighbour: 0x6511296bfbb0 Franzensbruecke
-Original: 0x65112969b130 Schwedenplatz
-Neighbour: 0x65112969d1f0 Stephansplatz
-Neighbour: 0x65112969b080 Nestroyplatz
-Neighbour: 0x65112969d090 Landstrasse
-Neighbour: 0x65112969dc80 Schottenring
-Neighbour: 0x6511296a38f0 Julius-Raab-Platz
-Neighbour: 0x6511296a1350 Salztorbruecke
-Neighbour: 0x6511296a3a80 Gredlerstrasse
-Neighbour: 0x6511296a38f0 Julius-Raab-Platz
-Original: 0x65112969b290 Karlsplatz
-Neighbour: 0x65112969b340 Taubstummengasse
-Neighbour: 0x65112969d1f0 Stephansplatz
-Neighbour: 0x65112969b920 Museumsquartier
-Neighbour: 0x65112969e420 Kettenbrueckengasse
-Neighbour: 0x65112969de90 Stadtpark
-Neighbour: 0x6511296a0cd0 Kaerntner Ring, Oper
-Neighbour: 0x6511296b96c0 Resselgasse
-Original: 0x65112969b440 Suedtirolerplatz
-Neighbour: 0x65112969b630 Keplerplatz
-Neighbour: 0x65112969b340 Taubstummengasse
-Original: 0x65112969b6c0 Reumannplatz
-Neighbour: 0x65112969b630 Keplerplatz
-Neighbour: 0x6511296bb460 Quellenstrasse/Favoritenstrasse
-Neighbour: 0x6511296a04e0 Troststrasse
-Original: 0x65112969b9d0 Volkstheater
-Neighbour: 0x65112969ba80 Rathaus
-Neighbour: 0x65112969b920 Museumsquartier
-Neighbour: 0x65112969d400 Neubaugasse
-Neighbour: 0x65112969d2a0 Herrengasse
-Neighbour: 0x6511296b4a00 Stiftgasse
-Neighbour: 0x6511296b4890 Dr.-Karl-Renner-Ring
-Original: 0x65112969bb30 Schottentor
-Neighbour: 0x65112969dc80 Schottenring
-Neighbour: 0x65112969ba80 Rathaus
-Neighbour: 0x6511296a11f0 Boerse
-Neighbour: 0x6511296a10a0 Rathausplatz/Burgtheater
-Neighbour: 0x6511296b0b40 Schwarzspanierstrasse
-Neighbour: 0x6511296b0b40 Schwarzspanierstrasse
-Neighbour: 0x6511296b0b40 Schwarzspanierstrasse
-Neighbour: 0x6511296b0b40 Schwarzspanierstrasse
-Neighbour: 0x6511296b2810 Landesgerichtsstrasse
-Neighbour: 0x6511296b2810 Landesgerichtsstrasse
-Neighbour: 0x6511296a10a0 Rathausplatz/Burgtheater
-Neighbour: 0x6511296bbda0 Boerse
-Neighbour: 0x6511296bdfb0 Boersegasse/Wipplingerstrasse
-Neighbour: 0x6511296a10a0 Rathausplatz/Burgtheater
-Original: 0x65112969bc90 Taborstrasse
-Neighbour: 0x65112969aff0 Praterstern
-Neighbour: 0x65112969dc80 Schottenring
-Neighbour: 0x6511296a3cf0 Taborstrasse/Heinestrasse
-Neighbour: 0x6511296a3b30 Karmeliterplatz
-Original: 0x65112969bea0 Krieau
-Neighbour: 0x65112969bf50 Stadion
-Neighbour: 0x65112969bdf0 Messe-Prater
-Original: 0x65112969c000 Donaumarina
-Neighbour: 0x65112969c0d0 Donaustadtbruecke
-Neighbour: 0x65112969bf50 Stadion
-Original: 0x65112969c1d0 Stadlau
-Neighbour: 0x6511296aafc0 Hardeggasse
-Neighbour: 0x65112969c0d0 Donaustadtbruecke
-Original: 0x65112969c520 Donauspital
-Neighbour: 0x65112969c5d0 Aspernstrasse
-Neighbour: 0x6511296aafc0 Hardeggasse
-Neighbour: 0x6511296ab160 Langobardenstrasse/Kapellenweg
-Neighbour: 0x6511296aafc0 Hardeggasse
-Original: 0x65112969cab0 Simmering
-Neighbour: 0x6511296a6440 Enkplatz
-Neighbour: 0x6511296bcc00 Braunhubergasse
-Neighbour: 0x6511296a6250 Fickeysstrasse
-Neighbour: 0x6511296a6250 Fickeysstrasse
-Neighbour: 0x6511296bcc00 Braunhubergasse
-Original: 0x65112969cbf0 Zippererstrasse
-Neighbour: 0x65112969cca0 Gasometer
-Neighbour: 0x6511296a6440 Enkplatz
-Neighbour: 0x6511296bca50 Hauffgasse
-Neighbour: 0x6511296bc8f0 Molitorgasse
-Original: 0x65112969cd50 Erdberg
-Neighbour: 0x6511296a1df0 Schlachthausgasse
-Neighbour: 0x65112969cca0 Gasometer
-Original: 0x65112969cf20 Kardinal-Nagl-Platz
-Neighbour: 0x65112969d000 Rochusgasse
-Neighbour: 0x6511296a1df0 Schlachthausgasse
-Original: 0x65112969d090 Landstrasse
-Neighbour: 0x65112969d140 Stubentor
-Neighbour: 0x65112969d000 Rochusgasse
-Neighbour: 0x65112969de90 Stadtpark
-Neighbour: 0x65112969b130 Schwedenplatz
-Original: 0x65112969d1f0 Stephansplatz
-Neighbour: 0x65112969d2a0 Herrengasse
-Neighbour: 0x65112969d140 Stubentor
-Original: 0x65112969d400 Neubaugasse
-Neighbour: 0x65112969d4b0 Zieglergasse
-Neighbour: 0x65112969b9d0 Volkstheater
-Original: 0x65112969d560 Westbahnhof
-Neighbour: 0x6511296a8190 Schweglerstrasse
-Neighbour: 0x65112969d4b0 Zieglergasse
-Neighbour: 0x65112969f950 Gumpendorfer Strasse
-Neighbour: 0x6511296a7400 Burggasse-Stadthalle
-Neighbour: 0x6511296a55b0 Stollgasse
-Neighbour: 0x6511296a82f0 Urban-Loritz-Platz
-Neighbour: 0x6511296a7190 Mariahilfer Guertel
-Neighbour: 0x6511296a82f0 Urban-Loritz-Platz
-Neighbour: 0x6511296a7190 Mariahilfer Guertel
-Neighbour: 0x6511296a82f0 Urban-Loritz-Platz
-Neighbour: 0x6511296b5c90 Gerstnerstrasse/Westbhf.
-Neighbour: 0x6511296a97b0 Gerstnerstrasse/Westbhf.
-Original: 0x65112969d710 Johnstrasse
-Neighbour: 0x65112969d7a0 Huetteldorfer Strasse
-Neighbour: 0x6511296a8190 Schweglerstrasse
-Neighbour: 0x6511296b5200 Huetteldorfer Strasse
-Neighbour: 0x6511296b50c0 Huglgasse
-Original: 0x65112969d8a0 Kendlerstrasse
-Neighbour: 0x6511296a2c50 Ottakring
-Neighbour: 0x65112969d7a0 Huetteldorfer Strasse
-Original: 0x65112969d9e0 Heiligenstadt
-Neighbour: 0x65112969f230 Spittelau
-Original: 0x65112969db20 Friedensbruecke
-Neighbour: 0x65112969dbd0 Rossauerlaende
-Neighbour: 0x65112969f230 Spittelau
-Neighbour: 0x6511296aed80 Klosterneuburger Strasse
-Neighbour: 0x6511296a4b80 Franz-Josefs-Bahnhof
-Original: 0x65112969dc80 Schottenring
-Neighbour: 0x65112969b130 Schwedenplatz
-Neighbour: 0x65112969dbd0 Rossauerlaende
-Neighbour: 0x6511296a1350 Salztorbruecke
-Neighbour: 0x6511296a11f0 Boerse
-Neighbour: 0x6511296ae440 Obere Donaustrasse
-Original: 0x65112969e420 Kettenbrueckengasse
-Neighbour: 0x65112969e520 Pilgramgasse
-Neighbour: 0x65112969b290 Karlsplatz
-Original: 0x65112969e5b0 Margaretenguertel
-Neighbour: 0x65112969e6b0 Laengenfeldgasse
-Neighbour: 0x65112969e520 Pilgramgasse
-Neighbour: 0x65112969f950 Gumpendorfer Strasse
-Neighbour: 0x6511296a6f30 Arbeitergasse/Margaretenguertel
-Neighbour: 0x6511296a9250 Arbeiterg./Margaretenguertel
-Neighbour: 0x65112969f950 Gumpendorfer Strasse
-Original: 0x65112969e790 Meidling Hauptstrasse
-Neighbour: 0x65112969e870 Schoenbrunn
-Neighbour: 0x65112969e6b0 Laengenfeldgasse
-Original: 0x65112969e900 Hietzing
-Neighbour: 0x65112969e9b0 Braunschweiggasse
-Neighbour: 0x65112969e870 Schoenbrunn
-Original: 0x65112969eab0 Unter Sank Veit
-Neighbour: 0x65112969eb40 Ober Sankt Veit
-Neighbour: 0x65112969e9b0 Braunschweiggasse
-Original: 0x65112969ebf0 Huetteldorf
-Neighbour: 0x65112969eb40 Ober Sankt Veit
-Original: 0x65112969ef20 Neue Donau
-Neighbour: 0x65112969efd0 Handelskai
-Neighbour: 0x65112969ee90 Floridsdorf
-Original: 0x65112969f0a0 Dresdner Strasse
-Neighbour: 0x6511296adf90 Jaegerstrasse
-Neighbour: 0x65112969efd0 Handelskai
-Neighbour: 0x6511296a4160 Hoechstaedtplatz
-Neighbour: 0x6511296a3fc0 Traisengasse
-Original: 0x65112969f230 Spittelau
-Neighbour: 0x6511296af8b0 Nussdorfer Strasse
-Neighbour: 0x6511296adf90 Jaegerstrasse
-Neighbour: 0x6511296be630 Rampengasse
-Neighbour: 0x6511296be4d0 Liechtenwerder Platz
-Original: 0x65112969f440 Waehringer Strasse-Volksoper
-Neighbour: 0x6511296b23f0 Michelbeuern-AKH
-Neighbour: 0x6511296af8b0 Nussdorfer Strasse
-Neighbour: 0x6511296b18e0 Kutschkergasse
-Neighbour: 0x6511296a4d30 Spitalgasse/Waehringer Strasse
-Neighbour: 0x6511296b18e0 Kutschkergasse
-Neighbour: 0x6511296a4d30 Spitalgasse/Waehringer Strasse
-Neighbour: 0x6511296b23f0 Michelbeuern-AKH
-Neighbour: 0x6511296b2250 Spitalgasse/Waehringer strasse
-Original: 0x65112969f5d0 Alser Strasse
-Neighbour: 0x6511296a3180 Josefstaedter Strasse
-Neighbour: 0x6511296b23f0 Michelbeuern-AKH
-Neighbour: 0x6511296b2b80 Palffygasse
-Neighbour: 0x6511296b2a20 Bruennlbadgasse
-Original: 0x65112969f730 Thaliastrasse
-Neighbour: 0x6511296a7400 Burggasse-Stadthalle
-Neighbour: 0x6511296a3180 Josefstaedter Strasse
-Neighbour: 0x6511296b44d0 Schottenfeldgasse
-Neighbour: 0x6511296b4350 Brunnengasse
-Original: 0x65112969f950 Gumpendorfer Strasse
-Neighbour: 0x65112969fa50 Laengenfeldgasse
-Neighbour: 0x65112969d560 Westbahnhof
-Neighbour: 0x6511296a7190 Mariahilfer Guertel
-Neighbour: 0x65112969e5b0 Margaretenguertel
-Neighbour: 0x65112969e5b0 Margaretenguertel
-Neighbour: 0x6511296a7190 Mariahilfer Guertel
-Original: 0x65112969fb30 Niederhofstrasse
-Neighbour: 0x65112969fc10 Philadelphiabruecke
-Neighbour: 0x65112969fa50 Laengenfeldgasse
-Original: 0x65112969fcf0 Tscherttegasse
-Neighbour: 0x65112969fd80 Am Schoepfwerk
-Neighbour: 0x65112969fc10 Philadelphiabruecke
-Original: 0x65112969fe30 Alterlaa
-Neighbour: 0x65112969fee0 Erlaaer Strasse
-Neighbour: 0x65112969fd80 Am Schoepfwerk
-Original: 0x65112969ff90 Perfektastrasse
-Neighbour: 0x6511296a0040 Siebenhirten
-Neighbour: 0x65112969fee0 Erlaaer Strasse
-Original: 0x6511296a0350 Stefan-Fadinger-Platz
-Neighbour: 0x6511296a0450 Windtenstrasse
-Original: 0x6511296a04e0 Troststrasse
-Neighbour: 0x6511296a0590 Davidgasse
-Neighbour: 0x6511296a0450 Windtenstrasse
-Neighbour: 0x65112969b6c0 Reumannplatz
-Neighbour: 0x6511296bb250 Schleiergasse
-Original: 0x6511296a0640 Knoellgasse
-Neighbour: 0x6511296a93c0 Matzleinsdorfer Platz
-Neighbour: 0x6511296a0590 Davidgasse
-Neighbour: 0x6511296a93c0 Matzleinsdorfer Platz
-Neighbour: 0x6511296a6c10 Bernhardtstalgasse
-Original: 0x6511296a07f0 Kliebergasse
-Neighbour: 0x6511296a0880 Laurenzgasse
-Neighbour: 0x6511296a93c0 Matzleinsdorfer Platz
-Neighbour: 0x6511296a9520 Blechturmgasse
-Neighbour: 0x6511296a93c0 Matzleinsdorfer Platz
-Neighbour: 0x6511296a93c0 Matzleinsdorfer Platz
-Neighbour: 0x6511296b9980 Laurenzgasse
-Original: 0x6511296a0930 Johann-Straus-Gasse
-Neighbour: 0x6511296a0a30 Mayerhofgasse
-Neighbour: 0x6511296a0880 Laurenzgasse
-Original: 0x6511296a0ac0 Paulanergasse
-Neighbour: 0x6511296b96c0 Resselgasse
-Neighbour: 0x6511296a0a30 Mayerhofgasse
-Neighbour: 0x6511296b9800 Mayerhofgasse
-Neighbour: 0x6511296b96c0 Resselgasse
-Original: 0x6511296a0cd0 Kaerntner Ring, Oper
-Neighbour: 0x6511296a3570 Burgring
-Neighbour: 0x65112969b290 Karlsplatz
-Neighbour: 0x6511296a36d0 Schwarzenbergplatz
-Neighbour: 0x6511296a3570 Burgring
-Neighbour: 0x6511296b96c0 Resselgasse
-Neighbour: 0x6511296bc330 Schwarzenbergplatz
-Neighbour: 0x6511296a3570 Burgring
-Neighbour: 0x6511296a3570 Burgring
-Neighbour: 0x6511296bd9b0 Schwarzenbergplatz
-Original: 0x6511296a10a0 Rathausplatz/Burgtheater
-Neighbour: 0x6511296afe10 Schottentor
-Neighbour: 0x6511296bc020 Stadiongasse/Parlament
-Neighbour: 0x6511296bc020 Stadiongasse/Parlament
-Neighbour: 0x6511296afe10 Schottentor
-Neighbour: 0x6511296afe10 Schottentor
-Neighbour: 0x6511296bc020 Stadiongasse/Parlament
-Original: 0x6511296a1350 Salztorbruecke
-Neighbour: 0x65112969b130 Schwedenplatz
-Neighbour: 0x65112969dc80 Schottenring
-Original: 0x6511296a15a0 Hintere Zollamtsstrasse
-Neighbour: 0x6511296bfb20 Radetzkyplatz
-Neighbour: 0x6511296a38f0 Julius-Raab-Platz
-Neighbour: 0x6511296bfb20 Radetzkyplatz
-Neighbour: 0x6511296bf990 Marxergasse
-Original: 0x6511296a16e0 Hetzgasse
-Neighbour: 0x6511296a1790 Loewengasse
-Neighbour: 0x6511296bfb20 Radetzkyplatz
-Original: 0x6511296a2050 Wittelsbachstrasse
-Neighbour: 0x6511296a2150 Prater Hauptallee
-Neighbour: 0x6511296a1790 Loewengasse
-Original: 0x6511296a2ad0 Ottakringer Strasse/Erdbrustgasse
-Neighbour: 0x6511296a2b70 Thaliastrasse/Maroltingergasse
-Original: 0x6511296a2c50 Ottakring
-Neighbour: 0x6511296a2d20 Redtenbachergasse
-Neighbour: 0x6511296a2b70 Thaliastrasse/Maroltingergasse
-Neighbour: 0x6511296b40e0 Schuhmeierplatz
-Neighbour: 0x6511296b3f70 Thaliastrasse/Maroltingerg.
-Original: 0x6511296a2e20 Ottakringer Strasse/Wattgasse
-Neighbour: 0x6511296a2ee0 J.-Nepomuk-Berger-Platz
-Neighbour: 0x6511296a2d20 Redtenbachergasse
-Original: 0x6511296a2fe0 Neulerchenf. Strasse/Haberlgasse
-Neighbour: 0x6511296a3080 Neulerchenf. Strasse/Brunnengasse
-Neighbour: 0x6511296a2ee0 J.-Nepomuk-Berger-Platz
-Original: 0x6511296a3180 Josefstaedter Strasse
-Neighbour: 0x6511296a3250 Albertgasse
-Neighbour: 0x6511296a3080 Neulerchenf. Strasse/Brunnengasse
-Neighbour: 0x6511296ae680 Albertgasse
-Original: 0x6511296a3310 Lederergasse/Josefstaedter Strasse
-Neighbour: 0x6511296a33d0 Rathaus
-Neighbour: 0x6511296a3250 Albertgasse
-Original: 0x6511296a3570 Burgring
-Neighbour: 0x6511296a0cd0 Kaerntner Ring, Oper
-Neighbour: 0x6511296b4890 Dr.-Karl-Renner-Ring
-Neighbour: 0x6511296a0cd0 Kaerntner Ring, Oper
-Neighbour: 0x6511296b4890 Dr.-Karl-Renner-Ring
-Neighbour: 0x6511296b4890 Dr.-Karl-Renner-Ring
-Neighbour: 0x6511296a0cd0 Kaerntner Ring, Oper
-Original: 0x6511296a37b0 Weihburggasse
-Neighbour: 0x6511296a3840 Stubentor
-Neighbour: 0x6511296a36d0 Schwarzenbergplatz
-Original: 0x6511296a38f0 Julius-Raab-Platz
-Neighbour: 0x65112969b130 Schwedenplatz
-Neighbour: 0x6511296a3840 Stubentor
-Original: 0x6511296a3b30 Karmeliterplatz
-Neighbour: 0x65112969bc90 Taborstrasse
-Neighbour: 0x6511296a3a80 Gredlerstrasse
-Original: 0x6511296a3db0 Am Tabor
-Neighbour: 0x6511296a3e60 Rebhanngasse
-Neighbour: 0x6511296a3cf0 Taborstrasse/Heinestrasse
-Neighbour: 0x6511296a4700 Nordwestbahnstrasse
-Neighbour: 0x6511296a4580 Nordbahnstrasse
-Original: 0x6511296a3f10 Innstrasse
-Neighbour: 0x6511296a3fc0 Traisengasse
-Neighbour: 0x6511296a3e60 Rebhanngasse
-Original: 0x6511296a4160 Hoechstaedtplatz
-Neighbour: 0x6511296af140 Friedrich-Engels-Platz
-Neighbour: 0x65112969f0a0 Dresdner Strasse
-Neighbour: 0x6511296adf90 Jaegerstrasse
-Neighbour: 0x6511296af140 Friedrich-Engels-Platz
-Neighbour: 0x6511296af140 Friedrich-Engels-Platz
-Neighbour: 0x6511296adf90 Jaegerstrasse
-Original: 0x6511296a4580 Nordbahnstrasse
-Neighbour: 0x6511296a3db0 Am Tabor
-Neighbour: 0x65112969aff0 Praterstern
-Original: 0x6511296a4800 Rauscherstrasse
-Neighbour: 0x6511296aee60 Wallensteinplatz
-Neighbour: 0x6511296a4700 Nordwestbahnstrasse
-Original: 0x6511296a49f0 Klosterneubg S./Wallensteinstrasse
-Neighbour: 0x6511296a4ab0 Friedensbr�cke
-Neighbour: 0x6511296aee60 Wallensteinplatz
-Original: 0x6511296a4b80 Franz-Josefs-Bahnhof
-Neighbour: 0x6511296aeaf0 Nussdorfer Strasse/Alserbachstrasse
-Neighbour: 0x6511296a4ab0 Friedensbr�cke
-Neighbour: 0x65112969db20 Friedensbruecke
-Neighbour: 0x6511296aeaf0 Nussdorfer Strasse/Alserbachstrasse
-Neighbour: 0x6511296be390 Althanstrasse
-Neighbour: 0x6511296be1f0 Seegasse
-Original: 0x6511296a4d30 Spitalgasse/Waehringer Strasse
-Neighbour: 0x6511296a4e10 Lazarettgasse
-Neighbour: 0x6511296aeaf0 Nussdorfer Strasse/Alserbachstrasse
-Neighbour: 0x6511296aeaf0 Nussdorfer Strasse/Alserbachstrasse
-Neighbour: 0x6511296ae920 Lazarettgasse
-Neighbour: 0x6511296afbe0 Sensengasse
-Neighbour: 0x6511296aeaf0 Nussdorfer Strasse/Alserbachstrasse
-Neighbour: 0x6511296aeaf0 Nussdorfer Strasse/Alserbachstrasse
-Neighbour: 0x6511296b0b40 Schwarzspanierstrasse
-Neighbour: 0x65112969f440 Waehringer Strasse-Volksoper
-Neighbour: 0x6511296b0b40 Schwarzspanierstrasse
-Neighbour: 0x65112969f440 Waehringer Strasse-Volksoper
-Neighbour: 0x6511296b0b40 Schwarzspanierstrasse
-Original: 0x6511296a4ec0 Lange Gasse
-Neighbour: 0x6511296ae7c0 Laudongasse
-Neighbour: 0x6511296a4e10 Lazarettgasse
-Neighbour: 0x6511296ae920 Lazarettgasse
-Neighbour: 0x6511296ae7c0 Laudongasse
-Neighbour: 0x6511296b2970 Skodagasse
-Neighbour: 0x6511296b2810 Landesgerichtsstrasse
-Neighbour: 0x6511296b3480 Skodagasse
-Neighbour: 0x6511296b2810 Landesgerichtsstrasse
-Original: 0x6511296a5020 Florianigasse
-Neighbour: 0x6511296a50d0 Albertgasse
-Neighbour: 0x6511296ae7c0 Laudongasse
-Neighbour: 0x6511296ae7c0 Laudongasse
-Neighbour: 0x6511296ae680 Albertgasse
-Original: 0x6511296a5180 Blindengasse
-Neighbour: 0x6511296a5250 Lerchenfelder Strasse
-Neighbour: 0x6511296a50d0 Albertgasse
-Original: 0x6511296a5350 Kaiserstrasse/Neustiftgasse
-Neighbour: 0x6511296a5410 Kaiserstrasse/Burggasse
-Neighbour: 0x6511296a5250 Lerchenfelder Strasse
-Original: 0x6511296a5510 Kaiserstrasse/Westbahnstrasse
-Neighbour: 0x6511296a55b0 Stollgasse
-Neighbour: 0x6511296a5410 Kaiserstrasse/Burggasse
-Neighbour: 0x6511296a82f0 Urban-Loritz-Platz
-Neighbour: 0x6511296b4cb0 Zieglergasse/Westbahnstrasse
-Original: 0x6511296a5a10 Kaiserebersdorf, Zinnergasse
-Neighbour: 0x6511296a5af0 Valiergasse
-Original: 0x6511296a5bc0 Svetelskystrasse
-Neighbour: 0x6511296a5c90 Leberberg
-Neighbour: 0x6511296a5af0 Valiergasse
-Original: 0x6511296a5d50 Pantucekgasse/Widholzgasse
-Neighbour: 0x6511296a5e30 Zentralfriedhof 4.Tor
-Neighbour: 0x6511296a5c90 Leberberg
-Original: 0x6511296a6090 Zentralfriedhof 1.Tor
-Neighbour: 0x6511296a6170 Weissenboeckstrasse
-Neighbour: 0x6511296bcfd0 Zentralfriedhof 2.Tor
-Neighbour: 0x6511296bcfd0 Zentralfriedhof 2.Tor
-Neighbour: 0x6511296bcdf0 Weissenboeckstrasse
-Original: 0x6511296a6250 Fickeysstrasse
-Neighbour: 0x65112969cab0 Simmering
-Neighbour: 0x6511296a6170 Weissenboeckstrasse
-Neighbour: 0x6511296bcdf0 Weissenboeckstrasse
-Neighbour: 0x65112969cab0 Simmering
-Original: 0x6511296a6440 Enkplatz
-Neighbour: 0x6511296a6550 Gottschalkgasse/Enkplatz
-Neighbour: 0x6511296bcc00 Braunhubergasse
-Original: 0x6511296a6610 Polkorabplatz
-Neighbour: 0x6511296a66e0 Geiselbergstrasse
-Neighbour: 0x6511296a6550 Gottschalkgasse/Enkplatz
-Original: 0x6511296a67b0 Geiereckstrasse
-Neighbour: 0x6511296a6840 Absberggasse
-Neighbour: 0x6511296a66e0 Geiselbergstrasse
-Original: 0x6511296a68f0 Gellertplatz
-Neighbour: 0x6511296bb460 Quellenstrasse/Favoritenstrasse
-Neighbour: 0x6511296a6840 Absberggasse
-Original: 0x6511296a6a90 Quellenplatz
-Neighbour: 0x6511296a6b40 Neilreichgasse
-Neighbour: 0x6511296bb460 Quellenstrasse/Favoritenstrasse
-Neighbour: 0x6511296bb5f0 Arthaberplatz
-Neighbour: 0x6511296bb460 Quellenstrasse/Favoritenstrasse
-Neighbour: 0x6511296bf1e0 Laxenburger Strasse/Gudrunstrasse
-Neighbour: 0x6511296bf080 Arthaberplatz
-Original: 0x6511296a6c10 Bernhardtstalgasse
-Neighbour: 0x6511296a0640 Knoellgasse
-Neighbour: 0x6511296a6b40 Neilreichgasse
-Original: 0x6511296a6e40 Eichenstrasse
-Neighbour: 0x6511296a6f30 Arbeitergasse/Margaretenguertel
-Neighbour: 0x6511296a93c0 Matzleinsdorfer Platz
-Neighbour: 0x6511296a93c0 Matzleinsdorfer Platz
-Neighbour: 0x6511296a9250 Arbeiterg./Margaretenguertel
-Neighbour: 0x6511296b9c50 Marx-Meidlinger-Strasse
-Neighbour: 0x6511296a93c0 Matzleinsdorfer Platz
-Original: 0x6511296a7190 Mariahilfer Guertel
-Neighbour: 0x65112969d560 Westbahnhof
-Neighbour: 0x65112969f950 Gumpendorfer Strasse
-Neighbour: 0x65112969f950 Gumpendorfer Strasse
-Neighbour: 0x65112969d560 Westbahnhof
-Original: 0x6511296a7400 Burggasse-Stadthalle
-Neighbour: 0x6511296a82f0 Urban-Loritz-Platz
-Neighbour: 0x6511296a82f0 Urban-Loritz-Platz
-Original: 0x6511296a76e0 Schoeffelgasse
-Neighbour: 0x6511296b1be0 Gersthof
-Neighbour: 0x6511296a7670 Wallrissstrasse
-Neighbour: 0x6511296b1260 Alsegger Strasse
-Neighbour: 0x6511296b1be0 Gersthof
-Original: 0x6511296a7840 Simonygasse
-Neighbour: 0x6511296b2600 Sommarugagasse
-Neighbour: 0x6511296b1be0 Gersthof
-Original: 0x6511296a79a0 Vinzenzgasse
-Neighbour: 0x6511296a7a50 Blumengasse
-Neighbour: 0x6511296b2600 Sommarugagasse
-Neighbour: 0x6511296b2600 Sommarugagasse
-Neighbour: 0x6511296b24c0 Hildebrandgasse
-Original: 0x6511296a7b00 Elterleinplatz
-Neighbour: 0x6511296b2ce0 Rosensteingasse
-Neighbour: 0x6511296a7a50 Blumengasse
-Neighbour: 0x6511296b2ce0 Rosensteingasse
-Neighbour: 0x6511296b2b80 Palffygasse
-Original: 0x6511296a7c60 Mayssengasse
-Neighbour: 0x6511296a7d30 J.-Nepomuk-Berger-Platz
-Neighbour: 0x6511296b2ce0 Rosensteingasse
-Neighbour: 0x6511296b39e0 Wilhelminenstrasse/Wattg.
-Neighbour: 0x6511296b3820 Teichgasse
-Original: 0x6511296a7e90 Thaliastrasse/Fesstgasse
-Neighbour: 0x6511296a7f30 Koppstrasse/Panikengasse
-Neighbour: 0x6511296a7d30 J.-Nepomuk-Berger-Platz
-Neighbour: 0x6511296b4270 Thaliastrasse/Haberlgasse
-Neighbour: 0x6511296b40e0 Schuhmeierplatz
-Original: 0x6511296a8030 Camillo-Sitte-Gasse
-Neighbour: 0x6511296a8100 Guntherstrasse
-Neighbour: 0x6511296a7f30 Koppstrasse/Panikengasse
-Original: 0x6511296a8190 Schweglerstrasse
-Neighbour: 0x6511296a8260 Beingasse
-Neighbour: 0x6511296a8100 Guntherstrasse
-Neighbour: 0x6511296b50c0 Huglgasse
-Neighbour: 0x6511296b4f60 Beingasse
-Original: 0x6511296a82f0 Urban-Loritz-Platz
-Neighbour: 0x65112969d560 Westbahnhof
-Neighbour: 0x6511296a8260 Beingasse
-Neighbour: 0x65112969d560 Westbahnhof
-Neighbour: 0x6511296a7400 Burggasse-Stadthalle
-Neighbour: 0x6511296b4f60 Beingasse
-Neighbour: 0x6511296a5510 Kaiserstrasse/Westbahnstrasse
-Original: 0x6511296a8650 Dommayergasse
-Neighbour: 0x6511296a8700 Gloriettegasse
-Neighbour: 0x6511296a9e30 Hietzing, Kennedybruecke
-Neighbour: 0x6511296a9f80 Wenzgasse
-Neighbour: 0x6511296a9e30 Hietzing, Kennedybruecke
-Neighbour: 0x6511296aa3d0 Gloriettegasse
-Neighbour: 0x6511296a9e30 Hietzing, Kennedybruecke
-Original: 0x6511296a87b0 Stadlergasse
-Neighbour: 0x6511296aa550 Jagdschlossgasse
-Neighbour: 0x6511296a8700 Gloriettegasse
-Neighbour: 0x6511296aa550 Jagdschlossgasse
-Neighbour: 0x6511296aa3d0 Gloriettegasse
-Original: 0x6511296a8950 Preyergasse
-Neighbour: 0x6511296a89e0 Hofwiesengasse
-Neighbour: 0x6511296aa550 Jagdschlossgasse
-Neighbour: 0x6511296b8aa0 Hofwiesengasse
-Neighbour: 0x6511296aa550 Jagdschlossgasse
-Original: 0x6511296a8a90 Wattmanngasse
-Neighbour: 0x6511296a89e0 Hofwiesengasse
-Neighbour: 0x6511296ba5e0 Hofwiesengasse
-Neighbour: 0x6511296ba470 Atzgersdorfer Strasse
-Original: 0x6511296a93c0 Matzleinsdorfer Platz
-Neighbour: 0x6511296a07f0 Kliebergasse
-Neighbour: 0x6511296a6e40 Eichenstrasse
-Neighbour: 0x6511296a6e40 Eichenstrasse
-Neighbour: 0x6511296a07f0 Kliebergasse
-Original: 0x6511296a1840 Hauptbahnhof
-Neighbour: 0x6511296bf440 Quartier Belvedere
-Neighbour: 0x6511296a9520 Blechturmgasse
-Neighbour: 0x6511296bf440 Quartier Belvedere
-Neighbour: 0x6511296bf2c0 Columbusplatz
-Original: 0x6511296a19c0 Fasangasse
-Neighbour: 0x6511296a1a50 Heinrich-Drimmel-Platz
-Neighbour: 0x6511296bf440 Quartier Belvedere
-Neighbour: 0x6511296bf5a0 Koelblgasse
-Neighbour: 0x6511296bf440 Quartier Belvedere
-Original: 0x6511296a1b50 Wildgansplatz
-Neighbour: 0x6511296a1be0 Sankt Marx
-Neighbour: 0x6511296a1a50 Heinrich-Drimmel-Platz
-Original: 0x6511296a1c90 Viehmarktgasse
-Neighbour: 0x6511296a1d40 Baumgasse
-Neighbour: 0x6511296a1be0 Sankt Marx
-Original: 0x6511296a1df0 Schlachthausgasse
-Neighbour: 0x6511296a1d40 Baumgasse
-Original: 0x6511296a1f60 Hossplatz
-Neighbour: 0x6511296abdd0 Fultonstrasse
-Neighbour: 0x6511296a1ef0 Floridsdorf
-Neighbour: 0x6511296abf30 Floridsdorf
-Neighbour: 0x6511296abdd0 Fultonstrasse
-Original: 0x6511296aa650 Carminweg
-Neighbour: 0x6511296aa720 Josef-Baumann-Gasse
-Neighbour: 0x6511296abdd0 Fultonstrasse
-Neighbour: 0x6511296abdd0 Fultonstrasse
-Neighbour: 0x6511296abc70 Josef-Baumann-Gasse
-Original: 0x6511296aa820 Prandaugasse
-Neighbour: 0x6511296aa8b0 Kagran
-Neighbour: 0x6511296aa720 Josef-Baumann-Gasse
-Original: 0x6511296aa960 Donauzentrum
-Neighbour: 0x6511296aaa10 Kagraner Bruecke
-Neighbour: 0x6511296aa8b0 Kagran
-Original: 0x6511296aab10 Arminenstrasse
-Neighbour: 0x6511296aaba0 Donaustadtstrasse
-Neighbour: 0x6511296aaa10 Kagraner Bruecke
-Original: 0x6511296aaca0 Polgarstrasse
-Neighbour: 0x6511296aad30 Erzherzog-Karl-Strasse
-Neighbour: 0x6511296aaba0 Donaustadtstrasse
-Original: 0x6511296aae30 Konstanziagasse
-Neighbour: 0x6511296aaec0 Langobardenstrasse
-Neighbour: 0x6511296aad30 Erzherzog-Karl-Strasse
-Original: 0x6511296aafc0 Hardeggasse
-Neighbour: 0x65112969c520 Donauspital
-Neighbour: 0x6511296aaec0 Langobardenstrasse
-Original: 0x6511296ab220 Trondheimgasse
-Neighbour: 0x6511296ab2d0 Oberdorfstrasse
-Neighbour: 0x6511296ab160 Langobardenstrasse/Kapellenweg
-Original: 0x6511296ab380 Hausfeldstrasse
-Neighbour: 0x6511296ab430 Am Heidjoechl
-Original: 0x6511296ab4e0 Zanggasse
-Neighbour: 0x6511296ab590 Prinzgasse
-Neighbour: 0x6511296ab430 Am Heidjoechl
-Original: 0x6511296ab660 Ziegelhofstrasse
-Neighbour: 0x6511296ab730 Spargelfeldstrasse
-Neighbour: 0x6511296ab590 Prinzgasse
-Original: 0x6511296ab840 Suessenbrunner Str/Oberfeldgasse
-Neighbour: 0x6511296ab900 Gewerbepark Stadlau
-Neighbour: 0x6511296ab730 Spargelfeldstrasse
-Original: 0x6511296ab9d0 Forstnergasse
-Neighbour: 0x6511296aba60 Kraygasse
-Neighbour: 0x6511296ab900 Gewerbepark Stadlau
-Original: 0x6511296abbc0 Saikogasse
-Neighbour: 0x6511296abc70 Josef-Baumann-Gasse
-Neighbour: 0x65112969aaf0 Kagraner Platz
-Original: 0x6511296abdd0 Fultonstrasse
-Neighbour: 0x6511296a1f60 Hossplatz
-Neighbour: 0x6511296aa650 Carminweg
-Original: 0x6511296abfe0 Am Spitz
-Neighbour: 0x6511296ac090 Nordbruecke
-Neighbour: 0x6511296abf30 Floridsdorf
-Original: 0x6511296ac140 Koloniestrasse
-Neighbour: 0x6511296ac1f0 Hopfengasse
-Neighbour: 0x6511296ac090 Nordbruecke
-Original: 0x6511296ac2a0 Winkelaeckerstrasse
-Neighbour: 0x6511296ac3a0 Autokaderstrasse
-Neighbour: 0x6511296ac1f0 Hopfengasse
-Original: 0x6511296ac480 Russbergstrasse
-Neighbour: 0x6511296ac510 Edmund-Hawranek-Platz
-Neighbour: 0x6511296ac3a0 Autokaderstrasse
-Original: 0x6511296ac610 Stammersdorf
-Neighbour: 0x6511296ad260 Van-Swieten-Kaserne
-Neighbour: 0x6511296ad260 Van-Swieten-Kaserne
-Original: 0x6511296ac7a0 Anton-Schall-Gasse
-Neighbour: 0x6511296ac880 Empergergasse
-Neighbour: 0x6511296ad260 Van-Swieten-Kaserne
-Neighbour: 0x6511296ad440 Empergergasse
-Neighbour: 0x6511296ad260 Van-Swieten-Kaserne
-Original: 0x6511296ac970 Bruenner Strasse/Hanreiterg.
-Neighbour: 0x6511296ad5f0 Carabelligasse
-Neighbour: 0x6511296ac880 Empergergasse
-Neighbour: 0x6511296ad5f0 Carabelligasse
-Neighbour: 0x6511296ad440 Empergergasse
-Original: 0x6511296acb00 Grossjedlersdorf
-Neighbour: 0x6511296acbd0 Shuttleworthstrasse
-Neighbour: 0x6511296ad5f0 Carabelligasse
-Neighbour: 0x6511296ad790 Shuttleworthstrasse
-Neighbour: 0x6511296ad5f0 Carabelligasse
-Original: 0x6511296acc80 Bruenner Strasse
-Neighbour: 0x6511296ad920 Bahnsteggasse
-Neighbour: 0x6511296acbd0 Shuttleworthstrasse
-Neighbour: 0x6511296ad920 Bahnsteggasse
-Neighbour: 0x6511296ad790 Shuttleworthstrasse
-Original: 0x6511296acdf0 Floridsdorfer Markt
-Neighbour: 0x6511296acef0 Floridsdorf
-Neighbour: 0x6511296ad920 Bahnsteggasse
-Neighbour: 0x6511296adab0 Floridsdorf
-Neighbour: 0x6511296ad920 Bahnsteggasse
-Original: 0x6511296ad260 Van-Swieten-Kaserne
-Neighbour: 0x6511296ac7a0 Anton-Schall-Gasse
-Neighbour: 0x6511296ac610 Stammersdorf
-Original: 0x6511296ad5f0 Carabelligasse
-Neighbour: 0x6511296acb00 Grossjedlersdorf
-Neighbour: 0x6511296ac970 Bruenner Strasse/Hanreiterg.
-Original: 0x6511296ad920 Bahnsteggasse
-Neighbour: 0x6511296acdf0 Floridsdorfer Markt
-Neighbour: 0x6511296acc80 Bruenner Strasse
-Original: 0x6511296adba0 Matthaeus-Jiszda-Strasse
-Neighbour: 0x6511296adc60 Hubertusdamm
-Neighbour: 0x6511296adab0 Floridsdorf
-Original: 0x6511296add30 Floridsdorfer Bruecke
-Neighbour: 0x6511296af140 Friedrich-Engels-Platz
-Neighbour: 0x6511296adc60 Hubertusdamm
-Original: 0x6511296adf90 Jaegerstrasse
-Neighbour: 0x6511296ae020 Wexstrasse
-Neighbour: 0x6511296a4160 Hoechstaedtplatz
-Neighbour: 0x6511296a4160 Hoechstaedtplatz
-Neighbour: 0x6511296aef30 Brigittaplatz
-Original: 0x6511296ae0d0 Gerhardusgasse
-Neighbour: 0x6511296ae1e0 Klosterneubg S./Wallensteinstr
-Neighbour: 0x6511296ae020 Wexstrasse
-Original: 0x6511296ae2a0 Gaussplatz
-Neighbour: 0x6511296ae370 Obere Augartenstrasse
-Neighbour: 0x6511296ae1e0 Klosterneubg S./Wallensteinstr
-Original: 0x6511296ae440 Obere Donaustrasse
-Neighbour: 0x65112969dc80 Schottenring
-Neighbour: 0x6511296ae370 Obere Augartenstrasse
-Original: 0x6511296ae7c0 Laudongasse
-Neighbour: 0x6511296a4ec0 Lange Gasse
-Neighbour: 0x6511296a5020 Florianigasse
-Original: 0x6511296aeaf0 Nussdorfer Strasse/Alserbachstrasse
-Neighbour: 0x6511296a4b80 Franz-Josefs-Bahnhof
-Neighbour: 0x6511296a4d30 Spitalgasse/Waehringer Strasse
-Neighbour: 0x6511296a4d30 Spitalgasse/Waehringer Strasse
-Neighbour: 0x6511296b0170 Canisiusgasse
-Neighbour: 0x6511296b0170 Canisiusgasse
-Neighbour: 0x6511296a4d30 Spitalgasse/Waehringer Strasse
-Original: 0x6511296aee60 Wallensteinplatz
-Neighbour: 0x6511296aef30 Brigittaplatz
-Neighbour: 0x6511296aed80 Klosterneuburger Strasse
-Original: 0x6511296af140 Friedrich-Engels-Platz
-Neighbour: 0x6511296a4160 Hoechstaedtplatz
-Original: 0x6511296af3e0 Perntergasse
-Neighbour: 0x6511296af490 Barawitzkagasse
-Neighbour: 0x6511296af370 Hohe Warte
-Original: 0x6511296af540 Pokornygasse
-Neighbour: 0x6511296af650 Doeblinger Hptstrasse/Gatterburgg.
-Neighbour: 0x6511296af490 Barawitzkagasse
-Original: 0x6511296af730 Guneschgasse
-Neighbour: 0x6511296af7e0 Glatzgasse
-Neighbour: 0x6511296af650 Doeblinger Hptstrasse/Gatterburgg.
-Original: 0x6511296af8b0 Nussdorfer Strasse
-Neighbour: 0x6511296b0170 Canisiusgasse
-Neighbour: 0x6511296af7e0 Glatzgasse
-Neighbour: 0x6511296b0310 Glatzgasse
-Neighbour: 0x6511296b0170 Canisiusgasse
-Original: 0x6511296afbe0 Sensengasse
-Neighbour: 0x6511296b0b40 Schwarzspanierstrasse
-Neighbour: 0x6511296a4d30 Spitalgasse/Waehringer Strasse
-Original: 0x6511296afe10 Schottentor
-Neighbour: 0x6511296b0b40 Schwarzspanierstrasse
-Original: 0x6511296b0170 Canisiusgasse
-Neighbour: 0x6511296af8b0 Nussdorfer Strasse
-Neighbour: 0x6511296aeaf0 Nussdorfer Strasse/Alserbachstrasse
-Original: 0x6511296b03a0 Hardtgasse
-Neighbour: 0x6511296b0450 Gatterburggasse
-Neighbour: 0x6511296b0310 Glatzgasse
-Original: 0x6511296b0500 Silbergasse
-Neighbour: 0x6511296b05b0 Oberdoebling
-Neighbour: 0x6511296b0450 Gatterburggasse
-Original: 0x6511296b0660 Sieveringer Strasse
-Neighbour: 0x6511296b0730 Paradisgasse
-Neighbour: 0x6511296b05b0 Oberdoebling
-Original: 0x6511296b07c0 An den langen Luessen
-Neighbour: 0x6511296b08c0 Grinzing
-Neighbour: 0x6511296b0730 Paradisgasse
-Original: 0x6511296b0b40 Schwarzspanierstrasse
-Neighbour: 0x6511296a4d30 Spitalgasse/Waehringer Strasse
-Neighbour: 0x6511296afe10 Schottentor
-Neighbour: 0x6511296a4d30 Spitalgasse/Waehringer Strasse
-Neighbour: 0x6511296afe10 Schottentor
-Neighbour: 0x6511296b2250 Spitalgasse/Waehringer strasse
-Neighbour: 0x6511296afe10 Schottentor
-Original: 0x6511296b0ed0 Martinstrasse
-Neighbour: 0x6511296b0f80 Aumannplatz
-Neighbour: 0x6511296b18e0 Kutschkergasse
-Neighbour: 0x6511296b1a40 Aumannplatz
-Neighbour: 0x6511296b18e0 Kutschkergasse
-Original: 0x6511296b1050 Weinhauser Gasse
-Neighbour: 0x6511296b1be0 Gersthof
-Neighbour: 0x6511296b0f80 Aumannplatz
-Neighbour: 0x6511296b1be0 Gersthof
-Neighbour: 0x6511296b1a40 Aumannplatz
-Original: 0x6511296b1260 Alsegger Strasse
-Neighbour: 0x6511296b1330 Scheibenbergstrasse
-Neighbour: 0x6511296a76e0 Schoeffelgasse
-Original: 0x6511296b1410 Eckpergasse
-Neighbour: 0x6511296b14a0 Herbeckstrasse
-Neighbour: 0x6511296b1330 Scheibenbergstrasse
-Original: 0x6511296b18e0 Kutschkergasse
-Neighbour: 0x6511296b0ed0 Martinstrasse
-Neighbour: 0x65112969f440 Waehringer Strasse-Volksoper
-Original: 0x6511296b1be0 Gersthof
-Neighbour: 0x6511296b1c70 Tuerkenschanzplatz
-Neighbour: 0x6511296b1050 Weinhauser Gasse
-Original: 0x6511296b1d40 Erndtgasse
-Neighbour: 0x6511296b1e30 Gersthf. Strasse/Scheibenbergstrasse
-Neighbour: 0x6511296b1c70 Tuerkenschanzplatz
-Original: 0x6511296b1ef0 Poetzleinsdorf
-Neighbour: 0x6511296b1e30 Gersthf. Strasse/Scheibenbergstrasse
-Original: 0x6511296b23f0 Michelbeuern-AKH
-Neighbour: 0x6511296b24c0 Hildebrandgasse
-Neighbour: 0x65112969f440 Waehringer Strasse-Volksoper
-Original: 0x6511296b2600 Sommarugagasse
-Neighbour: 0x6511296b26b0 Antonigasse
-Neighbour: 0x6511296a79a0 Vinzenzgasse
-Original: 0x6511296b2810 Landesgerichtsstrasse
-Neighbour: 0x6511296a4ec0 Lange Gasse
-Neighbour: 0x6511296afe10 Schottentor
-Neighbour: 0x6511296a4ec0 Lange Gasse
-Neighbour: 0x6511296afe10 Schottentor
-Original: 0x6511296b2a20 Bruennlbadgasse
-Neighbour: 0x65112969f5d0 Alser Strasse
-Neighbour: 0x6511296b2970 Skodagasse
-Neighbour: 0x6511296b35e0 Hernalser Guertel
-Neighbour: 0x6511296b3480 Skodagasse
-Original: 0x6511296b2ce0 Rosensteingasse
-Neighbour: 0x6511296b2df0 Hernalser Hptstrasse/Wattgasse
-Neighbour: 0x6511296a7b00 Elterleinplatz
-Original: 0x6511296b2eb0 Hernals
-Neighbour: 0x6511296b3ce0 Dornbach Guepferlingstrasse
-Neighbour: 0x6511296b2df0 Hernalser Hptstrasse/Wattgasse
-Original: 0x6511296b3060 Dornbacher Strasse
-Neighbour: 0x6511296b3130 Himmelmutterweg
-Neighbour: 0x6511296b3ce0 Dornbach Guepferlingstrasse
-Original: 0x6511296b31c0 Neuwaldegg
-Neighbour: 0x6511296b3130 Himmelmutterweg
-Original: 0x6511296b35e0 Hernalser Guertel
-Neighbour: 0x6511296b36e0 Yppengasse
-Neighbour: 0x6511296b2a20 Bruennlbadgasse
-Original: 0x6511296b3770 Frauengasse
-Neighbour: 0x6511296b3820 Teichgasse
-Neighbour: 0x6511296b36e0 Yppengasse
-Original: 0x6511296b39e0 Wilhelminenstrasse/Wattg.
-Neighbour: 0x6511296b3aa0 Roemergasse
-Neighbour: 0x6511296a7c60 Mayssengasse
-Original: 0x6511296b3b50 Wilhelminenstrasse/Sandleiteng.
-Neighbour: 0x6511296b3c30 Liebknechtgasse
-Neighbour: 0x6511296b3aa0 Roemergasse
-Original: 0x6511296b3ce0 Dornbach Guepferlingstrasse
-Neighbour: 0x6511296b3c30 Liebknechtgasse
-Original: 0x6511296b3eb0 Rankgasse
-Neighbour: 0x6511296b3f70 Thaliastrasse/Maroltingerg.
-Neighbour: 0x6511296b3de0 Joachimsthalerplatz
-Original: 0x6511296b40e0 Schuhmeierplatz
-Neighbour: 0x6511296a7e90 Thaliastrasse/Fesstgasse
-Neighbour: 0x6511296a2c50 Ottakring
-Original: 0x6511296b4350 Brunnengasse
-Neighbour: 0x65112969f730 Thaliastrasse
-Neighbour: 0x6511296b4270 Thaliastrasse/Haberlgasse
-Original: 0x6511296b45a0 Strozzigasse
-Neighbour: 0x6511296b4630 Auerspergstrasse
-Neighbour: 0x6511296b44d0 Schottenfeldgasse
-Original: 0x6511296b4700 Schmerlingplatz
-Neighbour: 0x6511296b4890 Dr.-Karl-Renner-Ring
-Neighbour: 0x6511296b4630 Auerspergstrasse
-Original: 0x6511296b4890 Dr.-Karl-Renner-Ring
-Neighbour: 0x65112969b9d0 Volkstheater
-Neighbour: 0x6511296bc020 Stadiongasse/Parlament
-Neighbour: 0x6511296a3570 Burgring
-Neighbour: 0x6511296a3570 Burgring
-Neighbour: 0x6511296a33d0 Rathaus
-Neighbour: 0x6511296b4700 Schmerlingplatz
-Neighbour: 0x6511296a3570 Burgring
-Neighbour: 0x6511296bc020 Stadiongasse/Parlament
-Neighbour: 0x6511296bc020 Stadiongasse/Parlament
-Neighbour: 0x6511296a3570 Burgring
-Original: 0x6511296b4ab0 Siebensterngasse
-Neighbour: 0x6511296b4c10 Neubaugasse/Westbahnstrasse
-Neighbour: 0x6511296b4a00 Stiftgasse
-Original: 0x6511296b4cb0 Zieglergasse/Westbahnstrasse
-Neighbour: 0x6511296a5510 Kaiserstrasse/Westbahnstrasse
-Neighbour: 0x6511296b4c10 Neubaugasse/Westbahnstrasse
-Original: 0x6511296b50c0 Huglgasse
-Neighbour: 0x65112969d710 Johnstrasse
-Neighbour: 0x6511296a8190 Schweglerstrasse
-Original: 0x6511296b5300 Breitensee
-Neighbour: 0x6511296b5390 Leyserstrasse
-Neighbour: 0x6511296b5200 Huetteldorfer Strasse
-Original: 0x6511296b54a0 Huetteldorfer Strasse/Luetzowg.
-Neighbour: 0x6511296b5580 Seckendorfstrasse
-Neighbour: 0x6511296b5390 Leyserstrasse
-Original: 0x6511296b5650 Waidhausenstrasse
-Neighbour: 0x6511296b5760 Hochsatzeng./Huetteldorfer Strasse
-Neighbour: 0x6511296b5580 Seckendorfstrasse
-Original: 0x6511296b5800 Baumgarten
-Neighbour: 0x6511296b58b0 Bahnhofstrasse
-Neighbour: 0x6511296b5760 Hochsatzeng./Huetteldorfer Strasse
-Neighbour: 0x6511296b6830 Hochsatzengasse/Linzer Strasse
-Original: 0x6511296b5960 Huetteldorf, Bujattigasse
-Neighbour: 0x6511296b58b0 Bahnhofstrasse
-Original: 0x6511296b5d70 Staglgasse
-Neighbour: 0x6511296a9940 Kranzgasse
-Neighbour: 0x6511296b5c90 Gerstnerstrasse/Westbhf.
-Neighbour: 0x6511296a9940 Kranzgasse
-Neighbour: 0x6511296a97b0 Gerstnerstrasse/Westbhf.
-Original: 0x6511296b5ed0 Rustengasse
-Neighbour: 0x6511296b5f80 Anschuetzgasse
-Neighbour: 0x6511296a9940 Kranzgasse
-Neighbour: 0x6511296a9aa0 Anschuetzgasse
-Neighbour: 0x6511296a9940 Kranzgasse
-Original: 0x6511296b6050 Winckelmannstrasse
-Neighbour: 0x6511296a9c40 Penzinger Strasse
-Neighbour: 0x6511296b5f80 Anschuetzgasse
-Neighbour: 0x6511296a9c40 Penzinger Strasse
-Neighbour: 0x6511296a9aa0 Anschuetzgasse
-Original: 0x6511296b6230 Johnstrasse/Linzer Strasse
-Neighbour: 0x6511296b62d0 Linzer Strasse/Reinlgasse
-Neighbour: 0x6511296a9c40 Penzinger Strasse
-Original: 0x6511296b63b0 Diesterweggasse
-Neighbour: 0x6511296b6460 Ameisgasse
-Neighbour: 0x6511296b62d0 Linzer Strasse/Reinlgasse
-Original: 0x6511296b6510 Luetzowgasse
-Neighbour: 0x6511296b65e0 Gusenleithnergasse
-Neighbour: 0x6511296b6460 Ameisgasse
-Original: 0x6511296b66e0 Zehetnergasse/Linzer Strasse
-Neighbour: 0x6511296b6780 Gruschaplatz
-Neighbour: 0x6511296b65e0 Gusenleithnergasse
-Original: 0x6511296b6830 Hochsatzengasse/Linzer Strasse
-Neighbour: 0x6511296b5800 Baumgarten
-Neighbour: 0x6511296b6780 Gruschaplatz
-Original: 0x6511296a9940 Kranzgasse
-Neighbour: 0x6511296b5ed0 Rustengasse
-Neighbour: 0x6511296b5d70 Staglgasse
-Original: 0x6511296a9c40 Penzinger Strasse
-Neighbour: 0x6511296a9cf0 Schloss Schoenbrunn
-Neighbour: 0x6511296b6050 Winckelmannstrasse
-Original: 0x6511296a9e30 Hietzing, Kennedybruecke
-Neighbour: 0x6511296a8650 Dommayergasse
-Neighbour: 0x6511296a9cf0 Schloss Schoenbrunn
-Neighbour: 0x6511296a8650 Dommayergasse
-Original: 0x6511296aa030 Fichtnergasse
-Neighbour: 0x6511296aa0e0 Verbindungsbahn
-Neighbour: 0x6511296a9f80 Wenzgasse
-Original: 0x6511296aa190 Hummelgasse
-Neighbour: 0x6511296aa0e0 Verbindungsbahn
-Original: 0x6511296aa550 Jagdschlossgasse
-Neighbour: 0x6511296a8950 Preyergasse
-Neighbour: 0x6511296a87b0 Stadlergasse
-Original: 0x6511296b8b50 Speising, Hermesstrasse
-Neighbour: 0x6511296b8c20 Riedelgasse
-Neighbour: 0x6511296b8aa0 Hofwiesengasse
-Original: 0x6511296b8cb0 Sillerplatz
-Neighbour: 0x6511296b8d60 Franz-Asenbauer-Gasse
-Neighbour: 0x6511296b8c20 Riedelgasse
-Original: 0x6511296b8e60 Maurer Hauptplatz
-Neighbour: 0x6511296b8f40 Maurer-Lange-Gasse
-Neighbour: 0x6511296b8d60 Franz-Asenbauer-Gasse
-Original: 0x6511296b9020 Anton-Krieger-Gasse
-Neighbour: 0x6511296b9160 Breitenfurter Str/Liesingbr
-Neighbour: 0x6511296b8f40 Maurer-Lange-Gasse
-Original: 0x6511296b9200 Kaiser-Franz-Josef-Strasse
-Neighbour: 0x6511296b92e0 Rodaun
-Neighbour: 0x6511296b9160 Breitenfurter Str/Liesingbr
-Original: 0x6511296b96c0 Resselgasse
-Neighbour: 0x6511296a0ac0 Paulanergasse
-Neighbour: 0x6511296a0cd0 Kaerntner Ring, Oper
-Original: 0x6511296b98b0 Johann-Strauss-Gasse
-Neighbour: 0x6511296b9980 Laurenzgasse
-Neighbour: 0x6511296b9800 Mayerhofgasse
-Original: 0x6511296b9c50 Marx-Meidlinger-Strasse
-Neighbour: 0x6511296b9db0 Flurschuetzstrasse/Laengenfeldg.
-Neighbour: 0x6511296a6e40 Eichenstrasse
-Original: 0x6511296b9e50 Assmayergasse
-Neighbour: 0x6511296b9f00 Doerfelstrasse
-Neighbour: 0x6511296b9db0 Flurschuetzstrasse/Laengenfeldg.
-Original: 0x6511296b9fd0 Bahnhof Meidling
-Neighbour: 0x6511296ba0a0 Wienerbergbruecke
-Neighbour: 0x6511296b9f00 Doerfelstrasse
-Original: 0x6511296ba150 Sonnergasse
-Neighbour: 0x6511296ba1e0 Hetzendorf
-Neighbour: 0x6511296ba0a0 Wienerbergbruecke
-Original: 0x6511296ba290 Schloss Hetzendorf
-Neighbour: 0x6511296ba390 Rosenhuegelstrasse
-Neighbour: 0x6511296ba1e0 Hetzendorf
-Original: 0x6511296ba470 Atzgersdorfer Strasse
-Neighbour: 0x6511296a8a90 Wattmanngasse
-Neighbour: 0x6511296ba390 Rosenhuegelstrasse
-Original: 0x6511296ba690 Hermesstrasse
-Neighbour: 0x6511296ba740 Krankenhaus Hietzing
-Neighbour: 0x6511296ba5e0 Hofwiesengasse
-Original: 0x6511296ba840 Versorgungsheimplatz
-Neighbour: 0x6511296ba980 Lainz, Wolkersbergenstrasse
-Neighbour: 0x6511296ba740 Krankenhaus Hietzing
-Original: 0x6511296baa40 Oberlaa - Therme Wien
-Neighbour: 0x6511296bab10 Laaer-Berg-Strasse
-Original: 0x6511296bac20 Per-Albin-Hansson-Sdlg. Ost
-Neighbour: 0x6511296bace0 Hubert-Gsur-Gasse
-Neighbour: 0x6511296bab10 Laaer-Berg-Strasse
-Original: 0x6511296badb0 Adolf-Unger-Gasse
-Neighbour: 0x6511296bae60 Stockholmer Platz
-Neighbour: 0x6511296bace0 Hubert-Gsur-Gasse
-Original: 0x6511296baf40 Alaudagasse
-Neighbour: 0x6511296bae60 Stockholmer Platz
-Neighbour: 0x6511296bb1a0 Altes Landgut
-Neighbour: 0x6511296bb030 Per-Albin-Hansson-Siedlung
-Original: 0x6511296bb1a0 Altes Landgut
-Neighbour: 0x6511296bb250 Schleiergasse
-Neighbour: 0x6511296baf40 Alaudagasse
-Original: 0x6511296bb460 Quellenstrasse/Favoritenstrasse
-Neighbour: 0x6511296a6a90 Quellenplatz
-Neighbour: 0x65112969b6c0 Reumannplatz
-Original: 0x6511296bb6a0 Laxenburger Strasse/Troststrasse
-Neighbour: 0x6511296beec0 Troststrasse/Neilreichgasse
-Neighbour: 0x6511296bb5f0 Arthaberplatz
-Neighbour: 0x6511296bf080 Arthaberplatz
-Neighbour: 0x6511296beec0 Troststrasse/Neilreichgasse
-Original: 0x6511296bb860 Raxstrasse/Rudolfshuegelgasse
-Neighbour: 0x6511296bb940 Sahulkastrasse
-Neighbour: 0x6511296beec0 Troststrasse/Neilreichgasse
-Original: 0x6511296bb9f0 Wienerfeldgasse
-Neighbour: 0x6511296bbaa0 Froedenplatz
-Neighbour: 0x6511296bb940 Sahulkastrasse
-Original: 0x6511296bbb70 Otto-Probst-Strasse
-Neighbour: 0x6511296bbc40 Tesarekplatz
-Neighbour: 0x6511296bbaa0 Froedenplatz
-Original: 0x6511296bbcd0 Otto-Probst-Platz
-Neighbour: 0x6511296bbc40 Tesarekplatz
-Original: 0x6511296bc020 Stadiongasse/Parlament
-Neighbour: 0x6511296b4890 Dr.-Karl-Renner-Ring
-Neighbour: 0x6511296a10a0 Rathausplatz/Burgtheater
-Neighbour: 0x6511296a10a0 Rathausplatz/Burgtheater
-Neighbour: 0x6511296b4890 Dr.-Karl-Renner-Ring
-Original: 0x6511296bc410 Am Heumarkt
-Neighbour: 0x6511296bc4a0 Unteres Belvedere
-Neighbour: 0x6511296bc330 Schwarzenbergplatz
-Original: 0x6511296bc5a0 Rennweg
-Neighbour: 0x6511296bc630 Kleistgasse
-Neighbour: 0x6511296bc4a0 Unteres Belvedere
-Neighbour: 0x6511296bf700 Ungargasse/Neulinggasse
-Neighbour: 0x6511296bf5a0 Koelblgasse
-Original: 0x6511296bc6e0 Oberzellergasse
-Neighbour: 0x6511296bc790 Sankt Marx
-Neighbour: 0x6511296bc630 Kleistgasse
-Original: 0x6511296bc840 Litfassstrasse
-Neighbour: 0x6511296bc8f0 Molitorgasse
-Neighbour: 0x6511296bc790 Sankt Marx
-Original: 0x6511296bca50 Hauffgasse
-Neighbour: 0x6511296bcb00 Enkplatz U/Grillgasse
-Neighbour: 0x65112969cbf0 Zippererstrasse
-Original: 0x6511296bcc00 Braunhubergasse
-Neighbour: 0x65112969cab0 Simmering
-Neighbour: 0x6511296bcb00 Enkplatz U/Grillgasse
-Original: 0x6511296bcfd0 Zentralfriedhof 2.Tor
-Neighbour: 0x6511296bd190 Zentralfriedhof 3.Tor
-Neighbour: 0x6511296a6090 Zentralfriedhof 1.Tor
-Original: 0x6511296bd190 Zentralfriedhof 3.Tor
-Neighbour: 0x6511296bd190 Zentralfriedhof 3.Tor
-Neighbour: 0x6511296bcfd0 Zentralfriedhof 2.Tor
-Neighbour: 0x6511296a5e30 Zentralfriedhof 4.Tor
-Neighbour: 0x6511296bd190 Zentralfriedhof 3.Tor
-Neighbour: 0x6511296bcfd0 Zentralfriedhof 2.Tor
-Original: 0x6511296bd5d0 Hauptbahnhof Ost
-Neighbour: 0x6511296bf440 Quartier Belvedere
-Neighbour: 0x6511296bd4f0 Alfred-Adler-Strasse
-Original: 0x6511296bd790 Schloss Belvedere
-Neighbour: 0x6511296bd870 Ploesslgasse
-Neighbour: 0x6511296bf440 Quartier Belvedere
-Original: 0x6511296bd900 Gusshausstrasse
-Neighbour: 0x6511296bd9b0 Schwarzenbergplatz
-Neighbour: 0x6511296bd870 Ploesslgasse
-Original: 0x6511296bdfb0 Boersegasse/Wipplingerstrasse
-Neighbour: 0x6511296be090 Schlickgasse
-Neighbour: 0x6511296afe10 Schottentor
-Original: 0x6511296be140 Bauernfeldplatz
-Neighbour: 0x6511296be1f0 Seegasse
-Neighbour: 0x6511296be090 Schlickgasse
-Original: 0x6511296be390 Althanstrasse
-Neighbour: 0x6511296be420 Augasse
-Neighbour: 0x6511296a4b80 Franz-Josefs-Bahnhof
-Original: 0x6511296be4d0 Liechtenwerder Platz
-Neighbour: 0x65112969f230 Spittelau
-Neighbour: 0x6511296be420 Augasse
-Original: 0x6511296be6e0 Gunoldstrasse
-Neighbour: 0x6511296be7f0 Heiligenstadt, 12.-Februar-Pl
-Neighbour: 0x6511296be630 Rampengasse
-Original: 0x6511296be8b0 Halteraugasse
-Neighbour: 0x6511296be980 Grinzinger Strasse
-Neighbour: 0x6511296be7f0 Heiligenstadt, 12.-Februar-Pl
-Original: 0x6511296bea50 Sickenberggasse
-Neighbour: 0x6511296beae0 Nussdorf
-Neighbour: 0x6511296be980 Grinzinger Strasse
-Original: 0x6511296beb90 Beethovengang
-Neighbour: 0x6511296beae0 Nussdorf
-Original: 0x6511296beec0 Troststrasse/Neilreichgasse
-Neighbour: 0x6511296bb6a0 Laxenburger Strasse/Troststrasse
-Neighbour: 0x6511296bee00 Migerkastrasse
-Original: 0x6511296bf1e0 Laxenburger Strasse/Gudrunstrasse
-Neighbour: 0x6511296bf2c0 Columbusplatz
-Neighbour: 0x6511296a6a90 Quellenplatz
-Original: 0x6511296bf440 Quartier Belvedere
-Neighbour: 0x6511296a19c0 Fasangasse
-Neighbour: 0x6511296a1840 Hauptbahnhof
-Original: 0x6511296bf700 Ungargasse/Neulinggasse
-Neighbour: 0x6511296bf7d0 Sechskruegelgasse
-Neighbour: 0x6511296bc5a0 Rennweg
-Original: 0x6511296bf8b0 Landstrasse-Wien Mitte
-Neighbour: 0x6511296bf990 Marxergasse
-Neighbour: 0x6511296bf7d0 Sechskruegelgasse
-Original: 0x6511296bfb20 Radetzkyplatz
-Neighbour: 0x6511296bfbb0 Franzensbruecke
-Neighbour: 0x6511296a15a0 Hintere Zollamtsstrasse
+0x5eefa380d560 Westbahnhof
+0x5eefa3818190 Schweglerstrasse
+0x5eefa3818260 Beingasse
+0x5eefa38182f0 Urban-Loritz-Platz
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+0x5eefa3817400 Burggasse-Stadthalle
+Distance: 262742
