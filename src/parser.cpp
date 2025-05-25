@@ -82,7 +82,7 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
     //graph.at(i).neighbours = adjacent stops
     if(!graph.empty()){
         for(int i = 0; i < graph.size(); i++){
-            for(int j = i+1; j < graph.size(); j++){
+            for(int j = 1; j < graph.size(); j++){
                 if((graph.at(i)->name == graph.at(j)->name)){
                     //merge neighbouring stops for nodes with the same name
                     graph.at(i)->neighbours.insert(graph.at(i)->neighbours.end(), 
@@ -94,7 +94,7 @@ void createGraph(std::vector<Node*> &graph, std::string stops){
 	
 		//mnaking neighbours point to the same object
         for(int i = 0; i < graph.size(); i++){
-            for(int j = i+1; j < graph.size(); j++){
+            for(int j = 0; j < graph.size(); j++){
                 for(int k = 0; k < graph.at(j)->neighbours.size(); k++){
 					if(graph.at(j)->neighbours.at(k)->station != nullptr && 
 						graph.at(i)->name == graph.at(j)->neighbours.at(k)->station->name){

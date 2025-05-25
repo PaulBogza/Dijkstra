@@ -14,6 +14,7 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     int tempDistance = 0;
     int currentLowestWeight = 999;
 	
+	
 	for(int i = 0; i < graph.size(); i++){
 		std::cout << "Original: " << graph.at(i) << " " << graph.at(i)->name << std::endl;
 		for(int j = 0; j< graph.at(i)->neighbours.size(); j++){
@@ -22,6 +23,7 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
 			}
 		}
 	}	
+	
 
     if(!graph.empty()){
         for(int i = 0; i < graph.size(); i++){

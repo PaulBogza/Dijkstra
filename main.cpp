@@ -34,9 +34,9 @@ int main(int argc, char* argv[]){
 	
 	
     for(auto i : std::get<0>(result)){
-        //std::cout << i << " " << i->name << std::endl;
+        std::cout << i << " " << i->name << std::endl;
     }
-	//std::cout << "Distance: " << std::get<1>(result) << std::endl;
+	std::cout << "Distance: " << std::get<1>(result) << std::endl;
 	
 
     return 0;
