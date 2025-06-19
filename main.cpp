@@ -27,6 +27,7 @@ int main(int argc, char* argv[]){
     delete(start);
     delete(dest);
 
+    /*
     if(std::get<1>(result) == 999){
         std::cout << "No path could be found" << std::endl;
         return 1;
@@ -37,7 +38,7 @@ int main(int argc, char* argv[]){
         std::cout << i << " " << i->name << std::endl;
     }
 	std::cout << "Distance: " << std::get<1>(result) << std::endl;
-	
+    */
 
     return 0;
 }
