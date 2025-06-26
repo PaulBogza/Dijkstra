@@ -9,7 +9,7 @@ struct Edge;
 struct Node{
     bool visited = false;
     std::string name = "NULL";
-	int distance = 999;
+	int distance = 999; //distance from starting node to this node
     std::vector<Edge*> neighbours;
 };
 
