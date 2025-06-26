@@ -1,29 +1,3 @@
-0x5a38b114a560 Westbahnhof
-0x5a38b114a610 Schweglerstrasse
-0x5a38b1155260 Beingasse
-0x5a38b1154300 Urban-Loritz-Platz
-0x5a38b114c7c0 Burggasse-Stadthalle
-0x5a38b114c730 Thaliastrasse
-0x5a38b114c660 Josefstaedter Strasse
-0x5a38b1150250 Albertgasse
-0x5a38b1150310 Lederergasse/Josefstaedter Strasse
-0x5a38b1148a80 Rathaus
-0x5a38b11489d0 Volkstheater
-0x5a38b1148920 Museumsquartier
-0x5a38b1148290 Karlsplatz
-0x5a38b114db70 Resselgasse
-0x5a38b114dac0 Paulanergasse
-0x5a38b114da30 Mayerhofgasse
-0x5a38b114d930 Johann-Straus-Gasse
-0x5a38b114d880 Laurenzgasse
-0x5a38b114d7f0 Kliebergasse
-0x5a38b1156520 Blechturmgasse
-0x5a38b114e840 Hauptbahnhof
-0x5a38b116c2c0 Columbusplatz
-0x5a38b116c1e0 Laxenburger Strasse/Gudrunstrasse
-0x5a38b1153a90 Quellenplatz
-0x5a38b1153b40 Neilreichgasse
-0x5a38b1153c10 Bernhardtstalgasse
-0x5a38b114d640 Knoellgasse
-0x5a38b114d6f0 Matzleinsdorfer Platz
-Distance: 32
+0x5cec69a13560 Westbahnhof
+0x5cec69a15950 Gumpendorfer Strasse
+Distance: 1

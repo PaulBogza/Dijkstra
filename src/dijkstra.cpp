@@ -10,6 +10,7 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
     Node *tempNode;
     int tempDistance = 0;
     int currentLowestWeight = 999;
+    std::vector<Node*> candidates;
 
     if(!graph.empty()){
         for(int i = 0; i < graph.size(); i++){
@@ -36,13 +37,27 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
                             tempNode = currentNode->neighbours.at(i)->station;
                             currentLowestWeight = currentNode->neighbours.at(i)->weight;
                         }
+                        if((currentNode->neighbours.at(i)->station->visited == false) && (currentNode->neighbours.at(i)->weight == currentLowestWeight)){
+                            candidates.emplace_back(tempNode);
+                            candidates.emplace_back(currentNode->neighbours.at(i)->station);
+                        }
                     }
-                } 
+                }
+
                 currentNode->visited = true;
+
+                if(candidates.size() > 1){
+                    srand(time(0));
+                    int num = rand() % candidates.size();
+                    currentNode = candidates.at(num);
+                }
+                else{
+                    currentNode = tempNode;
+                }
+
                 visitedNodes.emplace_back(currentNode);
-                tempPath.emplace_back(tempNode);
+                tempPath.emplace_back(currentNode);
                 tempDistance += currentLowestWeight;
-                currentNode = tempNode;
                 currentLowestWeight = 999;
                 
                 if(currentNode->name == dest->name){
@@ -69,9 +84,9 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     do{
         tempResult = Dijkstra(graph, start, dest, visitedNodes);
         tempDist = std::get<1>(tempResult);
-        if(tempDist <= dist){
+        //if(tempDist <= dist){
             result.swap(tempResult);
-        }
+        //}
     }while(visitedNodes.size() != graph.size());
 
     return result;
