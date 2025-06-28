@@ -4,9 +4,6 @@
 #include "../include/dijkstra.hpp"
 
 Node* backTracking(std::vector<Node*> &tempPath, int &tempDistance, Node* currentNode){
-    std::cout << "Backtracking" << std::endl;
-    //tempPath.pop_back();
-
     for(int i = tempPath.size()-1; i > 0; i--){
         for(int j = 0; j < tempPath.at(i)->neighbours.size(); j++){
             if(tempPath.at(i)->neighbours.at(j)->station != nullptr && tempPath.at(i)->neighbours.at(j)->station->visited == false){
@@ -64,6 +61,13 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
             }
             //TODO: Backtracking for final stops
             if(currentNode->neighbours.at(0)->station == nullptr || currentNode->neighbours.at(1)->station == nullptr){
+                currentNode->visited = true;
+                visitedNodes.emplace_back(currentNode);
+                currentLowestWeight = 999;
+
+                currentNode = backTracking(tempPath, tempDistance, currentNode);
+            }
+            else if(currentNode->neighbours.at(0)->station->visited == true && currentNode->neighbours.at(1)->station->visited == true){
                 currentNode->visited = true;
                 visitedNodes.emplace_back(currentNode);
                 currentLowestWeight = 999;
