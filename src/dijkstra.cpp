@@ -3,6 +3,19 @@
 #include <cstring>
 #include "../include/dijkstra.hpp"
 
+Node* backTracking(std::vector<Node*> &tempPath, int &tempDistance, Node* currentNode){
+    for(int i = tempPath.size()-1; i > 0; i--){
+        for(int j = 0; j < tempPath.at(i)->neighbours.size(); j++){
+            if(tempPath.at(i)->neighbours.at(j)->station != nullptr && tempPath.at(i)->neighbours.at(j)->station->visited == false){
+                currentNode = tempPath.at(i)->neighbours.at(j)->station;
+                tempDistance -= tempPath.at(i)->neighbours.at(j)->weight;
+                return currentNode;
+            }
+        }
+    }
+    return currentNode;
+}
+
 std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, const Node *start, const Node *dest, std::vector<Node*> &visitedNodes){
     std::vector<Node*> tempPath;
     Node *currentNode;
@@ -26,6 +39,7 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
 
     if(!graph.empty()){
         do{
+            if(currentNode->name == dest->name) break;
             for(int i = 0; i < currentNode->neighbours.size(); i++){
                 if(currentNode->neighbours.at(i)->station != nullptr){
                     //update distance from starting node to this node if shorter one is found
@@ -46,26 +60,28 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
                 }
             }
             //TODO: Backtracking for final stops
-
-            currentNode->visited = true;
-            visitedNodes.emplace_back(currentNode);
-            tempDistance += currentLowestWeight;
-            currentLowestWeight = 999;
-            currentNode = tempNode;
-            tempPath.emplace_back(currentNode);
-            /*
-            if(candidates.size() > 1){
-                srand(time(0));
-                int num = rand() % candidates.size();
-                currentNode = candidates.at(num);
+            if(currentNode->neighbours.at(0)->station == nullptr || currentNode->neighbours.at(1)->station == nullptr){
+                currentNode = backTracking(tempPath, tempDistance, currentNode);
             }
             else{
+                currentNode->visited = true;
+                visitedNodes.emplace_back(currentNode);
+                tempDistance += currentLowestWeight;
+                currentLowestWeight = 999;
                 currentNode = tempNode;
+                tempPath.emplace_back(currentNode);
+                /*
+                if(candidates.size() > 1){
+                    srand(time(0));
+                    int num = rand() % candidates.size();
+                    currentNode = candidates.at(num);
+                }
+                else{
+                    currentNode = tempNode;
+                }
+                tempPath.emplace_back(currentNode);
+                */
             }
-            tempPath.emplace_back(currentNode);
-            */
-
-            if(currentNode->name == dest->name) break;
         }while(visitedNodes.size() != graph.size());
     }
     return std::make_pair(tempPath, tempDistance);
