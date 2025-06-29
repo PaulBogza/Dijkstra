@@ -4,14 +4,16 @@
 #include "../include/dijkstra.hpp"
 
 Node* backTracking(std::vector<Node*> &tempPath, int &tempDistance, Node* currentNode){
+    std::cout << "Backtracking" << std::endl;
+    std::cout << currentNode->name << std::endl;
     for(int i = tempPath.size()-1; i > 0; i--){
         for(int j = 0; j < tempPath.at(i)->neighbours.size(); j++){
             if(tempPath.at(i)->neighbours.at(j)->station != nullptr && tempPath.at(i)->neighbours.at(j)->station->visited == false){
                 currentNode = tempPath.at(i)->neighbours.at(j)->station;
-                tempDistance -= tempPath.at(i)->neighbours.at(j)->weight;
                 return currentNode;
             }
         }
+        tempPath.pop_back();
     }
     return currentNode;
 }
@@ -39,7 +41,6 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
 
     if(!graph.empty()){
         do{
-            if(currentNode->name == dest->name) break;
             for(int i = 0; i < currentNode->neighbours.size(); i++){
                 if(currentNode->neighbours.at(i)->station != nullptr){
                     //update distance from starting node to this node if shorter one is found
@@ -47,25 +48,27 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
                         currentNode->neighbours.at(i)->station->distance = tempDistance + currentNode->neighbours.at(i)->weight;
                     }
                     //update lowest weight to next node
-                    if(currentNode->neighbours.at(i)->station->visited == false && currentNode->neighbours.at(i)->weight <= currentLowestWeight){ 
+                    if(currentNode->neighbours.at(i)->station->visited == false && currentNode->neighbours.at(i)->weight < currentLowestWeight){ 
                         tempNode = currentNode->neighbours.at(i)->station;
                         currentLowestWeight = currentNode->neighbours.at(i)->weight;
                     }
-                    /*
+                    
                     if(currentNode->neighbours.at(i)->station->visited == false && currentNode->neighbours.at(i)->weight == currentLowestWeight){
                         candidates.emplace_back(tempNode);
                         candidates.emplace_back(currentNode->neighbours.at(i)->station);
                     }
-                    */
+                    
                 }
             }
             //TODO: Backtracking for final stops
             if(currentNode->neighbours.at(0)->station == nullptr || currentNode->neighbours.at(1)->station == nullptr){
+
                 currentNode->visited = true;
                 visitedNodes.emplace_back(currentNode);
                 currentLowestWeight = 999;
 
                 currentNode = backTracking(tempPath, tempDistance, currentNode);
+                tempPath.emplace_back(currentNode);
             }
             else if(currentNode->neighbours.at(0)->station->visited == true && currentNode->neighbours.at(1)->station->visited == true){
                 currentNode->visited = true;
@@ -73,15 +76,17 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
                 currentLowestWeight = 999;
 
                 currentNode = backTracking(tempPath, tempDistance, currentNode);
+                tempPath.emplace_back(currentNode);
             }
             else{
                 currentNode->visited = true;
                 visitedNodes.emplace_back(currentNode);
-                tempDistance += currentLowestWeight;
+                tempDistance += currentLowestWeight; 
                 currentLowestWeight = 999;
                 currentNode = tempNode;
-                tempPath.emplace_back(currentNode);
-                /*
+                //currentNode->distance = tempDistance;
+                //tempPath.emplace_back(currentNode);
+                
                 if(candidates.size() > 1){
                     srand(time(0));
                     int num = rand() % candidates.size();
@@ -91,9 +96,9 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
                     currentNode = tempNode;
                 }
                 tempPath.emplace_back(currentNode);
-                */
+                
             }
-        }while(visitedNodes.size() != graph.size());
+        }while(currentNode->name != dest->name);
     }
     return std::make_pair(tempPath, tempDistance);
 }
@@ -108,11 +113,12 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     dist = std::get<1>(result);
 
     //do{
-        result = Dijkstra(graph, start, dest, visitedNodes);
-    //        tempDist = std::get<1>(tempResult);
-    //    if(tempDist <= dist){
-    //        result.swap(tempResult);
-    //    }
+        tempResult = Dijkstra(graph, start, dest, visitedNodes);
+            tempDist = std::get<1>(tempResult);
+        if(tempDist <= dist){
+            result.swap(tempResult);
+        }
+        std::cout << visitedNodes.size() << " " << graph.size() << std::endl;
     //}while(visitedNodes.size() != graph.size());
 
     return result;

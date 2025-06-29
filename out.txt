@@ -1,276 +1,30 @@
-0x5fa54a0f0560 Westbahnhof 0
-0x5fa54a108c90 Gerstnerstrasse/Westbhf. 1
-0x5fa54a108d70 Staglgasse 2
-0x5fa54a108e20 Kranzgasse 4
-0x5fa54a108ed0 Rustengasse 5
-0x5fa54a108f80 Anschuetzgasse 6
-0x5fa54a109050 Winckelmannstrasse 7
-0x5fa54a109120 Penzinger Strasse 9
-0x5fa54a0fccf0 Schloss Schoenbrunn 10
-0x5fa54a0fb590 Hietzing, Kennedybruecke 11
-0x5fa54a0fcf80 Wenzgasse 11
-0x5fa54a0fd030 Fichtnergasse 12
-0x5fa54a0fd0e0 Verbindungsbahn 14
-0x5fa54a0fd190 Hummelgasse 15
-0x5fa54a1092d0 Linzer Strasse/Reinlgasse 14
-0x5fa54a1093b0 Diesterweggasse 15
-0x5fa54a109460 Ameisgasse 17
-0x5fa54a109510 Luetzowgasse 18
-0x5fa54a1095e0 Gusenleithnergasse 19
-0x5fa54a1096e0 Zehetnergasse/Linzer Strasse 20
-0x5fa54a109780 Gruschaplatz 21
-0x5fa54a109830 Hochsatzengasse/Linzer Strasse 23
-0x5fa54a108800 Baumgarten 24
-0x5fa54a108760 Hochsatzeng./Huetteldorfer Strasse 25
-0x5fa54a108650 Waidhausenstrasse 26
-0x5fa54a108580 Seckendorfstrasse 27
-0x5fa54a1084a0 Huetteldorfer Strasse/Luetzowg. 29
-0x5fa54a108390 Leyserstrasse 31
-0x5fa54a108300 Breitensee 32
-0x5fa54a0f07a0 Huetteldorfer Strasse 34
-0x5fa54a0f0710 Johnstrasse 35
-0x5fa54a1080c0 Huglgasse 37
-0x5fa54a0f0610 Schweglerstrasse 1
-0x5fa54a0fa300 Urban-Loritz-Platz 2
-0x5fa54a0f27c0 Burggasse-Stadthalle 2
-0x5fa54a0f2730 Thaliastrasse 40
-0x5fa54a107350 Brunnengasse 41
-0x5fa54a107270 Thaliastrasse/Haberlgasse 43
-0x5fa54a0fae90 Thaliastrasse/Fesstgasse 44
-0x5fa54a0f5ee0 J.-Nepomuk-Berger-Platz 45
-0x5fa54a0f5e20 Ottakringer Strasse/Wattgasse 46
-0x5fa54a0f5d20 Redtenbachergasse 48
-0x5fa54a0f0930 Ottakring 51
-0x5fa54a0f5ad0 Ottakringer Strasse/Erdbrustgasse 53
-0x5fa54a106eb0 Rankgasse 52
-0x5fa54a106de0 Joachimsthalerplatz 53
-0x5fa54a0f6080 Neulerchenf. Strasse/Brunnengasse 52
-0x5fa54a0f2660 Josefstaedter Strasse 41
-0x5fa54a0f6250 Albertgasse 55
-0x5fa54a0f8020 Florianigasse 56
-0x5fa54a0f7f70 Laudongasse 57
-0x5fa54a0f7ec0 Lange Gasse 58
-0x5fa54a105810 Landesgerichtsstrasse 59
-0x5fa54a102e10 Schottentor 61
-0x5fa54a102be0 Sensengasse 61
-0x5fa54a0f7d30 Spitalgasse/Waehringer Strasse 62
-0x5fa54a0f7c90 Nussdorfer Strasse/Alserbachstrasse 63
-0x5fa54a102980 Canisiusgasse 64
-0x5fa54a0f22e0 Nussdorfer Strasse 65
-0x5fa54a1027e0 Glatzgasse 66
-0x5fa54a102730 Guneschgasse 67
-0x5fa54a102650 Doeblinger Hptstrasse/Gatterburgg. 68
-0x5fa54a102540 Pokornygasse 69
-0x5fa54a102490 Barawitzkagasse 70
-0x5fa54a1023e0 Perntergasse 72
-0x5fa54a102370 Hohe Warte 73
-0x5fa54a103450 Gatterburggasse 72
-0x5fa54a103500 Silbergasse 74
-0x5fa54a1035b0 Oberdoebling 75
-0x5fa54a103660 Sieveringer Strasse 76
-0x5fa54a103730 Paradisgasse 77
-0x5fa54a1037c0 An den langen Luessen 78
-0x5fa54a1038c0 Grinzing 80
-0x5fa54a0f2500 Michelbeuern-AKH 80
-0x5fa54a0f25d0 Alser Strasse 56
-0x5fa54a0fab00 Elterleinplatz 80
-0x5fa54a0faa50 Blumengasse 81
-0x5fa54a0fa9a0 Vinzenzgasse 83
-0x5fa54a1054c0 Hildebrandgasse 82
-0x5fa54a1056b0 Antonigasse 84
-0x5fa54a105df0 Hernalser Hptstrasse/Wattgasse 84
-0x5fa54a105eb0 Hernals 86
-0x5fa54a105f60 Dornbach Guepferlingstrasse 88
-0x5fa54a106060 Dornbacher Strasse 89
-0x5fa54a106130 Himmelmutterweg 90
-0x5fa54a1061c0 Neuwaldegg 92
-0x5fa54a106b50 Wilhelminenstrasse/Sandleiteng. 91
-0x5fa54a106aa0 Roemergasse 92
-0x5fa54a1069e0 Wilhelminenstrasse/Wattg. 93
-0x5fa54a0fac60 Mayssengasse 47
-0x5fa54a106770 Frauengasse 96
-0x5fa54a1066e0 Yppengasse 97
-0x5fa54a1065e0 Hernalser Guertel 99
-0x5fa54a105a20 Bruennlbadgasse 82
-0x5fa54a105970 Skodagasse 59
-0x5fa54a1114d0 Liechtenwerder Platz 101
-0x5fa54a111420 Augasse 103
-0x5fa54a111390 Althanstrasse 104
-0x5fa54a0f7b80 Franz-Josefs-Bahnhof 65
-0x5fa54a1111f0 Seegasse 107
-0x5fa54a111140 Bauernfeldplatz 108
-0x5fa54a111090 Schlickgasse 109
-0x5fa54a110fb0 Boersegasse/Wipplingerstrasse 63
-0x5fa54a0f79f0 Klosterneubg S./Wallensteinstrasse 110
-0x5fa54a0f7890 Wallensteinplatz 111
-0x5fa54a101f30 Brigittaplatz 112
-0x5fa54a0f21a0 Jaegerstrasse 101
-0x5fa54a101020 Wexstrasse 114
-0x5fa54a1010d0 Gerhardusgasse 115
-0x5fa54a1011e0 Klosterneubg S./Wallensteinstr 117
-0x5fa54a1012a0 Gaussplatz 118
-0x5fa54a101370 Obere Augartenstrasse 120
-0x5fa54a101440 Obere Donaustrasse 122
-0x5fa54a0eebe0 Schottenring 63
-0x5fa54a0f41f0 Boerse 63
-0x5fa54a0f6b30 Karmeliterplatz 126
-0x5fa54a0f6a80 Gredlerstrasse 127
-0x5fa54a0ee130 Schwedenplatz 126
-0x5fa54a0ee080 Nestroyplatz 129
-0x5fa54a0edff0 Praterstern 127
-0x5fa54a0edba0 Vorgartenstrasse 131
-0x5fa54a0ede20 Donauinsel 133
-0x5fa54a0edd50 Kaisermuehlen-VIC 134
-0x5fa54a0edca0 Alte Donau 136
-0x5fa54a0edbf0 Kagran 137
-0x5fa54a0fd820 Prandaugasse 139
-0x5fa54a0fd720 Josef-Baumann-Gasse 141
-0x5fa54a0fd650 Carminweg 142
-0x5fa54a0fd5e0 Fultonstrasse 143
-0x5fa54a0f4f60 Hossplatz 145
-0x5fa54a0f1e90 Floridsdorf 147
-0x5fa54a0f1fd0 Handelskai 147
-0x5fa54a0f20a0 Dresdner Strasse 115
-0x5fa54a0f7210 Friedrich-Engels-Platz 149
-0x5fa54a100c60 Hubertusdamm 148
-0x5fa54a100ba0 Matthaeus-Jiszda-Strasse 149
-0x5fa54a0f6f10 Innstrasse 148
-0x5fa54a0f6e60 Rebhanngasse 149
-0x5fa54a0f6db0 Am Tabor 150
-0x5fa54a0f7700 Nordwestbahnstrasse 151
-0x5fa54a0f7800 Rauscherstrasse 113
-0x5fa54a0ff090 Nordbruecke 149
-0x5fa54a0ff140 Koloniestrasse 150
-0x5fa54a0ff1f0 Hopfengasse 152
-0x5fa54a0ff2a0 Winkelaeckerstrasse 153
-0x5fa54a0ff3a0 Autokaderstrasse 154
-0x5fa54a0ff480 Russbergstrasse 157
-0x5fa54a0ff510 Edmund-Hawranek-Platz 158
-0x5fa54a0ffd60 Bahnsteggasse 154
-0x5fa54a0ffc80 Bruenner Strasse 156
-0x5fa54a0ffbd0 Shuttleworthstrasse 157
-0x5fa54a0ffb00 Grossjedlersdorf 158
-0x5fa54a0ffa30 Carabelligasse 160
-0x5fa54a0ff970 Bruenner Strasse/Hanreiterg. 161
-0x5fa54a0ff880 Empergergasse 162
-0x5fa54a0ff7a0 Anton-Schall-Gasse 163
-0x5fa54a0ff6a0 Van-Swieten-Kaserne 164
-0x5fa54a0ff610 Stammersdorf 166
-0x5fa54a0edaf0 Kagraner Platz 139
-0x5fa54a0fea60 Kraygasse 167
-0x5fa54a0fe9d0 Forstnergasse 168
-0x5fa54a0fe900 Gewerbepark Stadlau 170
-0x5fa54a0fe840 Suessenbrunner Str/Oberfeldgasse 171
-0x5fa54a0fe730 Spargelfeldstrasse 172
-0x5fa54a0fe660 Ziegelhofstrasse 173
-0x5fa54a0fe590 Prinzgasse 174
-0x5fa54a0fe4e0 Zanggasse 175
-0x5fa54a0fe430 Am Heidjoechl 176
-0x5fa54a0fe380 Hausfeldstrasse 177
-0x5fa54a0ed970 Aderklaaer Strasse 176
-0x5fa54a0ed870 Grossfeldsiedlung 177
-0x5fa54a0ed760 Leopoldau 179
-0x5fa54a0fda10 Kagraner Bruecke 178
-0x5fa54a0fdb10 Arminenstrasse 180
-0x5fa54a0fdba0 Donaustadtstrasse 181
-0x5fa54a0fdca0 Polgarstrasse 183
-0x5fa54a0fdd30 Erzherzog-Karl-Strasse 184
-0x5fa54a0fde30 Konstanziagasse 186
-0x5fa54a0fdec0 Langobardenstrasse 187
-0x5fa54a0ef470 Hardeggasse 188
-0x5fa54a0ef1d0 Stadlau 189
-0x5fa54a0ef0d0 Donaustadtbruecke 191
-0x5fa54a0ef000 Donaumarina 192
-0x5fa54a0eef50 Stadion 194
-0x5fa54a0eeea0 Krieau 195
-0x5fa54a0eedf0 Messe-Prater 132
-0x5fa54a0fe160 Langobardenstrasse/Kapellenweg 195
-0x5fa54a0fe220 Trondheimgasse 196
-0x5fa54a0fe2d0 Oberdorfstrasse 197
-0x5fa54a0f4650 Radetzkyplatz 196
-0x5fa54a0f46e0 Hetzgasse 197
-0x5fa54a0f4790 Loewengasse 198
-0x5fa54a0f5050 Wittelsbachstrasse 200
-0x5fa54a0f5150 Prater Hauptallee 201
-0x5fa54a0f44d0 Julius-Raab-Platz 130
-0x5fa54a0f67b0 Weihburggasse 200
-0x5fa54a0f66d0 Schwarzenbergplatz 202
-0x5fa54a10f410 Am Heumarkt 203
-0x5fa54a10f4a0 Unteres Belvedere 205
-0x5fa54a10f5a0 Rennweg 207
-0x5fa54a10f630 Kleistgasse 208
-0x5fa54a10f6e0 Oberzellergasse 209
-0x5fa54a0f4be0 Sankt Marx 211
-0x5fa54a10f840 Litfassstrasse 213
-0x5fa54a10f8f0 Molitorgasse 214
-0x5fa54a0efbf0 Zippererstrasse 215
-0x5fa54a0efb40 Enkplatz 216
-0x5fa54a0f9390 Braunhubergasse 217
-0x5fa54a10fb00 Enkplatz U/Grillgasse 218
-0x5fa54a10fa50 Hauffgasse 217
-0x5fa54a0f9610 Polkorabplatz 219
-0x5fa54a0f96e0 Geiselbergstrasse 220
-0x5fa54a0f97b0 Geiereckstrasse 222
-0x5fa54a0f9840 Absberggasse 225
-0x5fa54a0f98f0 Gellertplatz 226
-0x5fa54a0f99d0 Quellenstrasse/Favoritenstrasse 228
-0x5fa54a0ee6c0 Reumannplatz 229
-0x5fa54a0ee440 Suedtirolerplatz 230
-0x5fa54a0ee340 Taubstummengasse 231
-0x5fa54a0ee290 Karlsplatz 233
-0x5fa54a0f3b70 Resselgasse 234
-0x5fa54a0f3ac0 Paulanergasse 235
-0x5fa54a0f3a30 Mayerhofgasse 237
-0x5fa54a10c8b0 Johann-Strauss-Gasse 238
-0x5fa54a0f3880 Laurenzgasse 239
-0x5fa54a0f37f0 Kliebergasse 240
-0x5fa54a0fc520 Blechturmgasse 241
-0x5fa54a0f4840 Hauptbahnhof 242
-0x5fa54a1122c0 Columbusplatz 243
-0x5fa54a1121e0 Laxenburger Strasse/Gudrunstrasse 245
-0x5fa54a0f9a90 Quellenplatz 230
-0x5fa54a10e5f0 Arthaberplatz 248
-0x5fa54a10e6a0 Laxenburger Strasse/Troststrasse 250
-0x5fa54a10e780 Troststrasse/Neilreichgasse 251
-0x5fa54a111e00 Migerkastrasse 252
-0x5fa54a10e940 Sahulkastrasse 250
-0x5fa54a10e9f0 Wienerfeldgasse 251
-0x5fa54a10eaa0 Froedenplatz 252
-0x5fa54a10eb70 Otto-Probst-Strasse 253
-0x5fa54a10ec40 Tesarekplatz 254
-0x5fa54a10ecd0 Otto-Probst-Platz 255
-0x5fa54a0f9c10 Bernhardtstalgasse 255
-0x5fa54a0f3640 Knoellgasse 256
-0x5fa54a0f3590 Davidgasse 257
-0x5fa54a0f34e0 Troststrasse 231
-0x5fa54a10e250 Schleiergasse 260
-0x5fa54a10e1a0 Altes Landgut 262
-0x5fa54a10df40 Alaudagasse 265
-0x5fa54a10ddb0 Adolf-Unger-Gasse 264
-0x5fa54a10dce0 Hubert-Gsur-Gasse 265
-0x5fa54a10dc20 Per-Albin-Hansson-Sdlg. Ost 266
-0x5fa54a10db10 Laaer-Berg-Strasse 267
-0x5fa54a10da40 Oberlaa - Therme Wien 269
-0x5fa54a0f3350 Stefan-Fadinger-Platz 268
-0x5fa54a0f49c0 Fasangasse 265
-0x5fa54a1125a0 Koelblgasse 209
-0x5fa54a0f4b50 Wildgansplatz 213
-0x5fa54a0f3dd0 Burgring 264
-0x5fa54a107890 Dr.-Karl-Renner-Ring 265
-0x5fa54a107a00 Stiftgasse 264
-0x5fa54a107ab0 Siebensterngasse 265
-0x5fa54a107c10 Neubaugasse/Westbahnstrasse 266
-0x5fa54a107cb0 Zieglergasse/Westbahnstrasse 268
-0x5fa54a0f8510 Kaiserstrasse/Westbahnstrasse 40
-0x5fa54a0f8410 Kaiserstrasse/Burggasse 270
-0x5fa54a0f8350 Kaiserstrasse/Neustiftgasse 271
-0x5fa54a0f8250 Lerchenfelder Strasse 272
-0x5fa54a0f8180 Blindengasse 56
-0x5fa54a0f40a0 Rathausplatz/Burgtheater 62
-0x5fa54a107630 Auerspergstrasse 269
-0x5fa54a1075a0 Strozzigasse 271
-0x5fa54a1074d0 Schottenfeldgasse 42
-0x5fa54a0f1520 Pilgramgasse 269
-0x5fa54a0f15b0 Margaretenguertel 271
-0x5fa54a0f2950 Gumpendorfer Strasse 1
-Distance: 272
+Backtracking
+Ottakring
+Backtracking
+Ottakring
+Backtracking
+Thaliastrasse/Maroltingerg.
+Backtracking
+Joachimsthalerplatz
+Backtracking
+Rankgasse
+Backtracking
+Huetteldorfer Strasse
+Backtracking
+Thaliastrasse/Maroltingerg.
+Backtracking
+Rankgasse
+18 451
+0x5995ebb5a930 Ottakring 0
+0x5995ebb5a930 Ottakring 0
+0x5995ebb5a8a0 Kendlerstrasse 1
+0x5995ebb5a7a0 Huetteldorfer Strasse 1
+0x5995ebb5a710 Johnstrasse 5
+0x5995ebb720c0 Huglgasse 7
+0x5995ebb5a7a0 Huetteldorfer Strasse 1
+0x5995ebb72300 Breitensee 6
+0x5995ebb72390 Leyserstrasse 9
+0x5995ebb724a0 Huetteldorfer Strasse/Luetzowg. 11
+0x5995ebb5a610 Schweglerstrasse 7
+0x5995ebb5a560 Westbahnhof 14
+Distance: 14
