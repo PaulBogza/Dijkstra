@@ -108,14 +108,14 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     int dist = 0;
     dist = std::get<1>(result);
 
-    do{
+    //do{
         tempResult = Dijkstra(graph, start, dest, visitedNodes);
             tempDist = std::get<1>(tempResult);
         if(tempDist <= dist){
             result.swap(tempResult);
         }
-        std::cout << visitedNodes.size() << " " << graph.size() << std::endl;
-    }while(visitedNodes.size() != graph.size());
+        //std::cout << visitedNodes.size() << " " << graph.size() << std::endl;
+    //}while(visitedNodes.size() != graph.size());
 
     return result;
 }
