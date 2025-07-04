@@ -1,83 +1,70 @@
-0x582e11b4b560 Westbahnhof 0
-0x582e11b63c90 Gerstnerstrasse/Westbhf. 1
-0x582e11b63d70 Staglgasse 2
-0x582e11b63e20 Kranzgasse 4
-0x582e11b63ed0 Rustengasse 5
-0x582e11b63f80 Anschuetzgasse 6
-0x582e11b64050 Winckelmannstrasse 7
-0x582e11b64120 Penzinger Strasse 9
-0x582e11b57cf0 Schloss Schoenbrunn 10
-0x582e11b56590 Hietzing, Kennedybruecke 12
-0x582e11b56650 Dommayergasse 13
-0x582e11b56700 Gloriettegasse 15
-0x582e11b567b0 Stadlergasse 19
-0x582e11b56880 Jagdschlossgasse 21
-0x582e11b56950 Preyergasse 23
-0x582e11b569e0 Hofwiesengasse 24
-0x582e11b56a90 Wattmanngasse 25
-0x582e11b68470 Atzgersdorfer Strasse 27
-0x582e11b68390 Rosenhuegelstrasse 29
-0x582e11b68290 Schloss Hetzendorf 30
-0x582e11b681e0 Hetzendorf 32
-0x582e11b68150 Sonnergasse 35
-0x582e11b680a0 Wienerbergbruecke 37
-0x582e11b67fd0 Bahnhof Meidling 39
-0x582e11b67f00 Doerfelstrasse 40
-0x582e11b67e50 Assmayergasse 42
-0x582e11b67db0 Flurschuetzstrasse/Laengenfeldg. 43
-0x582e11b67c50 Marx-Meidlinger-Strasse 44
-0x582e11b54e40 Eichenstrasse 46
-0x582e11b4e6f0 Matzleinsdorfer Platz 48
-0x582e11b4e640 Knoellgasse 49
-0x582e11b54c10 Bernhardtstalgasse 50
-0x582e11b54b40 Neilreichgasse 51
-0x582e11b54a90 Quellenplatz 52
-0x582e11b549d0 Quellenstrasse/Favoritenstrasse 54
-0x582e11b496c0 Reumannplatz 64
-0x582e11b49630 Keplerplatz 65
-0x582e11b49440 Suedtirolerplatz 67
-0x582e11b49340 Taubstummengasse 68
-0x582e11b49290 Karlsplatz 70
-0x582e11b4eb70 Resselgasse 71
-0x582e11b4eac0 Paulanergasse 72
-0x582e11b4ea30 Mayerhofgasse 74
-0x582e11b678b0 Johann-Strauss-Gasse 75
-0x582e11b4e880 Laurenzgasse 76
-0x582e11b4e7f0 Kliebergasse 50
-0x582e11b57520 Blechturmgasse 78
-0x582e11b4f840 Hauptbahnhof 79
-0x582e11b4f8f0 Quartier Belvedere 82
-0x582e11b4f9c0 Fasangasse 83
-0x582e11b6d5a0 Koelblgasse 85
-0x582e11b6a5a0 Rennweg 87
-0x582e11b6a630 Kleistgasse 88
-0x582e11b6a6e0 Oberzellergasse 89
-0x582e11b4fbe0 Sankt Marx 91
-0x582e11b6a840 Litfassstrasse 93
-0x582e11b6a8f0 Molitorgasse 94
-0x582e11b4abf0 Zippererstrasse 95
-0x582e11b4aca0 Gasometer 96
-0x582e11b4ad50 Erdberg 125
-0x582e11b4ae20 Schlachthausgasse 126
-0x582e11b4af20 Kardinal-Nagl-Platz 127
-0x582e11b4b000 Rochusgasse 129
-0x582e11b4b090 Landstrasse 131
-0x582e11b4b140 Stubentor 132
-0x582e11b517b0 Weihburggasse 133
-0x582e11b516d0 Schwarzenbergplatz 135
-0x582e11b4ecd0 Kaerntner Ring, Oper 73
-0x582e11b4edd0 Burgring 140
-0x582e11b62890 Dr.-Karl-Renner-Ring 141
-0x582e11b62700 Schmerlingplatz 142
-0x582e11b62630 Auerspergstrasse 143
-0x582e11b625a0 Strozzigasse 145
-0x582e11b624d0 Schottenfeldgasse 147
-0x582e11b4d730 Thaliastrasse 149
-0x582e11b62350 Brunnengasse 150
-0x582e11b62270 Thaliastrasse/Haberlgasse 152
-0x582e11b55e90 Thaliastrasse/Fesstgasse 153
-0x582e11b50ee0 J.-Nepomuk-Berger-Platz 154
-0x582e11b50e20 Ottakringer Strasse/Wattgasse 155
-0x582e11b50d20 Redtenbachergasse 157
-0x582e11b4b930 Ottakring 162
-Distance: 162
+0x5c65b615d560 Westbahnhof 0
+0x5c65b615d610 Schweglerstrasse 1
+0x5c65b6168260 Beingasse 2
+0x5c65b6167300 Urban-Loritz-Platz 2
+0x5c65b615f7c0 Burggasse-Stadthalle 2
+0x5c65b615f730 Thaliastrasse 5
+0x5c65b615f660 Josefstaedter Strasse 6
+0x5c65b6163250 Albertgasse 7
+0x5c65b6163310 Lederergasse/Josefstaedter Strasse 8
+0x5c65b615ba80 Rathaus 10
+0x5c65b615b9d0 Volkstheater 11
+0x5c65b615b920 Museumsquartier 12
+0x5c65b615b290 Karlsplatz 13
+0x5c65b6160b70 Resselgasse 14
+0x5c65b6160ac0 Paulanergasse 15
+0x5c65b6160a30 Mayerhofgasse 17
+0x5c65b6160930 Johann-Straus-Gasse 18
+0x5c65b6160880 Laurenzgasse 20
+0x5c65b61607f0 Kliebergasse 21
+0x5c65b6169520 Blechturmgasse 22
+0x5c65b6161840 Hauptbahnhof 23
+0x5c65b617f2c0 Columbusplatz 24
+0x5c65b617f1e0 Laxenburger Strasse/Gudrunstrasse 26
+0x5c65b6166a90 Quellenplatz 28
+0x5c65b6166b40 Neilreichgasse 29
+0x5c65b6166c10 Bernhardtstalgasse 30
+0x5c65b6160640 Knoellgasse 31
+0x5c65b61606f0 Matzleinsdorfer Platz 23
+0x5c65b6166e40 Eichenstrasse 34
+0x5c65b6179c50 Marx-Meidlinger-Strasse 36
+0x5c65b6179db0 Flurschuetzstrasse/Laengenfeldg. 63
+0x5c65b6179e50 Assmayergasse 64
+0x5c65b6179f00 Doerfelstrasse 66
+0x5c65b6179fd0 Bahnhof Meidling 67
+0x5c65b617a0a0 Wienerbergbruecke 69
+0x5c65b617a150 Sonnergasse 71
+0x5c65b617a1e0 Hetzendorf 74
+0x5c65b617a290 Schloss Hetzendorf 76
+0x5c65b617a390 Rosenhuegelstrasse 77
+0x5c65b617a470 Atzgersdorfer Strasse 79
+0x5c65b6168a90 Wattmanngasse 81
+0x5c65b61689e0 Hofwiesengasse 82
+0x5c65b6168950 Preyergasse 83
+0x5c65b6168880 Jagdschlossgasse 85
+0x5c65b61687b0 Stadlergasse 87
+0x5c65b6168700 Gloriettegasse 88
+0x5c65b6168650 Dommayergasse 90
+0x5c65b6168590 Hietzing, Kennedybruecke 91
+0x5c65b6169cf0 Schloss Schoenbrunn 97
+0x5c65b6176120 Penzinger Strasse 98
+0x5c65b6176230 Johnstrasse/Linzer Strasse 100
+0x5c65b61762d0 Linzer Strasse/Reinlgasse 101
+0x5c65b61763b0 Diesterweggasse 102
+0x5c65b6176460 Ameisgasse 104
+0x5c65b6176510 Luetzowgasse 105
+0x5c65b61765e0 Gusenleithnergasse 106
+0x5c65b61766e0 Zehetnergasse/Linzer Strasse 107
+0x5c65b6176780 Gruschaplatz 108
+0x5c65b6176830 Hochsatzengasse/Linzer Strasse 110
+0x5c65b6175800 Baumgarten 111
+0x5c65b6175760 Hochsatzeng./Huetteldorfer Strasse 112
+0x5c65b6175650 Waidhausenstrasse 113
+0x5c65b6175580 Seckendorfstrasse 114
+0x5c65b61754a0 Huetteldorfer Strasse/Luetzowg. 116
+0x5c65b6175390 Leyserstrasse 118
+0x5c65b6175300 Breitensee 119
+0x5c65b615d7a0 Huetteldorfer Strasse 121
+0x5c65b615d8a0 Kendlerstrasse 122
+0x5c65b615d930 Ottakring 123
+Distance: 123
