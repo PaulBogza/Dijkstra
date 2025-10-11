@@ -43,7 +43,7 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
             for(int i = 0; i < currentNode->neighbours.size(); i++){
                 if(currentNode->neighbours.at(i)->station != nullptr){
                     //update distance from starting node to this node if shorter one is found
-                    if(currentNode->neighbours.at(i)->station->distance > tempDistance + currentNode->neighbours.at(i)->weight){
+                    if(currentNode->neighbours.at(i)->station->visited == false && currentNode->neighbours.at(i)->station->distance > tempDistance + currentNode->neighbours.at(i)->weight){
                         currentNode->neighbours.at(i)->station->distance = tempDistance + currentNode->neighbours.at(i)->weight;
                     }
                     //update lowest weight to next node
