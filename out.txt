@@ -1,70 +1,13 @@
-0x55f5fead1560 Westbahnhof 0
-0x55f5fead1610 Schweglerstrasse 1
-0x55f5feadc260 Beingasse 2
-0x55f5feadb300 Urban-Loritz-Platz 2
-0x55f5fead37c0 Burggasse-Stadthalle 2
-0x55f5fead3730 Thaliastrasse 5
-0x55f5fead3660 Josefstaedter Strasse 6
-0x55f5fead7250 Albertgasse 7
-0x55f5fead7310 Lederergasse/Josefstaedter Strasse 8
-0x55f5feacfa80 Rathaus 10
-0x55f5feacf9d0 Volkstheater 11
-0x55f5feacf920 Museumsquartier 12
-0x55f5feacf290 Karlsplatz 13
-0x55f5fead4b70 Resselgasse 14
-0x55f5fead4ac0 Paulanergasse 15
-0x55f5fead4a30 Mayerhofgasse 17
-0x55f5fead4930 Johann-Straus-Gasse 18
-0x55f5fead4880 Laurenzgasse 20
-0x55f5fead47f0 Kliebergasse 21
-0x55f5feadd520 Blechturmgasse 22
-0x55f5fead5840 Hauptbahnhof 23
-0x55f5feaf32c0 Columbusplatz 24
-0x55f5feaf31e0 Laxenburger Strasse/Gudrunstrasse 26
-0x55f5feadaa90 Quellenplatz 28
-0x55f5feadab40 Neilreichgasse 29
-0x55f5feadac10 Bernhardtstalgasse 30
-0x55f5fead4640 Knoellgasse 31
-0x55f5fead46f0 Matzleinsdorfer Platz 23
-0x55f5feadae40 Eichenstrasse 34
-0x55f5feaedc50 Marx-Meidlinger-Strasse 36
-0x55f5feaeddb0 Flurschuetzstrasse/Laengenfeldg. 63
-0x55f5feaede50 Assmayergasse 64
-0x55f5feaedf00 Doerfelstrasse 66
-0x55f5feaedfd0 Bahnhof Meidling 67
-0x55f5feaee0a0 Wienerbergbruecke 69
-0x55f5feaee150 Sonnergasse 71
-0x55f5feaee1e0 Hetzendorf 74
-0x55f5feaee290 Schloss Hetzendorf 76
-0x55f5feaee390 Rosenhuegelstrasse 77
-0x55f5feaee470 Atzgersdorfer Strasse 79
-0x55f5feadca90 Wattmanngasse 81
-0x55f5feadc9e0 Hofwiesengasse 82
-0x55f5feadc950 Preyergasse 83
-0x55f5feadc880 Jagdschlossgasse 85
-0x55f5feadc7b0 Stadlergasse 87
-0x55f5feadc700 Gloriettegasse 88
-0x55f5feadc650 Dommayergasse 90
-0x55f5feadc590 Hietzing, Kennedybruecke 91
-0x55f5feaddcf0 Schloss Schoenbrunn 97
-0x55f5feaea120 Penzinger Strasse 98
-0x55f5feaea230 Johnstrasse/Linzer Strasse 100
-0x55f5feaea2d0 Linzer Strasse/Reinlgasse 101
-0x55f5feaea3b0 Diesterweggasse 102
-0x55f5feaea460 Ameisgasse 104
-0x55f5feaea510 Luetzowgasse 105
-0x55f5feaea5e0 Gusenleithnergasse 106
-0x55f5feaea6e0 Zehetnergasse/Linzer Strasse 107
-0x55f5feaea780 Gruschaplatz 108
-0x55f5feaea830 Hochsatzengasse/Linzer Strasse 110
-0x55f5feae9800 Baumgarten 111
-0x55f5feae9760 Hochsatzeng./Huetteldorfer Strasse 112
-0x55f5feae9650 Waidhausenstrasse 113
-0x55f5feae9580 Seckendorfstrasse 114
-0x55f5feae94a0 Huetteldorfer Strasse/Luetzowg. 116
-0x55f5feae9390 Leyserstrasse 118
-0x55f5feae9300 Breitensee 119
-0x55f5fead17a0 Huetteldorfer Strasse 121
-0x55f5fead18a0 Kendlerstrasse 122
-0x55f5fead1930 Ottakring 123
-Distance: 123
+Tempdist: 25
+Dist: 999
+visited nodes size: 6
+Tempdist: 1802
+Dist: 999
+visited nodes size: 25
+0x5f1ca6496080 U3 Ottakring 0
+0x5f1ca6495fd0 U3 Kendlerstrasse 1
+0x5f1ca6495eb0 U3 Huetteldorfer Strasse 2
+0x5f1ca6495e00 U3 Johnstrasse 4
+0x5f1ca6495ce0 U3 Schweglerstrasse 9
+0x5f1ca6495c10 U3 Westbahnhof 17
+Distance: 25

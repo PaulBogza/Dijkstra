@@ -46,14 +46,19 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
                     if(currentNode->neighbours.at(i)->station->visited == false && currentNode->neighbours.at(i)->station->distance > tempDistance + currentNode->neighbours.at(i)->weight){
                         currentNode->neighbours.at(i)->station->distance = tempDistance + currentNode->neighbours.at(i)->weight;
                     }
-                    //update lowest weight to next node
-                    if(currentNode->neighbours.at(i)->station->visited == false && currentNode->neighbours.at(i)->weight < currentLowestWeight){ 
+                }
+            }
+            for(int i = 0; i < currentNode->neighbours.size(); i++){
+                //Pick node with lowest distance to move to
+                if(currentNode->neighbours.at(i)->station != nullptr){
+                    if(currentNode->neighbours.at(i)->station->visited == false && currentNode->neighbours.at(i)->station->distance < currentLowestWeight){ 
                         tempNode = currentNode->neighbours.at(i)->station;
-                        currentLowestWeight = currentNode->neighbours.at(i)->weight;
+                        currentLowestWeight = currentNode->neighbours.at(i)->station->distance;
                         found = true;
                     }
                 }
             }
+
             if(found == false){
                 currentNode->visited = true;
                 visitedNodes.emplace_back(currentNode);
@@ -85,13 +90,20 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     int dist = 0;
     dist = std::get<1>(result);
 
-    //do{
+    do{
         tempResult = Dijkstra(graph, start, dest, visitedNodes);
-        //    tempDist = std::get<1>(tempResult);
-        //if(tempDist <= dist){
+        tempDist = std::get<1>(tempResult);
+        std::cout << "Tempdist: " << tempDist << std::endl;
+        std::cout << "Dist: " << dist << std::endl;
+        std::cout << "visited nodes size: " << visitedNodes.size() << std::endl;
+        if(tempDist <= dist){
             result.swap(tempResult);
-        //}
-    //}while(visitedNodes.size() != graph.size());
+        }
+        else{
+            break;
+        }
+        tempDist = 0;
+    }while(visitedNodes.size() != graph.size());
 
     return result;
 }

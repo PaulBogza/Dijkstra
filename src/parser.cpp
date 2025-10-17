@@ -6,7 +6,7 @@
 #include <memory>
 #include "../include/parser.hpp"
 
-Node* createNode(std::string stationName, int weight){
+Node* createNode(std::string lineName, std::string stationName, int weight){
     Node *newNode = new Node;
     Edge *newNextEdge = new Edge;
     Edge *newPrevEdge = new Edge;
@@ -16,6 +16,7 @@ Node* createNode(std::string stationName, int weight){
     newNode->neighbours.emplace_back(newNextEdge);
     newNode->neighbours.emplace_back(newPrevEdge);
 
+    newNode->line = lineName;
     newNode->name = stationName;
 
     return newNode;
@@ -45,7 +46,7 @@ void parseAndAdd(std::string line, std::vector<Node*> &graph){
             line.erase(0, line.find(weightDelimiter) + weightDelimiter.length()+1);
         }
 
-        currentNode = createNode(stationName, weight);
+        currentNode = createNode(lineName, stationName, weight);
 
         if(prevNode != nullptr){
             prevNode->neighbours.at(0)->station = currentNode;
