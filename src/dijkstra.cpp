@@ -43,17 +43,17 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
             for(int i = 0; i < currentNode->neighbours.size(); i++){
                 if(currentNode->neighbours.at(i)->station != nullptr){
                     //update distance from starting node to this node if shorter one is found
-                    if(currentNode->neighbours.at(i)->station->visited == false && currentNode->neighbours.at(i)->station->distance > tempDistance + currentNode->neighbours.at(i)->weight){
-                        currentNode->neighbours.at(i)->station->distance = tempDistance + currentNode->neighbours.at(i)->weight;
+                    if(currentNode->neighbours.at(i)->station->distance > currentNode->distance + currentNode->neighbours.at(i)->weight){
+                        currentNode->neighbours.at(i)->station->distance = currentNode->distance + currentNode->neighbours.at(i)->weight;
                     }
                 }
             }
             for(int i = 0; i < currentNode->neighbours.size(); i++){
                 //Pick node with lowest distance to move to
                 if(currentNode->neighbours.at(i)->station != nullptr){
-                    if(currentNode->neighbours.at(i)->station->visited == false && currentNode->neighbours.at(i)->station->distance < currentLowestWeight){ 
+                    if(currentNode->neighbours.at(i)->station->visited == false && currentNode->neighbours.at(i)->weight < currentLowestWeight){ 
                         tempNode = currentNode->neighbours.at(i)->station;
-                        currentLowestWeight = currentNode->neighbours.at(i)->station->distance;
+                        currentLowestWeight = currentNode->neighbours.at(i)->weight;
                         found = true;
                     }
                 }
@@ -75,6 +75,7 @@ std::tuple<std::vector<Node*>, int> Dijkstra(const std::vector<Node*> &graph, co
                 currentNode = tempNode;
                 tempPath.emplace_back(currentNode);
             }
+            //std::cout << "Node: " << tempNode->line << " " << tempNode->name << " " << tempNode->distance << std::endl;
             found = false;
         }while(currentNode->name != dest->name);
     }
@@ -90,20 +91,24 @@ std::tuple<std::vector<Node*>, int> findPath(const std::vector<Node*> &graph, co
     int dist = 0;
     dist = std::get<1>(result);
 
-    do{
-        tempResult = Dijkstra(graph, start, dest, visitedNodes);
-        tempDist = std::get<1>(tempResult);
+    //do{
         std::cout << "Tempdist: " << tempDist << std::endl;
         std::cout << "Dist: " << dist << std::endl;
         std::cout << "visited nodes size: " << visitedNodes.size() << std::endl;
+
+        tempResult = Dijkstra(graph, start, dest, visitedNodes);
+        tempDist = std::get<1>(tempResult);
+
         if(tempDist <= dist){
             result.swap(tempResult);
         }
+        /*
         else{
             break;
         }
-        tempDist = 0;
-    }while(visitedNodes.size() != graph.size());
+        */
+        //tempDist = 0;
+    //}while(visitedNodes.size() != graph.size());
 
     return result;
 }

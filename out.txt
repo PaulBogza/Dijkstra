@@ -1,13 +1,53 @@
-Tempdist: 25
+Tempdist: 0
 Dist: 999
-visited nodes size: 6
-Tempdist: 1802
-Dist: 999
-visited nodes size: 25
-0x5f1ca6496080 U3 Ottakring 0
-0x5f1ca6495fd0 U3 Kendlerstrasse 1
-0x5f1ca6495eb0 U3 Huetteldorfer Strasse 2
-0x5f1ca6495e00 U3 Johnstrasse 4
-0x5f1ca6495ce0 U3 Schweglerstrasse 9
-0x5f1ca6495c10 U3 Westbahnhof 17
-Distance: 25
+visited nodes size: 0
+0x5b58cdc29080 U3 Ottakring 0
+0x5b58cdc28fd0 U3 Kendlerstrasse 1
+0x5b58cdc28eb0 U3 Huetteldorfer Strasse 2
+0x5b58cdc28e00 U3 Johnstrasse 3
+0x5b58cdc28ce0 U3 Schweglerstrasse 5
+0x5b58cdc28c10 U3 Westbahnhof 6
+0x5b58cdc28b40 U3 Zieglergasse 7
+0x5b58cdc28a70 U3 Neubaugasse 8
+0x5b58cdc26cc0 U2 Volkstheater 10
+0x5b58cdc26d90 U2 Rathaus 11
+0x5b58cdc3dda0 38 Schottentor 13
+0x5b58cdc2cfb0 1 Rathausplatz/Burgtheater 14
+0x5b58cdc2ce50 1 Stadiongasse/Parlament 14
+0x5b58cdc43400 49 Dr.-Karl-Renner-Ring 12
+0x5b58cdc2cc80 1 Burgring 13
+0x5b58cdc2cb60 1 Kaerntner Ring, Oper 15
+0x5b58cdc2f960 2 Schwarzenbergplatz 17
+0x5b58cdc4bfe0 71 Am Heumarkt 18
+0x5b58cdc4c090 71 Unteres Belvedere 20
+0x5b58cdc4c1b0 71 Rennweg 22
+0x5b58cdc4c260 71 Kleistgasse 23
+0x5b58cdc4c330 71 Oberzellergasse 24
+0x5b58cdc2dcf0 18 Sankt Marx 26
+0x5b58cdc2ddc0 18 Viehmarktgasse 28
+0x5b58cdc2de90 18 Baumgasse 29
+0x5b58cdc28390 U3 Schlachthausgasse 30
+0x5b58cdc284b0 U3 Kardinal-Nagl-Platz 31
+0x5b58cdc285b0 U3 Rochusgasse 32
+0x5b58cdc28660 U3 Landstrasse 34
+0x5b58cdc28730 U3 Stubentor 35
+0x5b58cdc263d0 U1 Stephansplatz 20
+0x5b58cdc264a0 U1 Karlsplatz 12
+0x5b58cdc26570 U1 Taubstummengasse 20
+0x5b58cdc26690 U1 Suedtirolerplatz 21
+0x5b58cdc268a0 U1 Keplerplatz 23
+0x5b58cdc26950 U1 Reumannplatz 24
+0x5b58cdc333c0 6 Quellenstrasse/Favoritenstrasse 25
+0x5b58cdc332c0 6 Gellertplatz 27
+0x5b58cdc331f0 6 Absberggasse 28
+0x5b58cdc33140 6 Geiereckstrasse 31
+0x5b58cdc33050 6 Geiselbergstrasse 33
+0x5b58cdc32f60 6 Polkorabplatz 34
+0x5b58cdc32e80 6 Gottschalkgasse/Enkplatz 35
+0x5b58cdc28030 U3 Enkplatz 36
+0x5b58cdc28100 U3 Zippererstrasse 37
+0x5b58cdc4c740 71 Hauffgasse 39
+0x5b58cdc4c810 71 Enkplatz U/Grillgasse 38
+0x5b58cdc32c80 6 Braunhubergasse 37
+0x5b58cdc27f80 U3 Simmering 37
+Distance: 480
